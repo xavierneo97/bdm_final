@@ -1,0 +1,995 @@
+place_id,latitude,longitude,name,vicinity,rating,user_ratings_total,community_district,percent_food_insecurity,safegraph_placekey,safegraph_name
+ChIJ-dW2jFdYwokRvlPWp_0GR28,40.7647599,-73.98469949999999,Gristedes,"907 8th Ave, New York",3.8,384,104,11.8499653118592,228-222@627-s8r-66k,Gristedes
+ChIJw_nz8LlZwokRmqV8XDTlEXk,40.7470808,-74.0011597,Gristedes,"225 9TH AVE, W 24th St, New York",3.4,174,104,11.8499653118592,22j-222@627-s8j-bff,Gristedes
+ChIJNYsUfLBZwokRZFy4KU8TLgA,40.7475543,-73.9974252,Gristedes,"307 W 26TH ST &, 8th Ave, New York",3.3,130,104,11.8499653118592,zzy-222@627-s8j-99f,Gristedes
+ChIJucv6UgpZwokRc_1ic0idaSw,40.7378369,-73.9801146,MORTON WILLIAMS SUPERMARKETS,"313 E 23rd St, New York",3.7,253,106,8.66066773343509,zzy-222@627-s8j-t9z,Morton Williams Supermarkets
+ChIJ009fxrtZwokRil2jg6rDi2c,40.74445300000001,-73.99954199999999,Gristedes,"225 8th Ave, New York",3.6,194,104,11.8499653118592,zzy-223@627-s8j-6p9,Gristedes
+ChIJlTWmZvdYwokROyEKYwbPEwo,40.7647437,-73.97891659999999,MORTON WILLIAMS SUPERMARKETS,"140 W 57th St, New York",4.4,950,105,9.25346357443941,zzy-222@627-s8r-ysq,Morton Williams Supermarkets
+ChIJGWK0cVJYwokRjrjYSgwPdMo,40.7598426,-73.994374,The Food Emporium,"452 W 43rd St, New York",3.7,826,104,11.8499653118592,22t-222@627-wbv-kpv,The Food Emporium
+ChIJuxB7FqFZwokRZM2omDcGNb0,40.7394127,-73.98725379999999,Morton Williams Supermarkets,"278 Park Ave S, New York",3.6,240,105,9.25346357443941,zzy-223@627-s8h-tvz,Morton Williams Supermarkets
+ChIJC3uw4bBZwokRRfZx1CYDMFM,40.7500302,-73.99897399999999,Ideal Marketplace,"317 9th Ave, New York",4.1,667,104,11.8499653118592,zzy-225@627-wbt-qj9,Ideal Market Place
+ChIJscem9QlZwokRYogeDXCCzhk,40.7402591,-73.9818792,D'agostino Supermarkets Inc,"341 3rd Ave, New York",3.4,160,106,8.66066773343509,23b-222@627-s8j-syv,D'Agostino
+ChIJX3XWzOpZwokRlfdNVjB69bo,40.7372222,-74.0066667,D'Agostino Grocery Store,"790 Greenwich St, New York",3.6,250,102,8.99536670810261,22f-222@627-wbn-gp9,D'Agostino
+ChIJyxroO1pYwokRu4j-wuqnzvM,40.7676091,-73.990207,D'Agostino at 54th Street,"815 10th Ave, New York",3.7,291,104,11.8499653118592,227-223@627-s4r-3yv,D'Agostino
+ChIJt0do0o5ZwokRHawo_4dMPjM,40.7617385,-73.98619040000001,Super,"810 8th Ave, New York",0,0,105,9.25346357443941,22h-222@627-s8r-85f,The Food Emporium
+ChIJl0rtoARZwokRP1qORrPYYxQ,40.737356,-73.9731943,Gristedes,"25 Waterside Plaza, New York",2.2,16,106,8.66066773343509,zzy-222@627-s8j-s5z,Gristedes
+ChIJi6wqqaVZwokRGr5R0dVtAbg,40.7445028,-73.99142499999999,Fairway Market of Chelsea,"766 6th Ave, New York",4.2,1814,105,9.25346357443941,22k-222@627-s8h-y5f,Fairway Market
+ChIJa_pcDRVZwokRr7s1g2oSjRY,40.7354528,-73.97995569999999,D’Agostino at 20th Street,"355 1st Ave., New York",3.6,187,106,8.66066773343509,22q-222@627-s8j-4vz,D'Agostino
+ChIJabm8wlhYwokRGwnWxb9HbtY,40.7689628,-73.9852025,MORTON WILLIAMS SUPERMARKETS,"917 9th Ave, New York",4,452,107,10.2984372078011,zzw-224@627-s4r-2kz,Morton Williams Supermarkets
+ChIJVY3s0ghZwokR6e1D8qjJL1k,40.74235609999999,-73.9772637,Fairway Market Kips Bay,"550 2nd Ave, New York",4.3,2050,106,8.66066773343509,zzw-223@627-s8j-whq,Fairway Market
+ChIJu9jzyANbwokRIb60wMQSvqQ,40.7449592,-73.99529129999999,Whole Foods Market,"250 7th Ave, New York",4.2,2404,104,11.8499653118592,22k-222@627-s8j-9xq,Whole Foods Market
+ChIJp6AneL9ZwokRPd5UojufmsI,40.7430701,-74.00571599999999,Western Beef Supermarket,"431 W 16th St, New York",3.6,273,104,11.8499653118592,224-223@627-wbn-b49,Western Beef
+ChIJWcCBntxZwokRL1USGv-jU9o,40.74841550000001,-73.97637809999999,D'Agostino at 38th Street,"578 3rd Ave, New York",4.1,114,106,8.66066773343509,zzy-222@627-s8j-pd9,D'Agostino
+ChIJC2AqwapZwokR2O17hSVPjrE,40.7545529,-73.984657,Whole Foods Market,"1095 6th Ave, New York",4.4,5311,105,9.25346357443941,222-224@627-s8r-dn5,Whole Foods Market
+ChIJl0rtoARZwokR_gup7UNdhTY,40.7486172,-73.9727333,Gristedes,"748 2nd Ave, New York",3.8,197,106,8.66066773343509,22k-222@627-s8r-2hq,Gristedes
+ChIJEVzKxrJZwokR9P9raTunFws,40.7561226,-73.9964617,Brooklyn Fare,"431 W 37th St, New York",4.4,362,104,11.8499653118592,22d-222@627-wbv-h5z,Brooklyn Fare
+ChIJpQ_bA5pZwokR8d0QzoqvBcQ,40.7317925,-73.99441019999999,Gristedes,"25 University Pl, New York",3.8,141,102,8.99536670810261,22n-222@627-wc7-vcq,Gristedes
+ChIJ-5S9p6xZwokR8ANHDymasg8,40.7553548,-73.98904019999999,jacks. - W 40th St,"223 W 40th St, New York",4.3,752,105,9.25346357443941,zzy-224@627-wbv-grk,Jacks
+ChIJBz8RyL1ZwokRvf0Zs7jtv7g,40.7395444,-73.9992279,West Village Finest Deli,"84 7th Ave, New York",0,0,104,11.8499653118592,234-222@627-s8j-ht9,West Village Finest Deli
+ChIJvaMqIvZYwokR9tb1ok27g8U,40.7685526,-73.9831866,Whole Foods Market,"10 Columbus Circle Ste Sc101, New York",4.3,2923,107,10.2984372078011,225-224@627-s4r-2tv,Whole Foods Market
+ChIJXx687flYwokR2WalPJD48Zs,40.7632035,-73.97774369999999,Ernest Klein & Co's Gourmet Food,"1366 6th Ave, New York",4.1,247,105,9.25346357443941,22d-222@627-s8r-9cq,Ernest Klein and Co's Gourmet Food Company
+ChIJuWO59FZYwokRDbvnB6y8iBg,40.7617385,-73.98619040000001,The Food Emporium & Amish Kitchen,"810 8th Ave, New York",4,1316,105,9.25346357443941,22h-222@627-s8r-85f,The Food Emporium
+ChIJvV7ksVJYwokRPYAfjoujX1k,40.757015,-73.99399199999999,Terra Market,"533 9th Ave, New York",4.4,43,104,11.8499653118592,22p-223@627-wbv-fzz,Hell's Kitchen Deli
+ChIJ3xZbsp5ZwokRRvzkWV-pP1U,40.7318431,-73.98865459999999,Westside Market NYC,"84 3rd Ave, New York",4.4,775,103,17.9323946238924,22b-222@627-s8j-3dv,Westside Market
+ChIJ9YHLXlpYwokRCQBAzRQI72w,40.767725,-73.99156400000001,The Market @ Mercedes House,"550 W 54th St, New York",4.5,139,104,11.8499653118592,226-226@627-wbv-ckf,The Market At Mercedes House
+ChIJhxUXQkxYwokRy4IsJWsC-2Q,40.7607137,-73.9987215,Sunac Natural Market | Midtown west Deli | Supermarket,"600 W 42nd St, New York",4.3,998,104,11.8499653118592,zzw-223@627-wbt-n89,SUNAC Natural Market
+ChIJETaG-VhYwokRJEEjuGqzJAg,40.76805239999999,-73.9853624,57th Market Deli Grocery,"363 W 57th St #1, New York",2.8,18,104,11.8499653118592,224-222@627-s4r-2p9,57th Fruit & Vegetable Market
+ChIJ8Q8dGLxZwokRMfpjqwgcO2E,40.75683679999999,-73.98214279999999,Supermarket News,"1166 6th Ave #10, New York",3.7,9,105,9.25346357443941,242-222@627-s8r-cdv,Marsh &amp McLennan Cafeteria
+ChIJH_ZOmghZwokRa20TcxP_Bfs,40.7439882,-73.97908389999999,Trader Joe's,"200 E 32nd St, New York",4.5,3560,106,8.66066773343509,zzw-224@627-s8j-nbk,Trader Joe's
+ChIJ44IfeSBawokR6DE4cMG2uTQ,40.7556248,-73.9924147,MaxDelivery,"318 W 39th St, New York",4.9,1001,104,11.8499653118592,225-224@627-wbv-gkz,Salsa Deli
+ChIJpysMKVFYwokRm1kPPjW3JHk,40.7633251,-73.9894255,Amish Market,"731 9th Ave, New York",4.5,639,104,11.8499653118592,226-222@627-s8r-75z,Amish Market West
+ChIJbxybqVpYwokRGxep1ZIXax0,40.7666638,-73.9943029,51 Food Market,"721 11th Ave, New York",3.1,13,104,11.8499653118592,zzw-223@627-wbv-8vz,51 Food Market
+ChIJgVBe97lZwokRQvYzlXRptec,40.7471296,-74.0010848,Gristedes Pharmacy,"225 9th Ave, New York",3,8,104,11.8499653118592,22j-222@627-s8j-bff,Gristedes
+ChIJXzYPJ3VZwokRkCMMrN_fG7E,40.7341324,-73.9800949,Gracefully Inc,"320 1st Ave., New York",4,207,106,8.66066773343509,236-222@627-s8j-4jv,Gracefully
+ChIJbcsU2ZFZwokRL9esxzwOzEE,40.7277826,-73.9987835,MORTON WILLIAMS SUPERMARKETS,"130 Bleecker St, New York",4,541,102,8.99536670810261,22c-222@627-wc7-rp9,Morton Williams Supermarkets
+ChIJnZaSeSRawokR7gAPHfAeJh0,40.7108765,-74.0002319,CTown Supermarkets,"5 St James Pl, New York",3.8,428,103,17.9323946238924,224-222@627-wc8-yvz,C Town Supermarkets
+ChIJSxJS4HlZwokR1RIP2fu3yH4,40.7246356,-73.9786598,Associated Supermarkets of Alphabet City,"123 Loisaida Ave, New York",3.8,191,103,17.9323946238924,232-222@627-s8k-q9f,Associated Supermarkets
+ChIJBcFjIHFZwokRfUnr8tR8SCU,40.726728,-73.97639579999999,CTown Supermarkets,"188 Avenue C, New York",3.9,387,103,17.9323946238924,222-222@627-s8k-fxq,C Town Supermarkets
+ChIJARxMbNVbwokRtgu2aPYoT_8,40.7139858,-73.9806191,Fine Fare Supermarkets,"545 Grand St, New York",3.7,529,103,17.9323946238924,225-223@627-wc9-cbk,Fine Fair Supermarket
+ChIJY74BA8lbwokR4BrWjkFJf0w,40.7024337,-73.9903113,Dumbo Market,"66 Front St, Brooklyn",4.5,264,302,13.3904746681599,zzw-223@627-wc8-j5f,Dumbo Market
+ChIJ0-tO2jdawokRIYNjSYXAgbk,40.6978849,-73.9926259,Gristedes,"101 Clark St, Brooklyn",3.2,160,302,13.3904746681599,zzy-224@627-wc9-2tv,Gristedes
+ChIJOWVTySJawokRWpvg58PCzvY,40.7087181,-74.00471859999999,Key Food Supermarket Fulton,"55 Fulton St, New York",4.2,1130,101,7.19732123498881,222-223@627-wbz-vfz,55 Fulton Market
+ChIJay5TvShawokRN57j6xon6ho,40.7136495,-73.9941358,New York Marts,"75 E Broadway, New York",3.8,198,103,17.9323946238924,22v-223@627-wc9-mtv,New York Supermarket East Broadway
+ChIJ9xbqYYhZwokR-JbUtPyRtb0,40.719605,-73.995969,Grand Win Supermarket Inc,"162 Mott St, New York",4.8,5,102,8.99536670810261,235-222@627-wc7-xwk,Mon Win Food Market Corp
+ChIJA6sY7IJZwokRxp8qLVci8JA,40.72400320000001,-73.984763,Key Food Urban Marketplace,"52 Avenue A, New York",4.2,995,103,17.9323946238924,22b-222@627-s8k-r8v,Key Food
+ChIJNejms39ZwokRqv5JQZQqPn4,40.7171382,-73.9804011,Key Food Supermarkets,"43 Columbia St, New York",3.8,678,103,17.9323946238924,22f-222@627-s8k-vmk,Key Food
+ChIJCevk6ChawokR1vKA4O1EfMI,40.71369869999999,-73.9928845,Chinatown Supermarket of Manhattan,"109 E Broadway, New York",4,313,103,17.9323946238924,22x-222@627-wc9-n5z,Chinatown Supermarket Of Manhattan
+ChIJ240dbipawokRxlZFa4L1fTc,40.7156249,-73.9871454,Metro Acres Market,"175 Clinton St, New York",3.5,372,103,17.9323946238924,22f-222@627-wc9-nyv,Fine Fare Supermarkets
+ChIJu_v7u9xZwokRU0MP_AbCAac,40.7232516,-73.9960976,Mulberry Market NYC,"251 Mulberry St, New York",4.5,130,102,8.99536670810261,238-223@627-wc7-3wk,Mulberry Market
+ChIJ_2plXD1awokRGHC_fgD3uWE,40.7082431,-74.0063359,Jubilee Market Place on John,"99 John St, New York",4.2,755,101,7.19732123498881,225-222@627-wbz-s3q,Jubilee Marketplace
+ChIJU4XPH4hZwokRYmUU3Q0KE50,40.717605,-73.9960273,Hong Kong Supermarket,"157 Hester St, New York",4,2561,102,8.99536670810261,23b-222@627-wc7-8gk,Hong Kong Supermarket
+ChIJUyfNA2dZwokRIeP8LZRIVRk,40.7194478,-73.9628871,Brooklyn Harvest Market,"25 N 5th St, Brooklyn",4.3,372,301,16.8487727632621,226-222@627-s8m-bff,Brooklyn Harvest Market
+ChIJlRjiAIhZwokR_0EuV1SWpPM,40.7174681,-73.9949346,Super A Mart 利興食品公司,"101 Bowery, New York",3.5,2,103,17.9323946238924,zzw-228@627-wc7-8gk,Super A Mart
+ChIJaxvWroVZwokReqjdeMaSIF4,40.7223638,-73.9859359,Union Market,"240 E Houston St, New York",4.3,594,103,17.9323946238924,22b-222@627-s8k-rhq,Union Market
+ChIJN4Ag_iZawokR2eEy_vU9-ew,40.7152805,-73.9979141,59 Bayard Market,"59 Bayard St A, New York",5,1,103,17.9323946238924,24f-222@627-wc7-5vf,59 Bayard Market
+ChIJqR59FN1bwokRBMinwJyQl-8,40.703557,-73.9616363,Bedford Garden Supermarket,"104 Ross St # A, Brooklyn",4.1,56,301,16.8487727632621,226-223@627-s96-d7q,D G Discount Supermarket
+ChIJi_RdOYhZwokRHmfg-gYbNiY,40.7184476,-73.9966566,Fresh Market,"132 Mott St, New York",4.4,11,102,8.99536670810261,22c-224@627-wc7-8d9,iFRESH Market
+ChIJQ5yUr4VZwokRbMN-yaOarmc,40.7238246,-73.99231019999999,Whole Foods Market,"95 E Houston St, New York",4.2,2445,103,17.9323946238924,22c-222@627-wc8-2kz,Whole Foods Market
+ChIJodKAei5ZwokR78G0hT3POLQ,40.7239984,-73.9761113,Pioneer,"119 Avenue D, New York",3.9,119,103,17.9323946238924,228-223@627-s8k-c5z,Pioneer Supermarkets
+ChIJQfaVUnRZwokR4dTnjnfe4RU,40.7207406,-73.9982597,Food Mart,"189 Lafayette St, New York",5,1,102,8.99536670810261,22z-222@627-wc6-z75,The Goods Mart
+ChIJE04wjCBawokRgugDZrTSxGU,40.7174704,-74.0033272,Gourmet Garage of Tribeca,"366 Broadway, New York",4.1,236,101,7.19732123498881,zzw-222@627-wc7-9mk,Gourmet Garage
+ChIJVw-nqtlbwokRPCFpRC4_SgM,40.7109939,-73.9682784,City Acres Market,"11 Broadway, Brooklyn",4.2,607,301,16.8487727632621,224-222@627-s96-89z,City Acres Market
+ChIJmRhammBZwokRqJpBz1rziLY,40.71532699999999,-73.959566,Foodtown of Williamsburg,"159 N 3rd St, Brooklyn",4.2,579,301,16.8487727632621,22w-222@627-s96-z9f,Foodtown
+ChIJPWPIPohZwokRT8UQVzKe9PQ,40.71850389999999,-73.9966318,New York Mart,"128 Mott St, New York",4,1078,102,8.99536670810261,22c-224@627-wc7-8d9,iFRESH Market
+ChIJSQLCCYhZwokRAqUQq4-Kivw,40.7180556,-73.9946923,Tan Tin Hung Supermarket,"121 Bowery, New York",4.3,178,103,17.9323946238924,233-222@627-wc7-ygk,Tan Tin Hung Supermarket
+ChIJrcmqJIhZwokRY8BJobH7xEY,40.71815240000001,-73.9967534,Deluxe Meat Market,"122 Mott St, New York",4,36,102,8.99536670810261,23m-223@627-wc7-835,Wen De Food Company Corporation
+ChIJB-f4FSdawokRYMxFAzL8ApM,40.7163431,-73.9993156,Sun Vin Grocery Store,"75 Mulberry St, New York",4.4,57,103,17.9323946238924,22n-222@627-wc7-5xq,Sun Vin Grocery
+ChIJGzxzbidawokR9vNKERzJCog,40.7168163,-73.9984181,New Kam Man Supermarket,"200 Canal St, New York",4.2,635,103,17.9323946238924,233-224@627-wc7-89z,New Kam Man
+ChIJn53xMoFZwokRbyn94tbCqno,40.7196235,-73.9889144,Food Stop,"117 Ludlow St, New York",4.3,8,103,17.9323946238924,zzw-225@627-wc7-zvf,Perfect Picnic NYC
+ChIJAdIkFyZawokR9DIOJsdmkdA,40.7134159,-73.99563560000001,51 E Broadway Market Inc,"51 E Broadway, New York",3,1,103,17.9323946238924,22d-222@627-wc7-6ff,New Long Hing Market
+ChIJqR59FN1bwokRbBykPpO77rU,40.7035348,-73.9616149,D G Discount Supermarket Corporation,"104 Ross St # A, Brooklyn",5,1,301,16.8487727632621,226-223@627-s96-d7q,D G Discount Supermarket
+ChIJ1YJX9ZFZwokRC_-qnQHM-v0,40.7290776,-74.0006519,Bleecker Grocery & Convenience,"177 Bleecker St, New York",4.3,11,102,8.99536670810261,238-222@627-wc8-4jv,Bleecker's Finest Deli
+ChIJAT8wvWj2wokReKT8uGa_bYI,40.8196215,-73.95497639999999,CTown Supermarkets,"3320 Broadway, New York",4,242,109,16.3542684551834,zzw-224@627-s4t-5cq,C Town Supermarkets
+ChIJa34jOWr2wokRHifnNJZfc_E,40.814658,-73.95779499999999,C-Town Fresh Market,"560 W 125th St, New York",4.1,642,109,16.3542684551834,22g-222@627-s4s-cbk,C Town Supermarkets
+ChIJt5iH2eL1wokR8QdYCh6PUGA,40.7982278,-73.9335368,Fine Fare Supermarkets,"2330 1st Ave., New York",3.6,277,111,22.439747289603,222-222@627-s4v-v4v,Fine Fare Supermarkets
+ChIJVWuk5Gr2wokRqvu2Zr5J_iY,40.8123567,-73.9573358,Foodtown of Morningside Heights,"1316 Amsterdam Ave, New York",3.9,473,109,16.3542684551834,224-222@627-s4s-mc5,Foodtown
+ChIJVT8lagX2wokREcF1Mr0GN0c,40.8037702,-73.95431719999999,CTown Supermarkets,"238 W 116th St, New York",3.9,316,110,19.8007938291021,22v-222@627-s4v-975,C Town Supermarkets
+ChIJfXL5GyH2wokREZJGwUpnzjk,40.7946027,-73.9634696,Associated Supermarket of Manhattan Valley,"13 15 W 100th St, New York",4,139,107,10.2984372078011,22g-222@627-s4m-9cq,Associated Supermarkets
+ChIJ88OvsQn2wokRGQDD9kx6Wek,40.8009359,-73.9380789,City Fresh Market,"2212 3rd Ave #3536, New York",4.1,857,111,22.439747289603,22d-222@627-s4v-mzf,City Fresh Market
+ChIJg8fdcRr2wokR4WVcMs4tfkI,40.7994444,-73.9519871,Fine Fare Supermarkets,"37 Malcolm X Blvd, New York",3.8,418,110,19.8007938291021,22g-222@627-s4v-7kf,Shop Fair
+ChIJWeXHbHP2wokRpjinxzc2SiI,40.8104796,-73.9431991,Pioneer Supermarkets of Harlem,"380 Malcolm X Blvd, New York",3.8,617,110,19.8007938291021,22k-222@627-s6g-73q,Pioneer Supermarkets
+ChIJsewAG4VYwokRC7rbYSpmUpE,40.7855306,-73.9730917,Gristedes,"504 Columbus Ave, New York",3.5,221,107,10.2984372078011,23q-222@627-s4n-ct9,Gristedes
+ChIJx5-q0D72wokR-98xbWUpdMY,40.8076824,-73.96459089999999,MORTON WILLIAMS SUPERMARKETS,"2941 Broadway, New York",3.5,251,109,16.3542684551834,zzy-223@627-s4m-75z,Morton Williams Supermarkets
+ChIJHQ3ogXb2wokRVFPEIw4AT8w,40.8132259,-73.939129,Fine Fare Supermarkets,"24 W 135th St, New York",3.6,293,110,19.8007938291021,223-222@627-s6g-66k,Fine Fare Supermarkets
+ChIJVaQ-EVD3wokRfw-TP-PKFYs,40.8096016,-73.9482664,Shop Fair Supermarkets,"2110 Adam Clayton Powell Jr Blvd, New York",4,136,110,19.8007938291021,229-222@627-s4w-3qz,Shop Fair
+ChIJRV5jyhH2wokRE6qG4-8z0_Q,40.798374,-73.9462071,Fine Fare Supermarkets,"1718 Madison Ave, New York",4,298,111,22.439747289603,228-223@627-s4t-t9z,Fine Fare Supermarkets
+ChIJ8-66MNz1wokR3I0vInL7kGw,40.79061,-73.94516340000001,Fine Fare Supermarkets,"1891 3rd Ave, New York",4.2,569,111,22.439747289603,22b-222@627-s4v-33q,Fine Fare Supermarkets
+ChIJEefDrAj2wokRhYRYyXVD5gc,40.7989774,-73.9418024,City Fresh Market,"125 E 116th St, New York",4.2,632,111,22.439747289603,228-222@627-s4t-xkf,City Fresh Market
+ChIJ7QUAcmv2wokRyL8ic6V6B6w,40.8121417,-73.9548528,Harlem Fresh Market by Key Food,"421 W 125th St, New York",4,623,109,16.3542684551834,225-222@627-s4s-mhq,Key Food
+ChIJs8zFgEX3wokRLwZrHexf1EE,40.800794,-73.937478,Foodtown of East Harlem,"2211 3rd Ave, New York",4.4,595,111,22.439747289603,zzw-222@627-s4v-ndv,Foodtown
+ChIJX-7Ja4RYwokRIZaFXJbh37w,40.7874953,-73.9754212,Key Food Supermarkets,"530 Amsterdam Ave, New York",3.9,197,107,10.2984372078011,225-222@627-s4k-mhq,Key Food
+ChIJxXfStgL2wokRoe6ItxdpmvU,40.7905603,-73.9472333,Ideal Food Basket,"1635 Lexington Ave, New York",4.3,536,111,22.439747289603,238-222@627-s4v-2p9,Ideal Food Basket
+ChIJnbRCj6ZYwokRF-p7c9N612U,40.785759,-73.951216,Food Universe Marketplace,"1486 Lexington Ave, New York",3.9,283,108,7.74121687473894,22c-222@627-s4n-kvf,Food Universe Marketplace
+ChIJd3RnZnr2wokRG09BsNRm9GQ,40.8196777,-73.9439039,Key Food Supermarkets,"2630 Frederick Douglass Blvd, New York",3.9,362,110,19.8007938291021,22v-222@627-s6g-26k,Key Food
+ChIJ80cfcTv2wokRx50S2iq9Hf4,40.8042918,-73.9662615,Westside Market NYC,"2840 Broadway, New York",4.3,1800,109,16.3542684551834,228-222@627-s4m-4jv,Westside Market
+ChIJvXWtn3f2wokRQqLoZxGv3Sc,40.8169438,-73.9384434,Key Food Supermarkets,"592 Malcolm X Blvd, New York",3.7,628,110,19.8007938291021,zzw-224@627-s6f-zj9,Key Food
+ChIJ6fBblnn2wokREc0NG-qOHQk,40.8199552,-73.9406341,Associated Fresh Market of 7th Avenue,"2444 Adam Clayton Powell Jr Blvd, New York",3.9,89,110,19.8007938291021,224-222@627-s6f-ygk,Associated Supermarkets
+ChIJYX8zqiL2wokRlvbqSyfohm0,40.8008246,-73.9593431,Central Markets,"300 W 110th St, New York",3.8,273,107,10.2984372078011,225-222@627-s4v-7wk,Central Markets
+ChIJPVguNAL2wokRLboYsUE74Jo,40.7911217,-73.9431148,City Fresh Market,"235 E 106th St #4005, New York",4.1,223,111,22.439747289603,zzw-222@627-s4t-zcq,City Fresh Market
+ChIJJb_tpEj3wokR_i0RKzBbKoY,40.81240529999999,-73.94180659999999,Food Dynasty Supermarkets,"448 Malcolm X Blvd, New York",4.1,179,110,19.8007938291021,22y-223@627-s6g-7bk,Food Dynasty
+ChIJN9MCsalYwokR8ADWpO9TH3k,40.7874647,-73.9443082,Cherry Valley Marketplace,"1968 2nd Ave, New York",4,1233,111,22.439747289603,zzw-222@627-s4v-3bk,Cherry Valley Marketplace
+ChIJQRo0BG72wokRSHybc3U3QzQ,40.814659,-73.94812,Foodtown of Frederick Douglas Blvd,"2463 Frederick Douglass Boulevard at, W 132nd St, New York",3.8,473,110,19.8007938291021,zzy-223@627-s4t-8sq,Foodtown
+ChIJ22pZZhX2wokR6_-XFNOPUiE,40.8093936,-73.95889939999999,Appletree Market,"1225 Amsterdam Ave, New York",3.7,177,109,16.3542684551834,zzw-222@627-s4s-j35,Apple Tree Supermarket
+ChIJtckOHnn2wokRNREpX3H2XgY,40.8213889,-73.9388889,Fine Fare Supermarkets,"2497 Adam Clayton Powell Jr Blvd, New York",3.8,403,110,19.8007938291021,227-224@627-s6g-35z,Pioneer Supermarket
+ChIJLR5_qwH2wokR5gEXj1w_1fg,40.7905032,-73.9389806,FARM COUNTRY,"2076 1st Ave., New York",4.1,336,111,22.439747289603,224-222@627-s4v-4vz,Farm Country
+ChIJ2zmi0gT2wokRnFKB8Dp1hK4,40.796423,-73.9476263,NYC Fresh Market,"1660 Madison Ave, New York",3.6,189,111,22.439747289603,zzw-222@627-s4t-w8v,NYC Fresh Market
+ChIJiVmnFQ32wokReCy0KguVOpw,40.8076461,-73.9461771,Whole Foods Market,"100 W 125th St, New York",4.2,3002,110,19.8007938291021,22d-225@627-s4v-xt9,Whole Foods Market
+ChIJPW1qMjv2wokR5At5Y4I__iI,40.8022622,-73.96735269999999,Garden of Eden Marketplace,"2780 Broadway, New York",4.1,265,107,10.2984372078011,22d-222@627-s4m-49z,Garden of Eden
+ChIJFbRD06ZYwokRA7hzHKUTvoE,40.787586,-73.95373699999999,Lane Farms Market,"1391 Madison Ave # 3, New York",4.4,28,111,22.439747289603,226-222@627-s4n-qs5,Lane Farm's Market
+ChIJx_bQ5wL3wokR8brRhF1O9VU,40.8061105,-73.9542503,Lidl,"2187 Frederick Douglass Blvd, New York",4.3,119,110,19.8007938291021,22v-222@627-s4s-jn5,Best Market
+ChIJcxklv2X2wokRGAiyl1eQQOU,40.8221377,-73.9529275,Food Universe Marketplace,"538 W 138th St, New York",4,650,109,16.3542684551834,zzw-222@627-s4t-389,Food Universe Marketplace
+ChIJja1RVoJYwokR1pkbQ_Z7cH4,40.7913671,-73.9745009,Barzini's,"2451 Broadway, New York",3.7,223,107,10.2984372078011,zzy-222@627-s4k-pd9,Barzini
+ChIJsaT1Edv1wokRafk7Q_xeJbM,40.8126472,-73.9264185,Western Beef Supermarket,"301 Morris Ave, Bronx",4.1,974,201,25.357904566075,222-222@627-s6f-vvf,Western Beef
+ChIJ-6ZxFif2wokRaRaETTJc_9Q,40.7939667,-73.9671163,Whole Foods Market,"808 Columbus Ave, New York",4.2,2228,107,10.2984372078011,zzw-224@627-s4m-cqz,Whole Foods Market
+ChIJLUmujRpawokR3UcxkapDrNU,40.7106778,-74.0164422,Gristedes,"315 South End Ave, New York",3.4,126,101,7.19732123498881,225-222@627-wc2-5j9,Gristedes
+ChIJDQ3ALEZawokRdV83gbc-REo,40.6949016,-73.9954578,Key Food Supermarkets,"102 Montague St, Brooklyn",3.8,246,302,13.3904746681599,22w-222@627-wc3-ct9,Key Food
+ChIJdy6FcE9awokRw0w4zU-ULtA,40.6903995,-73.99414030000001,Key Food - Atlantic Avenue,"169 Atlantic Ave, Brooklyn",3.8,295,302,13.3904746681599,22z-222@627-wc3-b6k,Key Food
+ChIJhS5Yr09awokR44Umk8YfdIY,40.6895837,-73.9928699,Trader Joe's,"130 Court St, Brooklyn",4.5,4984,306,10.886166172325,235-222@627-wc3-9zz,Trader Joe's
+ChIJiSqkRFn6ZUARaMOXUoskcNM,40.6846073,-73.99943689999999,Key Food Marketplace,"486 Henry St, Brooklyn",3.9,201,306,10.886166172325,236-222@627-wc2-gx5,Key Food
+ChIJ3R48wiZawokREvCZcKzmLZ8,40.714554,-73.999344,Bangkok Center Grocery,"104 Mosco St, New York",4.7,204,103,17.9323946238924,23k-222@627-wc7-5j9,Bangkok Center Grocery
+ChIJD2WpxeZbwokRb6kRLU2kKt4,40.7153157,-73.997993,Wing Fat,"61 Bayard St, New York",0,0,103,17.9323946238924,24f-222@627-wc7-5vf,59 Bayard Market
+ChIJ4-6CIohZwokR0PcvfO7kI2Q,40.718038,-73.996262,Deluxe Food Market,"79 Elizabeth St, New York",4.2,533,102,8.99536670810261,237-222@627-wc7-8gk,Deluxe Food Market
+ChIJmcJlCKpbwokRmD5_nKDTUBY,40.6843524,-73.9951452,Union Market,"288 Court St, Brooklyn",4.2,405,306,10.886166172325,22n-222@627-wc3-gff,Union Market
+ChIJc8pOHU1awokRwld5I90vIQ4,40.68877820000001,-73.9858627,Brooklyn Fare,"200 Schermerhorn St, Brooklyn",4.3,809,302,13.3904746681599,22n-222@627-s8y-66k,Brooklyn Fare
+ChIJD5XsK7VbwokR9-HPSNMNrYo,40.6934435,-73.98295949999999,NYC Fresh Market,"150 Myrtle Ave, Brooklyn",3.7,605,302,13.3904746681599,224-222@627-wc8-p5f,NYC Fresh Market
+ChIJc7ATdUpawokRkTIux4DskVc,40.6965516,-73.9873513,Concord Market,"91 Tillary St, Brooklyn",3.8,280,302,13.3904746681599,223-222@627-wc8-pn5,Concord Market
+ChIJW49k_UhawokRlMvJQrANFbQ,40.6938324,-73.9919388,Fresh Start Marketplace,"180 Montague St, Brooklyn",4.1,267,302,13.3904746681599,22j-223@627-wc3-d35,Fresh Start
+ChIJd0SndOZbwokR5KltaCBjOcU,40.706347,-74.0073462,City Acres Market,"70 Pine St, New York",4.2,483,101,7.19732123498881,zzw-222@627-wbz-rtv,City Acres Market
+ChIJZd0F3oxZwokRiaEouMZKQ-0,40.7257485,-74.0048949,Trader Joe's,"233 Spring St, New York",4.7,1392,102,8.99536670810261,zzw-224@627-wc7-45f,Trader Joe's
+ChIJ9zjD4vhZwokRjJ0Tp5SWtf0,40.7229537,-74.0026987,Gourmet Garage of SOHO,"489 Broome St, New York",4,218,102,8.99536670810261,22m-222@627-wc6-yd9,Gourmet Garage
+ChIJ8xNU3exZwokRxUB9Eja0bm4,40.7321288,-74.00789739999999,Brooklyn Fare,"666 Greenwich St, New York",4.4,369,102,8.99536670810261,22r-222@627-wc8-575,Brooklyn Fare
+ChIJ90vZnpBZwokRIU-yi8A_y18,40.7308738,-73.9952212,Space Market,"1 University Pl # 1, New York",4.3,67,102,8.99536670810261,22c-223@627-wc7-v2k,Space Market
+ChIJXZqQhV9ZwokRjjQsn3e7dzs,40.712588,-73.9574276,CTown Supermarkets,"130 Havemeyer St, Brooklyn",3.6,392,301,16.8487727632621,zzw-222@627-s96-v2k,C Town Supermarkets
+ChIJw73YXD9ZwokRyN5gg4Lnohk,40.7319198,-73.9548616,CTown Supermarkets,"953 Manhattan Ave, Brooklyn",4,293,301,16.8487727632621,zzw-222@627-s8f-435,C Town Supermarkets
+ChIJvU8G7CJZwokR2z-3o4qt3Jg,40.7434432,-73.958277,Urban Market,"50-01 2nd St, Long Island City",4.1,298,402,9.6269337502557,zzw-223@627-s8d-ty9,Urban Market
+ChIJ-VYyzkZZwokRLaDlVih5Qzs,40.7280228,-73.9529423,Associated Supermarkets of Greenpoint,"802 Manhattan Ave, Brooklyn",3.7,137,301,16.8487727632621,236-222@627-s8g-q75,Associated Supermarkets
+ChIJwdELkOJYwokRgSJOA1wL2Mo,40.7537722,-73.9690028,Morton Williams Supermarkets,"908 2nd Ave, New York",4.1,906,106,8.66066773343509,237-222@627-s8q-ysq,Morton Williams Supermarkets
+ChIJNZWUaOFYwokRPeRdkNZz7tI,40.7559023,-73.96447069999999,D'Agostino at 53rd Street,"966 1st Ave., New York",3.8,119,106,8.66066773343509,22f-222@627-s8r-sbk,D'Agostino
+ChIJ0dtMz-ZYwokRo0RsQAlsIyw,40.7579254,-73.96348809999999,MORTON WILLIAMS SUPERMARKETS,"1031 1st Ave., New York",4.1,433,106,8.66066773343509,22t-222@627-s8r-qmk,Morton Williams Supermarkets
+ChIJ01Pln29ZwokRcuuKGnxwkEc,40.7436655,-73.9951853,Westside Market NYC,"170 W 23rd St, New York",4.4,205,104,11.8499653118592,zzw-22j@627-s8j-9zz,Westside Market
+ChIJoxzKCzJZwokREJ5H_04qC3A,40.7351214,-73.9862825,Westside Market NYC,"180 3rd Ave, New York",4.2,140,106,8.66066773343509,zzy-228@627-s8h-zs5,Westside Market
+ChIJaTt-ywJZwokRp8aWnZvJLRQ,40.7518441,-73.9714553,Amish Market,"240 E 45th St, New York",4.4,499,106,8.66066773343509,22h-222@627-s8q-yqf,The Amish Market
+ChIJF9lZMyJZwokRRMRyCnyUhOM,40.7455501,-73.9563318,Foodcellar Market,"4-85 47th Rd, Queens",3.9,478,402,9.6269337502557,223-222@627-s8d-x89,Foodcellar Market
+ChIJBxSM6r1ZwokRhPDCBwi4jlE,40.7387517,-73.99907639999999,Westside Market NYC,"77 7th Ave, New York",4.2,760,104,11.8499653118592,zzw-222@627-s8j-hwk,Westside Market
+ChIJ5U3z65ZZwokRntjySncc3Tg,40.7343679,-73.99871689999999,Citarella Gourmet Market - West Village,"424 6th Ave, New York",4.3,685,102,8.99536670810261,zzw-224@627-s8j-fvf,Citarella Gourmet Market West Village
+ChIJa5oiKJ9ZwokR4EX7HlQSstY,40.733371,-73.9878966,Trader Joe's,"142 E 14th St, New York",4.4,4325,103,17.9323946238924,229-223@627-s8j-2zf,Trader Joe's
+ChIJOy2CoCtZwokRYndaLFGUgO8,40.7472085,-74.0013378,R & L Grocery,"410 W 24th St, New York",5,4,104,11.8499653118592,22j-222@627-s8j-bff,Gristedes
+ChIJdS_1Q-hYwokRvwfGxNtPfEQ,40.7634759,-73.95888289999999,Gristedes,"1208 1st Ave., New York",3.4,224,108,7.74121687473894,zzw-223@627-s8n-7dv,Gristedes
+ChIJb1v6iDFZwokRmPxisDhffPE,40.76169,-73.963301,NEXT TO YOU MARKET,"1158 2nd Ave, New York",4.3,6,108,7.74121687473894,22v-224@627-s8r-vmk,Nex2U Market
+ChIJvYILMORYwokRywGbSMh9b_c,40.7593039,-73.9663868,Whole Foods Market,"226 E 57th St, New York",4.2,2036,106,8.66066773343509,22j-222@627-s8r-s5z,Whole Foods Market
+ChIJQyEH0ehYwokRdBbXzsOGYmQ,40.7644128,-73.964848,Morton Williams Supermarkets,"1066 3rd Ave, New York",4.1,621,108,7.74121687473894,22v-222@627-s8r-jy9,Morton Williams Supermarkets
+ChIJg4OMoMFYwokRTxs3OH9NQGg,40.7673667,-73.9565889,MORTON WILLIAMS SUPERMARKETS,"1331 1st Ave., New York",4,574,108,7.74121687473894,22f-222@627-s8n-bhq,Morton Williams Supermarkets
+ChIJ54xCElhZwokRUFGlkOugKXw,40.7698251,-73.9603611,MORTON WILLIAMS SUPERMARKETS,"1251 3rd Ave, New York",4.1,135,108,7.74121687473894,zzy-224@627-s4n-49z,Morton Williams Supermarkets
+ChIJEfwHf8BYwokRzpIRFgb_rxk,40.7708656,-73.95657489999999,Gristedes,"1446 2nd Ave, New York",3.8,169,108,7.74121687473894,22x-222@627-s4n-28v,Gristedes
+ChIJeQV-K-pYwokRg-MRkkwTfaI,40.7675,-73.9619444,The Food Emporium,"1175 3rd Ave, New York",3.8,251,108,7.74121687473894,zzy-223@627-s8r-nkf,The Food Emporium
+ChIJRfeDWbhYwokRweCvpaeJl-I,40.7720175,-73.9502899,D'Agostino at 80th & York,"1507 York Ave, New York",3.4,258,108,7.74121687473894,22b-222@627-s4n-5vf,D'Agostino
+ChIJW0IsvnFZwokRvc_5nuewZBE,40.7721229,-73.9904864,Morton Williams Supermarkets,"15 West End Ave, New York",4,168,107,10.2984372078011,zzy-222@627-s4r-3kf,Morton Williams Supermarkets
+ChIJk4Y0poP2wokRztPMZV1YW3U,40.8350471,-73.9393805,CTown Supermarkets,"1016 St Nicholas Ave, New York",4.1,743,112,16.6491244856952,224-222@627-s6f-6hq,C Town Supermarkets
+ChIJRyy21M31wokRJ7Te0wVFfF0,40.8203772,-73.9216215,Fine Fare Supermarkets,"675 Morris Ave, Bronx",3.9,341,201,25.357904566075,222-224@627-s6g-cqz,Fine Fare Supermarkets
+ChIJFZyFn8X1wokR3b-x3HRD3YY,40.8144757,-73.9213027,CTown Supermarkets,"2733 3rd Ave., Bronx",3.8,303,201,25.357904566075,226-222@627-s6g-jd9,C Town Supermarkets
+ChIJRQ-_A4j2wokReuz7vVTk4Lc,40.8292461,-73.9478894,CTown Supermarkets,"3632 Broadway, New York",3.8,430,109,16.3542684551834,22f-222@627-s6d-fmk,C Town Supermarkets
+ChIJ7ZMkOID2wokRekU63qr3crE,40.8294305,-73.9373255,Fine Fare Supermarkets,"2927 Frederick Douglass Blvd #1304, New York",3.8,320,110,19.8007938291021,226-222@627-s6f-4d9,2927 8 Av Corporation
+ChIJPRhKFMP1wokRn8vhnFSfGfU,40.8092114,-73.9224917,Pioneer Supermarkets of Willis,"250 Willis Ave, Bronx",3.5,544,201,25.357904566075,227-222@627-s6f-wx5,Pioneer Supermarkets
+ChIJIUH3ejr0wokR7rqbxVyB2HY,40.8356397,-73.920541,Fine Fare Supermarkets,"59 E 167th St, Bronx",3.9,297,204,22.3113299111211,zzw-223@627-s69-5xq,Corona Food Plaza
+ChIJgfKTRjP0wokRMrMGJYuCNPI,40.82520780000001,-73.9196679,FOOD BAZAAR,"238 E 161 St, Bronx",4.3,2731,204,22.3113299111211,zzw-223@627-s6g-fmk,Food Bazaar Supermarket
+ChIJRaTG9YT2wokR7BGHMk3NkgY,40.8359697,-73.9438286,Super Foodtown of Washington Heights,"600 W 160th St, New York",4.4,653,112,16.6491244856952,zzy-222@627-s6d-7nq,Foodtown
+ChIJIXpRHGP2wokRae8524O_e_U,40.826758,-73.949782,Key Food Supermarkets,"3550 Broadway, New York",3.7,501,109,16.3542684551834,226-222@627-s6d-bzf,Key Food
+ChIJVckyhyX0wokRF2iC8f1SNdc,40.835839,-73.9275251,Fine Fare Supermarkets,"1136 Ogden Ave, Bronx",3.6,101,204,22.3113299111211,229-222@627-s69-kfz,Fine Fare Supermarkets
+ChIJAevUyn32wokRkzP0mEI6lIo,40.8259603,-73.94313919999999,Foodtown of St. Nicholas Ave,"756 St Nicholas Ave, New York",4.1,1011,109,16.3542684551834,22h-222@627-s6d-b8v,Foodtown
+ChIJO8ZDq2b1wokRt2zVHpGp1V0,40.8281688,-73.9249182,Key Food Supermarkets,"885 Gerard Ave, Bronx",4.1,259,204,22.3113299111211,222-223@627-s69-rp9,Key Food
+ChIJGXde-3v2wokRPKMWXyyNpbU,40.8227414,-73.9423338,Super Foodtown of Bradhurst,"300 W 145th St, New York",4,2773,110,19.8007938291021,224-222@627-s6g-4qf,Foodtown
+ChIJ40v4BjD0wokRnADW6kOIlGc,40.835905,-73.922973,Food Universe Marketplace,"1187 Jerome Ave, Bronx",3.9,137,204,22.3113299111211,22c-222@627-s69-j5f,Compare Foods Supermarkets
+ChIJMUUeWiX0wokRsuoaTbKw_jk,40.836081,-73.925105,Pioneer Fresh of Highbridge,"1150, 4404 Woodycrest Ave, Bronx",4,137,204,22.3113299111211,zzw-222@627-s69-hqz,Pioneer Supermarkets
+ChIJfT4gmpr1wokRw0EgoH2wS6A,40.8069761,-73.91932969999999,Shop Fair Supermarkets,"228 Brook Ave, Bronx",4.2,96,201,25.357904566075,22b-222@627-sbg-qs5,C Town Supermarkets
+ChIJyQTSfS_0wokRhYfjcKgM_7U,40.835839,-73.9275251,Associated Supermarket,"1136 Ogden Ave, Bronx",3.2,6,204,22.3113299111211,229-222@627-s69-kfz,Fine Fare Supermarkets
+ChIJzy_UlYT2wokRKEGtqGfdt48,40.8369343,-73.9431359,Shop Fair Supermarket,"3871 Broadway, New York",4.2,407,112,16.6491244856952,22d-222@627-s6d-6x5,Shop Fair Supermarket of Broadway
+ChIJNXAprDb0wokRIkErUzL1Euo,40.83010240000001,-73.9178897,CTown Supermarkets,"1040 Sherman Ave, Bronx",4,394,204,22.3113299111211,22s-222@627-s69-fzz,C Town Supermarkets
+ChIJ70ypnsH1wokR2XwiGa3cdGQ,40.8073124,-73.91698509999999,Pioneer Supermarkets of St Ann's,"256 St Ann's Ave, Bronx",3.6,261,201,25.357904566075,22v-222@627-sbg-p35,Pioneer Supermarkets
+ChIJlTDitM71wokRhlGD-O4LmzA,40.81884,-73.9182567,Bravo Supermarkets,"640 Courtlandt Ave, Bronx",4,266,201,25.357904566075,224-222@627-s6g-n89,Bravo Supermarkets
+ChIJ8cMB8ItYwokRdFz2-L6gi8Y,40.7784503,-73.97783,Pioneer Supermarket,"289 Columbus Ave, New York",4,352,107,10.2984372078011,23c-222@627-s4r-vj9,Pioneer Supermarkets
+ChIJQ75KlYlYwokRs7U2ntd8bOU,40.7807653,-73.9816666,Fairway Market of 74th Street,"2131 Broadway, New York",4.2,2013,107,10.2984372078011,zzy-222@627-s4r-nh5,Fairway Market
+ChIJUbQxJAtZwokRxc-TGxiIsR4,40.7744558,-73.9832152,Gourmet Garage of West 66th,"155 W 66th St, New York",3.8,187,107,10.2984372078011,225-222@627-s4r-4qf,Gourmet Garage
+ChIJ_XgA9WFYwokRnC7V-LxOxDc,40.7798606,-73.98425089999999,West End Superette,"273 W 72nd St, New York",3.8,44,107,10.2984372078011,22h-222@627-s4q-y5f,Giacomo's
+ChIJgbgZs71YwokRCRK9j6aexrE,40.77280710000001,-73.9606534,D'Agostino at 76th Street,"1074 Lexington Ave, New York",4,206,108,7.74121687473894,22p-222@627-s4n-3yv,D'Agostino
+ChIJ7ysFwYlYwokRnbXxkYFREdE,40.7810304,-73.9816714,Citarella Gourmet Market - Upper West Side,"2135 Broadway, New York",4.5,548,107,10.2984372078011,223-222@627-s4r-nt9,Citarella Gourmet Market Upper West Side
+ChIJoeEGt79YwokRw6mNe7339kw,40.77332029999999,-73.95772319999999,Gristedes,"1365 3rd Ave, New York",3.7,145,108,7.74121687473894,22y-222@627-s4n-66k,Gristedes
+ChIJoRx03NBYwokRmnSe8gmbb4w,40.7555901,-73.9449302,Fine Fare Supermarkets,"1007 41st Ave, Queens",3.5,265,401,13.4009229732834,224-222@627-s8n-52k,Fine Fare Supermarkets
+ChIJ6Qr7pbpYwokRqQzVVF7VNhk,40.7791231,-73.94803689999999,CTown Supermarkets,"1721 1st Ave., New York",4.2,407,108,7.74121687473894,22x-223@627-s4n-vxq,C Town Supermarkets
+ChIJYXC-FblYwokR9xWuqc58d7g,40.7738489,-73.951809,MORTON WILLIAMS SUPERMARKETS,"1565 1st Ave., New York",3.7,287,108,7.74121687473894,22w-222@627-s4n-v9f,Morton Williams Supermarkets
+ChIJSxyuyaJYwokRnrldro_G1Ps,40.7816574,-73.9580391,MORTON WILLIAMS SUPERMARKETS,"1211 Madison Ave, New York",4.1,324,108,7.74121687473894,zzy-223@627-s4m-xt9,Morton Williams Supermarkets
+ChIJCX_eXqNYwokR6szaGZpwoNk,40.7815416,-73.9538132,Gristedes,"1343 Lexington Ave, New York",3.2,116,108,7.74121687473894,zzy-222@627-s4n-p35,Gristedes
+ChIJoeEGt79YwokRhpMIg4Gcjmc,40.7762619,-73.94649849999999,Gristedes,"1644 York Ave, New York",3.4,132,108,7.74121687473894,235-222@627-s4n-t7q,Gristedes
+ChIJQXmrtjJfwokRx_e770_nqLE,40.7590992,-73.93558139999999,Trade Fair Supermarket,"22-20 36th Ave, Queens",3.8,731,401,13.4009229732834,226-222@627-s8n-sh5,Trade Fair Supermarket
+ChIJpTrUcKVYwokRAWFvay1gEvs,40.7819733,-73.9489954,Key Food Supermarkets,"1769 2nd Ave, New York",4,819,108,7.74121687473894,224-222@627-s4n-mrk,Key Food
+ChIJkVMRs71YwokRO26lMow5s00,40.7776912,-73.9566709,D'Agostino,"1233 Lexington Ave, New York",3.6,81,108,7.74121687473894,238-222@627-s4m-vmk,D'Agostino
+ChIJQ75KlYlYwokRN76w58GDi00,40.7780058,-73.9527497,Fairway Market of 86th Street,"240 East 86th St, New York",4.2,2125,108,7.74121687473894,229-222@627-s4n-tvz,Fairway Market
+ChIJI-L0Wu9ZwokRUkENYOZKPYM,40.7647025,-73.9469861,Foodtown of Roosevelt Island,"686 Main St, New York",3.9,160,108,7.74121687473894,224-222@627-s8m-xqz,Foodtown
+ChIJD-XpiupYwokRf4iMusF6h3g,40.7663579,-73.960295,Grace's Marketplace,"1299 2nd Ave, New York",4.1,271,108,7.74121687473894,22y-222@627-s8r-ndv,Grace's Marketplace
+ChIJAZdmir5YwokRuju1AfnLywg,40.7751331,-73.95639419999999,Eli's Market,"1415 3rd Ave, New York",3.6,142,108,7.74121687473894,223-222@627-s4n-4y9,Eli's Manhattan Market
+ChIJtW2myLhYwokRS6qs9B8iDI8,40.7721449,-73.95314499999999,Agata & Valentina,"1505 1st Ave., New York",4.3,604,108,7.74121687473894,zzw-223@627-s4n-5mk,Agata & Valentina
+ChIJQ6apwpxYwokR4NV1UcGbRSk,40.7893639,-73.96973419999999,D'Agostino at 91st Street,"633 Columbus Ave, New York",3.6,202,107,10.2984372078011,22w-222@627-s4k-nwk,D'Agostino
+ChIJSZ6ZcYVYwokRjJ7c6pY_GkU,40.7842125,-73.9735216,Zingone Brothers,"471 Columbus Ave, New York",4.9,57,107,10.2984372078011,235-222@627-s4n-ckf,Zingone Brothers
+ChIJ1_bNGJ1YwokR9OFA1FuxTJQ,40.79071039999999,-73.96950980000001,Trader Joe's,"670 Columbus Ave, New York",4.6,2137,107,10.2984372078011,228-223@627-s4k-nt9,Trader Joe's
+ChIJ155rWbtYwokRLX7PL1o55Vs,40.7796707,-73.9529499,Whole Foods Market,"1551 3rd Ave, New York",4,2019,108,7.74121687473894,22g-222@627-s4m-yn5,Whole Foods Market
+ChIJ26SjdZ1YwokR6rsUVYdQnXw,40.7911142,-73.96832110000001,Mani Market Place,"697 Columbus Ave, New York",4.5,98,107,10.2984372078011,22d-222@627-s4k-p5f,Mani Market Place
+ChIJn_U4AmP2wokRkLKGfXHLh_Y,40.82671,-73.949726,3550 Food Corporation,"3550 Broadway, New York",0,0,109,16.3542684551834,226-222@627-s6d-bzf,Key Food
+ChIJg9chLDRfwokRJmxSMq7PSvc,40.76546,-73.930357,City Fresh Market,"2115 Broadway, Astoria",4.1,655,401,13.4009229732834,22p-222@627-sb9-h89,City Fresh Market
+ChIJv3uB6zNfwokRygB1lZ9r_eA,40.7611912,-73.9310974,Bravo Supermarkets,"24-18 34th Ave, Queens",3.9,239,401,13.4009229732834,23d-222@627-s8n-tn5,Bravo Supermarkets
+ChIJk_3P6jZfwokRu-x8xl2oUT4,40.7636028,-73.92848889999999,Trade Fair Supermarket,"2355 Broadway, Queens",3.9,589,401,13.4009229732834,228-222@627-sb9-h5z,Trade Fair Supermarket
+ChIJBdtYRj9fwokRnKm2hi9-sZ0,40.7567969,-73.9298985,Key Food Supermarkets,"30-13 36th Ave, Astoria",3.8,294,401,13.4009229732834,237-222@627-s8n-rff,Key Food
+ChIJC77OAMRZwokRT_tepcsVtg0,40.7805188,-73.9465117,Prime Gourmet Market,"1770 1st Ave., New York",4.2,49,108,7.74121687473894,224-222@627-s4n-vpv,Prime Gourmet Market
+ChIJwVK7VkYPZkARQ_zlobVp4mA,40.8434234,-73.93845759999999,Key Food Supermarkets,"1239 St Nicholas Ave, New York",3.9,641,112,16.6491244856952,22p-222@627-s6d-zfz,Key Food
+ChIJN6hXTiP0wokRBrXX_jsVHJ4,40.8412775,-73.9247276,Bravo Supermarkets,"156 W 170th St, Bronx",4,196,204,22.3113299111211,22r-222@627-s69-kpv,Bravo Supermarkets
+ChIJfeic1iT0wokRHI-gslTTjq0,40.83824,-73.9246655,Superior Market,"108 W 168th St, Bronx",4,5,204,22.3113299111211,zzy-223@627-s69-mkz,Superior Market
+ChIJPwo0reL3wokRTcnr2buH-RA,40.849001,-73.9382069,Fine Fare Supermarkets,"4211 Broadway #17, New York",4.1,280,112,16.6491244856952,229-222@627-s6m-nh5,Fine Fare Supermarkets
+ChIJO9M-UBv0wokR9bc62u3JBkI,40.8555613,-73.92940089999999,Fine Fare Supermarkets,"1617-1619 St Nicholas Ave, New York",3.5,176,112,16.6491244856952,228-222@627-s6m-6tv,M A Grocery
+ChIJiaZRoR30wokRfKOyDhF7iVc,40.8540139,-73.9340528,Key Food Supermarkets,"4365 Broadway, New York",3.8,565,112,16.6491244856952,224-222@627-s6m-54v,Key Food
+ChIJg4pbg6f2wokRzjCi2mcJkfM,40.8548991,-73.93664810000001,Associated Supermarket,"592 Fort Washington Ave, New York",4.3,31,112,16.6491244856952,225-222@627-s6m-4qf,Associated Supermarkets
+ChIJH8R0_Z_2wokRwqqG-rPLRMY,40.8466157,-73.9360348,Bravo Supermarkets,"1331 St Nicholas Ave, New York",4.1,219,112,16.6491244856952,22g-223@627-s6m-b49,Bravo Supermarkets
+ChIJc0nrT6z3wokRYVXklfh9Dy8,40.8459771,-73.93830439999999,The Food Emporium,"4138 Broadway, New York",3.8,90,112,16.6491244856952,22d-223@627-s6m-nqz,The Food Emporium
+ChIJgQ7s7zv0wokRZ10JNmlKOp0,40.8390388,-73.91893,Antillana SuperFood Marketplace,"1339 Jerome Ave, Bronx",4.1,377,204,22.3113299111211,226-222@627-s69-8jv,Antillana Supermarket
+ChIJZbK2R5n3wokRWYIVAfJCUrM,40.8466157,-73.9360348,Shop Fair Supermarkets,"1331 St Nicholas Ave, New York",4.2,39,112,16.6491244856952,22g-223@627-s6m-b49,Bravo Supermarkets
+ChIJ2SMY7BD0wokR2qpixVm4PEk,40.852512,-73.92162569999999,Associated Supermarkets of River Park Towers,"35 Richman Plaza, Bronx",2.7,135,205,24.6326333969826,229-222@627-s6m-zj9,Associated Supermarkets
+ChIJP52ndxb0wokR8BtQ6gPZFA0,40.846431,-73.918553,Pioneer Supermarkets of Morris Heights,"107 Featherbed Ln, Bronx",4.1,179,205,24.6326333969826,22d-222@627-s6b-btv,Pioneer Supermarkets
+ChIJ029d4aD2wokRhq_17WAhsC8,40.8508953,-73.938606,Fresh Superette,"804 W 181st St, New York",4,31,112,16.6491244856952,226-223@627-s6m-qpv,Moscow On The Hudson
+ChIJd_eDnKf2wokRd13jTkdjU3o,40.8548897,-73.9368021,Ozzie's Fresh Market,"592 Fort Washington Ave, New York",3.8,114,112,16.6491244856952,225-222@627-s6m-4qf,Associated Supermarkets
+ChIJX8pU_9n1wokRLoh5jkqWG6E,40.8460125,-73.92041859999999,Food Universe Marketplace,"126 Featherbed Ln, Bronx",4.1,145,205,24.6326333969826,22f-224@627-s6b-cyv,Compare Featherbed Lane
+ChIJf9uzCxT0wokRYW6FRsJVbCs,40.8490757,-73.9167476,CTown Supermarkets,"1750 University Ave, Bronx",3.9,657,205,24.6326333969826,22d-222@627-s6n-2kz,C Town Supermarkets
+ChIJu9loZDf0wokR06PraFj5-6w,40.83374329999999,-73.9165828,Associated Supermarkets of Mount Eden,"206 E 167th St, Bronx",3.8,121,204,22.3113299111211,22d-222@627-s69-6zf,Associated Supermarkets
+ChIJH8R0_Z_2wokRboN-QgYajzY,40.8466157,-73.9360348,Pola Supermarket Corporation,"1331 St Nicholas Ave, New York",3,1,112,16.6491244856952,22g-223@627-s6m-b49,Bravo Supermarkets
+ChIJeWN6mGL2wokRKnKe5Etmrso,40.8289583,-73.94910680000001,PapaSito Foodmarkets,"3605 Broadway, New York",4.3,67,109,16.3542684551834,22b-222@627-s6d-c89,Papasito Food Markets
+ChIJd7HpBvfzwokR2YDxeHDT6n8,40.8673003,-73.92160729999999,CTown Supermarkets,"4918 Broadway, New York",4.1,724,112,16.6491244856952,22p-222@627-s5x-c3q,C Town Supermarkets
+ChIJs1GGGAT0wokRtJmJ9mxIC4E,40.8604296,-73.9287138,Food Universe Marketplace,"72 Nagle Ave, New York",3.8,156,112,16.6491244856952,zzw-222@627-s6m-vs5,Food Universe Marketplace
+ChIJ-aFdkDf0wokRRnpUY50EHEo,40.8333156,-73.9147775,Key Food Fresh,"256 E 167th St, Bronx",3.8,354,204,22.3113299111211,237-222@627-s69-5j9,Key Food
+ChIJkfVCXxX0wokRCaJ-WK_31Yk,40.8440515,-73.9136752,Fine Fare Supermarkets,"49 E Mt Eden Ave, Bronx",3.2,168,204,22.3113299111211,22r-222@627-s6b-cnq,Fine Fare Supermarkets
+ChIJ8xA0uzj0wokRCQmEc3ZwFjw,40.8382927,-73.9132209,Bravo Supermarkets,"210 E 170th St, Bronx",4.1,596,204,22.3113299111211,22b-222@627-s69-7bk,Bravo Supermarkets
+ChIJRwz2zTj0wokR3Zze_Qka2LY,40.8388932,-73.9147818,Food Universe Marketplace,"148 E 170th St, Bronx",3.9,258,204,22.3113299111211,22s-222@627-s69-789,Food Universe Marketplace
+ChIJP_EJoBL0wokRntm4eaFDzMg,40.85410700000001,-73.91416219999999,Bravo Supermarkets,"127 W Burnside Ave, Bronx",4,349,205,24.6326333969826,226-222@627-s6h-j9z,Bravo Supermarkets
+ChIJU8YQfGv0wokREuFe4-34UHA,40.8481655,-73.91000799999999,Key Food Supermarkets,"1791 Walton Ave # 2, Bronx",3.9,293,205,24.6326333969826,zzw-222@627-s6h-nkf,Key Food
+ChIJlYbkWUj0wokRf4KkU8y_P3c,40.831599,-73.9096276,SuperFresh,"1188 Webster Ave, Bronx",3.9,357,203,25.1325606228962,22d-222@627-s6b-4vz,Met Foodmarkets
+ChIJj_I3gwP0wokR1UF1nc73CW0,40.8588818,-73.9307989,Naty Food Corp,"7 Hillside Ave, New York",3.5,17,112,16.6491244856952,228-222@627-s6n-7t9,Hillside Supermarket
+ChIJM3AEfXL0wokR3Cn_pcjIFUU,40.85367919999999,-73.9093698,Food Dynasty Supermarket,"40-48 W Burnside Ave, Bronx",4.1,494,205,24.6326333969826,23q-222@627-s6h-rkz,Food Dynasty
+ChIJZd9g9xT0wokRCBVIqTKdW3I,40.8472423,-73.91514029999999,1645 Grand Supermarket Jessica,"1645 Grand Ave, Bronx",4.3,31,205,24.6326333969826,22b-222@627-s6b-bzf,Grand Food Market
+ChIJyeHc6G70wokRD1krGWeLyDY,40.849244,-73.90460209999999,CTown Supermarkets,"229 E Tremont Ave, Bronx",3.8,149,205,24.6326333969826,222-222@627-s6h-s5z,C Town Supermarkets
+ChIJSZXV0STzwokRuRhAI-2SQxo,40.8680054,-73.9007779,Food Universe Marketplace,"82 W Kingsbridge Rd, Bronx",4.3,122,207,20.7937930965985,223-222@627-rw9-tgk,Food Universe Marketplace
+ChIJwYSxtpPzwokR5NVNLPMDrgc,40.87584289999999,-73.90871369999999,CTown Supermarkets,"5249 Broadway, Bronx",3.7,261,208,14.2645261447227,227-222@627-s5x-fvf,C Town Supermarkets
+ChIJD1dLJ3f0wokRygqyJp4PUB8,40.8582929,-73.90355679999999,Pioneer Supermarkets of Fordham Heights,"2262 Jerome Ave, Bronx",4,257,205,24.6326333969826,226-222@627-s6h-7qz,Pioneer Supermarkets
+ChIJpVnMJ270wokRLoCQe_dPqDo,40.8522294,-73.9045214,Food Universe Marketplace,"148 E Burnside Ave, Bronx",4.2,254,205,24.6326333969826,22b-222@627-s6h-5s5,Food Universe Marketplace
+ChIJ5ZBMV3f0wokRQ2B4aD6W2ls,40.8574692,-73.9008139,CTown Supermarkets,"2276 Creston Ave, Bronx",4.1,504,205,24.6326333969826,22f-222@627-s6h-6p9,C Town Supermarkets
+ChIJU10KmXb0wokRp4WAEjHAvWo,40.85914349999999,-73.90643969999999,Bravo Supermarkets,"60 W 183rd St, Bronx",4,85,205,24.6326333969826,22t-222@627-s6j-975,Food Universe Marketplace
+ChIJdcEIkJDzwokR8zlk7hZkVaQ,40.8749773,-73.9016336,CTown Supermarkets,"2891 Sedgwick Ave, Bronx",3.9,231,208,14.2645261447227,zzy-222@627-rw9-p5f,C Town Supermarkets
+ChIJDxfJPIjzwokRVxHc6pF0s6k,40.8625965,-73.9026362,Food Dynasty Supermarkets,"24 W Fordham Rd, Bronx",4,337,207,20.7937930965985,229-222@627-s6j-7kf,Food Dynasty
+ChIJma-KjG_0wokR3DRD0XwrTAk,40.85062,-73.900809,Bravo Supermarkets,"309 E Burnside Ave, Bronx",3.9,251,205,24.6326333969826,22f-223@627-s6h-f9f,Bravo Supermarkets
+ChIJI-ezv5bzwokRR9-2AZN28H8,40.8786213,-73.9053354,Foodtown of Riverdale,"5555 Broadway, Bronx",4.3,1613,208,14.2645261447227,233-222@627-s5x-j7q,Doloma Convenient Store
+ChIJcbLfzJfzwokRqGo5ocF2HXg,40.8810372,-73.9035329,Garden Gourmet Market - Supermarket,"5665 Broadway, Bronx",4.5,1692,208,14.2645261447227,22d-222@627-s64-wp9,Garden Gourmet Market
+ChIJLee715b1wokRohn2ckGjJf8,40.8596,-73.9033966,Food dynasty supermarket,"2343 Jerome Ave, Bronx",4.5,104,205,24.6326333969826,22k-223@627-s6j-835,Food Dynasty
+ChIJB7k5zNb1wokRwjCqMP-rEyY,40.8591234,-73.9064501,Food Universe Marketplace,"60 W 183rd St, Bronx",4.2,175,205,24.6326333969826,22t-222@627-s6j-975,Food Universe Marketplace
+ChIJlQj-_r7zwokRQJWjA_5jd4I,40.8854373,-73.90924559999999,Key Food Supermarkets,"540 W 235th St, Bronx",3.6,382,208,14.2645261447227,229-222@627-s65-835,Key Food
+ChIJhbOLBfPzwokR246fF-9P0YA,40.8706278,-73.9152359,Food Universe Marketplace,"5069 Broadway, New York",3.3,66,112,16.6491244856952,224-222@627-s5w-pqf,Food Universe Marketplace
+ChIJR4Yy9Hj0wokRiX44VbKaz20,40.8598671,-73.897575,Pioneer Supermarkets of Fordham Manor,"2400 Ryer Ave, Bronx",3.8,305,205,24.6326333969826,22n-222@627-s6h-w49,Pioneer Supermarkets
+ChIJO6L5gnnzwokRuDl9Nh3onEg,40.860021,-73.8977018,Pioneer Supermarkets,"2400 Ryer Ave, Bronx",4,23,205,24.6326333969826,22n-222@627-s6h-w49,Pioneer Supermarkets
+ChIJKx2vCmX0wokRlVNW_1C8xbg,40.8513947,-73.8979155,Western Beef Supermarket,"2050 Webster Ave, Bronx",4.2,2843,205,24.6326333969826,229-222@627-s6h-d5f,Western Beef
+ChIJuboiYsj1wokRJZPGxuhdxKY,40.8154183,-73.9151832,Fine Fare Supermarkets,"459 E 149th St, Bronx",4.2,1018,201,25.357904566075,225-224@627-s6g-ndv,Fine Fare Supermarkets
+ChIJv9QRGMn1wokRwRfXB492UPE,40.8177284,-73.9168699,Pioneer Supermarkets of Melrose,"616 Melrose Ave, Bronx",3.8,75,201,25.357904566075,22p-222@627-s6g-n5z,Pioneer Supermarkets
+ChIJy5L8Tsr1wokRE4WszNtA-uw,40.8209325,-73.9153948,Food Universe Marketplace,"760 Melrose Ave, Bronx",3.8,158,201,25.357904566075,zzw-222@627-s6c-26k,Key Food
+ChIJjyU4eLX1wokR8pZgAsSF7Gk,40.8215139,-73.9119437,Foodtown of Third Avenue,"3100 3rd Ave., Bronx",3.8,454,201,25.357904566075,226-222@627-s6b-zcq,Foodtown
+ChIJl1ZcU15fwokRzMzIjMycxgA,40.782369,-73.915126,Cherry Valley Farm Supermarket,"2016 21st Ave, Queens",3.7,264,401,13.4009229732834,229-222@627-sb4-zxq,Cherry Valley Farm Supermarket
+ChIJ1cWcGbf1wokRREupEuxPRSs,40.8156418,-73.90835899999999,Met Foodmarkets of Jackson Ave,"649 Jackson Ave, Bronx",3.6,309,201,25.357904566075,22c-222@627-s6c-8vz,Met Foodmarkets
+ChIJk3PfTTNawokREIPGhFT9g_c,40.701564,-73.983357,York Grocery,"187 York St, Brooklyn",3.4,8,302,13.3904746681599,224-222@627-wc8-grk,York Grocery
+ChIJgxwZxjdawokRK0BwgRFfJqY,40.69814909999999,-73.99251079999999,All In One Mart,"79 Henry St, Brooklyn",4.3,43,302,13.3904746681599,22n-222@627-wc9-2tv,All In One Food Mart
+ChIJ0S29Jmr0wokRJjTUjkRI9U8,40.8445091,-73.90698259999999,Bravo Supermarkets,"248 E 174th St, Bronx",3.8,445,204,22.3113299111211,226-222@627-s69-y9z,Bravo Supermarkets
+ChIJ5Q4ntD5fwokRLl2bdXbrczA,40.7619251,-73.9181152,Associated Supermarkets of Astoria,"3715 31st Ave, Queens",3.8,323,401,13.4009229732834,23b-222@627-sb9-4n5,Associated Supermarkets
+ChIJGUYo1RxfwokRuAp-KEeK2To,40.7459971,-73.90081889999999,Associated Supermarkets of Woodside,"63-01 Roosevelt Ave, Queens",3.8,164,402,9.6269337502557,22p-222@627-s7w-2p9,Associated Supermarkets
+ChIJiRBWaTBfwokRLfCjnC9tChE,40.7580769,-73.9244866,CTown Supermarkets,"34-12 34th Ave, Queens",4.3,512,401,13.4009229732834,zzw-222@627-sb9-pn5,C Town Supermarkets
+ChIJqfDw7whfwokRiaQxSf_DMbI,40.7563126,-73.9213577,Food Universe Marketplace,"34-14 Steinway St, Queens",4.2,191,401,13.4009229732834,zzw-223@627-sb9-mzf,Food Universe Marketplace
+ChIJh-ZryyVfwokR-tg5HCfSNtI,40.7521249,-73.921528,Food Bazaar,"42-02 Northern Blvd, Queens",4.5,4701,401,13.4009229732834,zzw-223@627-s8q-68v,Food Bazaar Supermarket
+ChIJS8utchRfwokRh0E8EwM3Fb8,40.760443,-73.90706899999999,Trade Fair Supermarket,"49-11 30th Ave, Woodside",4,384,401,13.4009229732834,22j-222@627-sbb-2rk,Trade Fair Supermarket
+ChIJ2ZaYM9lewokRd0-_Iqyddf0,40.7428779,-73.918629,Key Food Supermarkets,"4602 Queens Blvd, Queens",4.3,993,402,9.6269337502557,223-222@627-s8q-ckf,Key Food Fresh N Save
+ChIJYwfwAONewokR-kd2cKaasU0,40.7410224,-73.9036689,Key Food Supermarkets,"61-10 Queens Blvd, Queens",3.9,300,402,9.6269337502557,222-223@627-s7w-jvz,Key Food
+ChIJa9dZwjJfwokR2AOt5bcRb30,40.7317234,-73.8998866,Market Fresh Supermarket,"52-65 65th Pl, Queens",4.4,87,405,9.24780685798555,22j-222@627-s7p-syv,C Town Supermarkets
+ChIJCUpae9lewokRsMRV2u6IdCM,40.7415678,-73.9207658,Green Valley Marketplace of Sunnyside,"44-07 Greenpoint Ave, Queens",4.3,650,402,9.6269337502557,22n-222@627-s8q-975,Green Valley
+ChIJU9GVPxJfwokRyA4xgIFf6kg,40.7625302,-73.9268211,The Food Emporium,"29-10, Broadway, Astoria",4.3,149,401,13.4009229732834,zzw-227@627-sb9-hwk,The Food Emporium
+ChIJg4NeRiJfwokR4f-_6v1gsC0,40.751741,-73.914535,Stop & Shop,"34-51 48th St, Queens",4.3,1665,401,13.4009229732834,225-222@627-sb9-bp9,Stop & Shop
+ChIJA_2UWdlewokRSpMUTEjqOvg,40.7413281,-73.919426,Good Neighbors Supermarket,"45-60 46th St, Queens",4.3,137,402,9.6269337502557,zzy-222@627-s8q-99f,Good Neighbors Supermarket 和興超市 Sunnyside
+ChIJQZfgEwNfwokRKj0hFzAezpI,40.7457418,-73.8988663,Bravo Supermarkets,"39-07 65th Pl, Queens",4.2,86,402,9.6269337502557,zzy-223@627-s7w-2hq,Bravo Supermarkets
+ChIJAdVZ1j9fwokRxBpQVv9SQaE,40.76294439999999,-73.9126028,Key Food Supermarkets,"42-15 30th Ave, Queens",4,389,401,13.4009229732834,22n-222@627-sb9-3nq,Key Food
+ChIJwzlmLB1fwokRnr-0j7DB0Kw,40.7455124,-73.9010654,Food Express Supermarket,"39-39 63rd St, Queens",4.2,91,402,9.6269337502557,zzw-224@627-s7w-2p9,Food Express Supermarket
+ChIJ55IOi9hewokRZrFsaLhlRUI,40.7452778,-73.92,Food Universe Marketplace,"4407 43rd Ave, Sunnyside",4,231,402,9.6269337502557,22g-222@627-s8q-cyv,Food Universe Marketplace
+ChIJ8dgaIB1fwokR3YId0FCgzms,40.7460404,-73.9022434,Food Fair Supermarket,"39-32 62nd St, Queens",3.7,43,402,9.6269337502557,zzw-223@627-s7v-y9z,Dollar & Up Fruit And Vegetable
+ChIJuRq22LBfwokRJwePO7lY-oY,40.7248346,-73.896855,Key Food Supermarkets,"66-56 Grand Ave, Maspeth",4.4,444,405,9.24780685798555,22k-222@627-s7p-z75,Key Food
+ChIJh0cB9dVYwokR8DZXUFdn_XU,40.7492016,-73.9405572,Olives Organic Market,"4237 27th St, Long Island City",4.4,131,402,9.6269337502557,228-222@627-s8p-st9,Koufuku Mart
+ChIJ13ScqjBfwokRLjzMPyro04Q,40.7613889,-73.9244444,Greenbay Marketplace,"3206 Broadway, Queens",4.1,286,401,13.4009229732834,22s-222@627-sb9-j5f,Greenbay Marketplace
+ChIJJTTBOjdfwokRXVAMWn8urfA,40.76257529999999,-73.9263524,Family Market,"2915 Broadway, Queens",4.5,216,401,13.4009229732834,zzw-22b@627-sb9-hqz,Family Market
+ChIJk_srPy5fwokRc4JZPOT0EDM,40.7560673,-73.928225,Rio Market Inc,"32-15 36th Ave, Queens",4.5,1153,401,13.4009229732834,238-222@627-s8n-rtv,Rio Market
+ChIJP-eZQG5fwokR157sjxsUzz4,40.769861,-73.9022767,Ditmars Blvd Supermarket,"4614 Ditmars Blvd, Queens",4.4,41,401,13.4009229732834,22p-222@627-sb9-wx5,Ditmars Supermarket
+ChIJNx5SD0BfwokR5JLwNXWxlI8,40.7650213,-73.9132925,CTown Supermarkets,"40-12 28th Ave, Queens",4.3,578,401,13.4009229732834,235-222@627-sb9-649,C Town Supermarkets
+ChIJec7_qGhfwokRDEQdaGVFXnM,40.7738842,-73.90730719999999,Trade Fair Supermarket,"37-11 Ditmars Blvd, Queens",4,556,401,13.4009229732834,233-222@627-sb5-6ff,Trade Fair Supermarket
+ChIJCY6bmkdfwokRZa2TNYLMeP8,40.7668959,-73.9220436,Trade Fair,"30-08 30th Ave, Queens",4,1167,401,13.4009229732834,zzw-224@627-sb9-jgk,Trade Fair Supermarket
+ChIJlS7aSU9fwokRJ5_pawv6qCw,40.771456,-73.9251292,CTown Supermarkets,"21-30 Newtown Ave, Queens",3.7,353,401,13.4009229732834,228-222@627-sb7-swk,C Town Supermarkets
+ChIJafKv7HdfwokRNMWGLbAzM3o,40.77054,-73.8903335,Trade Fair Supermarket,"79-14 21st Ave, East Elmhurst",3.9,113,401,13.4009229732834,237-222@627-sb7-8d9,Trade Fair
+ChIJg9pXXUdfwokR6hWE_4ucPnc,40.766613,-73.9198074,Key Food Urban Marketplace,"32-21 Newtown Ave, Queens",4.2,713,401,13.4009229732834,zzw-224@627-sb9-kj9,Key Food
+ChIJP1qbczhfwokRDvLns9eM3p4,40.76593099999999,-73.922534,Euro Market,"30-42 31st St, Astoria",4.5,449,401,13.4009229732834,22j-222@627-sb9-g49,Euro Market
+ChIJ78AhpDhfwokRIrKtO6da-jM,40.7655,-73.919456,Mediterranean Foods I,"30-12 34th St, Queens",4.5,96,401,13.4009229732834,22x-222@627-sb9-kcq,La Cabana
+ChIJAZYmvEJfwokRwsOBXg6IYBQ,40.77338,-73.91104299999999,Mediterranean Foods II,"22-78 35th St, Queens",4.5,386,401,13.4009229732834,229-222@627-sb5-7qz,Mediterranean Foods
+ChIJTwzBv0r0wokRDWyyZcI3n10,40.8259059,-73.9109138,FOOD BAZAAR,"445 E 163rd St, Bronx",4.4,4068,203,25.1325606228962,zzw-223@627-s69-bhq,Food Bazaar Supermarket
+ChIJhfCIZsBYwokRR5QSabn9M6c,40.7702007,-73.95709269999999,East Side Grocery,"1422 2nd Ave, New York",4.5,26,108,7.74121687473894,223-222@627-s4n-4gk,East Side Grocery
+ChIJQfNP-r9YwokRO29Ofs2mhYc,40.7717701,-73.9587554,Citarella Gourmet Market - Upper East Side,"1313 3rd Ave, New York",4.4,713,108,7.74121687473894,226-222@627-s4n-3wk,Citarella Gourmet Market Upper East Side
+ChIJGy82PM1PwokReG-QjOUlWIM,40.6379751,-74.0757593,Key Food Supermarkets,"155 Bay St, Staten Island",4,811,501,12.3433352917996,224-222@627-wfg-sh5,Key Food
+ChIJ__xC32dPwokRaYia6bwVDv0,40.6240232,-74.0804172,Associated Marketplace of Broad St,"170 Broad St, Staten Island",4.3,101,501,12.3433352917996,222-222@627-wfg-7nq,Associated Supermarkets
+ChIJO4G1umtOwokRlQcyFO6WfzU,40.6306023,-74.10432999999999,Key Food Marketplace,"450 Forest Ave, Staten Island",3.8,657,501,12.3433352917996,227-222@627-vv6-ht9,Key Food
+ChIJO45ZIQpPwokRFmdWiQlH4Yc,40.6119564,-74.07148269999999,Market Fresh Supermarket,"570 Tompkins Ave., Staten Island",4.4,458,501,12.3433352917996,22h-222@627-wf5-4qf,Market Fresh Supermarket
+ChIJ2y8RR_VOwokRMyQOn-kgWRk,40.6122154,-74.0995203,Olive Tree Marketplace,"1490 Clove Rd, Staten Island",4,404,501,12.3433352917996,229-222@627-wf8-33q,Olive Tree Marketplace
+ChIJJcqPizBOwokRL7NcjaT8q_s,40.6386201,-74.0874163,La Quebradita Supermarket,"405 Jersey St, Staten Island",4.1,7,501,12.3433352917996,zzw-223@627-w9f-wc5,Shop Smart
+ChIJ0z4fRThPwokRXyyUdLDkPdE,40.6082458,-74.1216354,SuperFresh,"778 Manor Rd, Staten Island",4.2,152,502,9.0167022393799,22b-222@627-vty-g8v,Superfresh
+ChIJhbWCBzdOwokRfe56SpubzfE,40.633718,-74.08564419999999,Lanka Grocery,"344 Victory Blvd, Staten Island",4.4,152,501,12.3433352917996,22x-222@627-wfg-5zz,Lanka Grocery
+ChIJo0wR3qtPwokRwojWcmbMhwg,40.6129639,-74.0713181,Phil-Am Food Mart,"527 Tompkins Ave., Staten Island",4.5,138,501,12.3433352917996,222-222@627-wf5-4n5,Phil Am Foods
+ChIJJSKL2YFOwokRcCfDiw39xF4,40.6134364,-74.12345890000002,Met Food Victory Blvd,"1795 Victory Blvd, Staten Island",4.3,520,501,12.3433352917996,22j-223@627-vty-w6k,Met Food Supermarket
+ChIJ3VByL9BNwokRG_dHKdC_LoU,40.6261147,-74.13553019999999,Stop & Shop,"1351 Forest Ave, Staten Island",4.2,1926,501,12.3433352917996,222-229@627-vtw-yn5,Stop & Shop
+ChIJ9S0nVMNNwokRDzohH3eEnzc,40.633452,-74.13618199999999,Key Food Fresh,"331 Port Richmond Ave, Staten Island",3.8,313,501,12.3433352917996,22g-222@627-vty-2hq,Key Food
+ChIJz2Rk_KtNwokRBAn3K5O7Qhc,40.624927,-74.1572896,Western Beef Supermarket,"2040 Forest Ave, Staten Island",3.7,828,501,12.3433352917996,222-225@627-vtz-zvf,Western Beef
+ChIJwet3BAxNwokR4MMxvhaTIg4,40.6248681,-74.14046580000002,Zone,"1579 Forest Ave, Staten Island",3.5,15,501,12.3433352917996,226-222@627-vtx-kcq,Associated Supermarkets
+ChIJxT2AmLVNwokRZFLez3GYTdI,40.6230508,-74.1485647,ShopRite of Forest & Richmond,"985 Richmond Ave, Staten Island",4.2,2420,501,12.3433352917996,223-223@627-vv2-y5f,ShopRite
+ChIJJaHVt2NNwokRHzvqQPQjLbc,40.6365679,-74.13401200000001,Mi Pueblo Meat Market Inc.,"189 Port Richmond Ave, Staten Island",3.6,11,501,12.3433352917996,22b-222@627-vty-54v,Fruits & Vegetable Cuestas
+ChIJayZzLdBNwokRZTfZLlrP938,40.6258273,-74.1350951,Gyc Meat Market,"1365 Forest Ave, Staten Island",4.5,4,501,12.3433352917996,22k-222@627-vtw-zcq,Big Time Produce
+ChIJYb0mQt1NwokR3S7ZoutR0XA,40.6370618,-74.1343849,Mexico Supermarket Monte Alban,"170 Port Richmond Ave, Staten Island",4.2,152,501,12.3433352917996,222-222@627-vty-54v,Mexico Supermarket
+ChIJYWLMzCtMwokRPbDWdEdt2f4,40.6128843,-74.1269805,Victory Halal Food/Meat & Indian - Pakistani Grocery,"1891 Victory Blvd, Staten Island",4.8,120,501,12.3433352917996,22j-222@627-vty-vzz,Victory Halal Food Meat & Grocery
+ChIJ707-pDFMwokRt6HAKtID9NU,40.6122582,-74.1378388,Beyar's Market,"2241 Victory Blvd, Staten Island",4.5,390,501,12.3433352917996,22k-222@627-vv4-59f,Beyar's Market
+ChIJ67ymxIFOwokRBA_pOsBUoV0,40.6132994,-74.1229922,Island Grocery,"1789 Victory Blvd, Staten Island",4.4,5,501,12.3433352917996,22b-223@627-vtz-m8v,Island Grocery
+ChIJe2mmWKVNwokRNVhk7rNVN84,40.6317057,-74.1602633,Bernardo Food Corporation,"201 Harbor Rd, Staten Island",4.1,55,501,12.3433352917996,233-222@627-vv2-pvz,Bernard Food Corporation
+ChIJJa-aMtBNwokRT6SzNlqzwfE,40.625881,-74.135012,Big Time Produce,"1361 Forest Ave, Staten Island",4.3,28,501,12.3433352917996,22k-222@627-vtw-zcq,Big Time Produce
+ChIJqxPb96tNwokROuTs_pdnE2s,40.6267175,-74.1651371,MEKKAH MART MEDITERRANEAN SUPERMARKET,"2256 Forest Ave, Staten Island",4.2,467,501,12.3433352917996,222-222@627-vtz-y5f,Mekkah Mart Mediterranean Market
+ChIJ7yTx2E9MwokRoyTkUWuXlRA,40.61341890000001,-74.1587232,Lander Market,"1430 Richmond Ave # 1, Staten Island",3.8,137,502,9.0167022393799,zzw-223@627-vv3-wzf,Miggy's Supermarket
+ChIJfVUn9ftOwokR9mymjT3FiUY,40.6049962,-74.0830544,CTown Supermarkets,"2071 Clove Rd, Staten Island",4.1,397,502,9.0167022393799,zzw-228@627-wf7-y9z,C Town Supermarkets
+ChIJDWsoeuNOwokRa6f-Ojmu-30,40.598771,-74.08229299999999,Met Food Hylan Blvd,"1177 Hylan Blvd, Staten Island",4.2,595,502,9.0167022393799,222-222@627-wf7-wc5,Met Foodmarkets
+ChIJOfRqBhlPwokRZexONa7Z06w,40.5921917,-74.0683365,Key Food Supermarkets,"300 Sand Ln, Staten Island",4.1,513,502,9.0167022393799,22b-222@627-wf9-9pv,Key Food
+ChIJ___0neNOwokRwqfieKsFkvs,40.5983737,-74.0818232,Shop & Save Superette,"1172 Hylan Blvd, Staten Island",4.3,145,502,9.0167022393799,22h-222@627-wf7-wff,Shop & Save Superette
+ChIJjd2wta9PwokRugIY51RmO0k,40.6174794,-74.0679808,Top Tomato Super Store,"1071 Bay St, Staten Island",3.7,115,501,12.3433352917996,228-223@627-wff-vmk,Top Tomato
+ChIJrT8lbLP1wokRiE2rLeZFXMQ,40.82130840000001,-73.90508609999999,Associated Supermarkets of Woodstock,"724 E 161 St, Bronx",3.7,201,201,25.357904566075,zzw-222@627-s6b-rhq,Associated Supermarkets
+ChIJESuAzbT1wokRC0qqsPQ0Xns,40.8233975,-73.9089218,CTown Supermarkets,"3220 3rd Ave., Bronx",3.5,95,203,25.1325606228962,22b-222@627-s6c-3h5,C Town Supermarkets
+ChIJv4QFAUX0wokRmhNVJQCmwNg,40.8348267,-73.9032845,CTown Supermarkets,"3690 3rd Ave., Bronx",4,259,203,25.1325606228962,zzw-222@627-s6b-66k,C Town Supermarkets
+ChIJ43Tn5k_0wokRoW3iL6JLy2M,40.8311936,-73.9012711,CTown Supermarkets,"630 E 169th St, Bronx",3.4,126,203,25.1325606228962,229-222@627-s6b-3t9,C Town Supermarkets
+ChIJF7g5hrr1wokRd7ejCquv8W0,40.8123109,-73.90272159999999,CTown Supermarkets,"564 Southern Blvd, Bronx",3.6,333,202,23.7214523086652,222-222@627-s6c-9s5,C Town Supermarkets
+ChIJSUoQAkX0wokR--YEC36QXzE,40.835182,-73.9024601,FOOD BAZAAR,"535 E 170th St, Bronx",4.2,2708,203,25.1325606228962,zzy-222@627-s6b-5fz,Food Bazaar Supermarket
+ChIJdTqNzU70wokR6dXmVtuC82U,40.8299321,-73.9061108,Food Universe Marketplace,"3470 3rd Ave., Bronx",4.1,290,203,25.1325606228962,22g-224@627-s6c-w6k,Associated Supermarket of 3rd Avenue
+ChIJvzybULH1wokRyHP7nSpS_eM,40.81784409999999,-73.90596,Bravo Supermarkets,"745 Westchester Ave, Bronx",3.8,104,201,25.357904566075,228-222@627-s6b-nyv,Bravo Supermarkets
+ChIJfxnJULH1wokRowFsRUee3V0,40.8178457,-73.9059611,Golden Apple Tree Supermarket,"745 Westchester Ave, Bronx",3.7,122,201,25.357904566075,228-222@627-s6b-nyv,Bravo Supermarkets
+ChIJveTkYVL0wokRyKh1VupQ9WY,40.825001,-73.9005281,Western Beef Supermarket,"1041 Prospect Ave, Bronx",4,930,202,23.7214523086652,zzw-222@627-s6c-rx5,Western Beef
+ChIJicoh2sZLwokRd2qHbtTc-DU,40.5541815,-74.1441206,SuperFresh,"3501 Amboy Rd, Staten Island",3.6,490,503,7.02645638059043,223-223@627-vvh-rhq,Superfresh
+ChIJVWYV5VpJwokRDc0a_eL8c70,40.56392779999999,-74.1144213,Stop & Shop,"2754 Hylan Blvd, Staten Island",4.1,949,503,7.02645638059043,zzw-223@627-vvc-2rk,Stop & Shop
+ChIJW1g5wbROwokR0gH9elxyexs,40.57528689999999,-74.10455320000001,Family Fruit Hylan – Staten Island Catering and Supermarket,"2270 Hylan Blvd, Staten Island",4.1,722,502,9.0167022393799,22n-222@627-vvc-mtv,Family Fruit Farmers Market
+ChIJ-yUVVmC1w4kRPQYSmO1iGZ4,40.516877,-74.243895,La Bella Marketplace,"99 Ellis St, Staten Island",4.6,626,503,7.02645638059043,zzw-222@627-w7h-8y9,La Bella Marketplace
+ChIJwc2541u1w4kRJs2yes-_WYs,40.517916,-74.236158,Scotty's Marketplace,"240 Page Ave, Staten Island",4.3,243,503,7.02645638059043,223-229@627-w7h-bx5,Top Tomato Super Store
+ChIJ3ZE4la1LwokRdjYKMVCfCRM,40.5457819,-74.1610111,Stop & Shop,"4343 Amboy Rd, Staten Island",3.9,604,503,7.02645638059043,222-223@627-vsv-9zz,Stop & Shop
+ChIJMydMEbdLwokRuhjDBM3_wdc,40.549669,-74.151583,Top Tomato Superstore,"4045 Amboy Rd, Staten Island",4.2,427,503,7.02645638059043,228-222@627-vsw-2tv,Top Tomato Superstore
+ChIJJVx0ZqtLwokRcvBw-IBihsI,40.5448014,-74.16585660000001,Freddies Supermarket,"3830 Richmond Ave, Staten Island",4.6,166,503,7.02645638059043,zzw-223@627-vsv-nt9,Freddie's Pork Store and Salumeria
+ChIJJ_FY8DxLwokRFKyqsMdf-QI,40.5529558,-74.1938911,Key Food Supermarkets,"244 Arden Ave, Staten Island",3.8,430,503,7.02645638059043,226-222@627-vsy-4d9,Key Food
+ChIJjRRDd4xMwokR6r6vBmu4YTQ,40.6011846,-74.177127,Associated Fresh of Victory Blvd,"3579 Victory Blvd, Staten Island",4.1,343,502,9.0167022393799,225-225@627-vsf-fzz,Top Tomato
+ChIJBx09a3tNwokROAiRD90ZLGU,40.6096457,-74.14741579999999,Family Market,"2520 Victory Blvd, Staten Island",4.9,7,501,12.3433352917996,228-222@627-vv3-dsq,V & N Deli
+ChIJz56mocdLwokRsX8gYnp9lpk,40.58015,-74.1664385,Lidl,"283 Platinum Ave, Staten Island",4.3,845,502,9.0167022393799,222-222@627-vsh-6tv,Lidl
+ChIJkTbIdnxMwokRLVbqdLcc_6Q,40.5896623,-74.1657412,Trader Joe's,"2385 Richmond Ave, Staten Island",4.6,2785,502,9.0167022393799,zzw-222@627-vsg-p7q,Trader Joe's
+ChIJ-zE2bI9LwokRrVW8fRE5Z5A,40.5807497,-74.1661092,Grocery store,"Richmond Ave, Staten Island",5,1,502,9.0167022393799,222-229@627-vsh-6rk,Metro Mart
+ChIJ4fdX-HtMwokR0wR7svoI4jg,40.5882391,-74.1649614,Payless Glatt Kosher Meats,"77 Richmond Hill Rd, Staten Island",4.7,31,502,9.0167022393799,22v-223@627-vsg-nt9,Richmond Deli
+ChIJ5XpHHKz1wokRoulkQ_qV1Js,40.8170324,-73.8959026,CTown Supermarkets,"809 Southern Blvd, Bronx",3.7,349,202,23.7214523086652,22n-222@627-s6b-qs5,C Town Supermarkets
+ChIJ4X63jWH0wokR5ZLyW1u_Byo,40.8450727,-73.8907748,Fine Fare Supermarkets,"708, 1 E Tremont Ave, Bronx",3.6,591,206,26.6888708317204,22t-222@627-s6k-rp9,Fine Fare Supermarkets
+ChIJCd4UmfX0wokRtqLHDoQKBiI,40.8375743,-73.8880179,CTown Supermarkets,"1761 Southern Blvd, Bronx",3.5,169,203,25.1325606228962,22s-222@627-s6j-ks5,C Town Supermarkets
+ChIJtZ49LAf1wokRAawluVpJbNc,40.81550300000001,-73.8865859,Food Universe Marketplace,"724 Hunts Point Ave, Bronx",4,211,202,23.7214523086652,22x-223@627-s6c-p35,Food Universe Marketplace
+ChIJTQjE_Lb1wokRmqNh-wEUB2o,40.8212287,-73.8907638,Food Fair Fresh Market,"1065 E 163rd St, Bronx",4,475,202,23.7214523086652,227-222@627-s6c-cyv,Food Fair
+ChIJ8c3zt1X0wokRMvyxhE4PYrI,40.8247759,-73.8913242,Key Food Supermarkets,"1050 Westchester Ave, Bronx",3.9,513,202,23.7214523086652,22b-222@627-s6c-cnq,Key Food
+ChIJx8U-0wD1wokRmOSfwSxDZHI,40.8155483,-73.8866326,Compare Foods Supermarket,Bronx,5,1,202,23.7214523086652,22x-223@627-s6c-p35,Food Universe Marketplace
+ChIJASdSAPb0wokR8en2G7FqRX4,40.8351484,-73.8886204,Western Beef Supermarket,"1564 Southern Blvd, Bronx",4,487,203,25.1325606228962,22k-222@627-s6j-p35,Western Beef
+ChIJGdZigq71wokRI1Gdno8ZAOY,40.81678369999999,-73.89730279999999,Serie Fifty Five Supermarket,"1000 Longwood Ave, Bronx",4.4,7,202,23.7214523086652,229-222@627-s6b-ndv,Reyes Mexican Deli
+ChIJ3ZP2FIn0wokR9T8AYImviK4,40.845834,-73.88489489999999,Price Choice,"820 E 180th St, Bronx",3.5,191,206,26.6888708317204,22d-222@627-s6k-tqf,Price Choice
+ChIJfzvzPoTzwokRTjewQbVTS_8,40.8674102,-73.89671109999999,Morton Williams Supermarkets,"15 E Kingsbridge Rd, Bronx",4,1049,207,20.7937930965985,zzy-222@627-rw9-s5z,Morton Williams Supermarkets
+ChIJtXfYn4HzwokRaPeuF731R18,40.8643607,-73.8918893,Food Universe Marketplace,"312 E 194th St, Bronx",3.8,152,207,20.7937930965985,22z-222@627-s6h-xt9,Food Universe Marketplace
+ChIJG8JuxZzzwokRluDp0uSEx_8,40.870683,-73.8922827,CTown Supermarkets,"30 E 198th St, Bronx",3.9,401,207,20.7937930965985,22r-222@627-rw9-vxq,C Town Supermarkets
+ChIJZQW1g671wokRI8FIOAii5bA,40.81678309999999,-73.8973012,Sabor Latino Deli Supermarket,"1000 Longwood Ave, Bronx",4.5,58,202,23.7214523086652,229-222@627-s6b-ndv,Reyes Mexican Deli
+ChIJUcf-xU30wokRacW2dIVDrds,40.8266608,-73.90283869999999,JCJ Supermarket Corporation,"735 E 166th St #1, Bronx",3.8,24,203,25.1325606228962,224-222@627-s6c-qs5,JCJ Supermarket
+ChIJuaAvqUL1wokRlVG5jKFqmnE,40.8293923,-73.91608,Kadija Supermarket,"1034 Morris Ave, Bronx",4.6,25,204,22.3113299111211,235-222@627-s69-ch5,Kadija Supermarket
+ChIJx7HUxFP0wokR85uHdqA0ORg,40.8262359,-73.8972646,Waseem Grocery,"1103 Intervale Ave, Bronx",4.7,31,202,23.7214523086652,22s-222@627-s6c-vfz,Waseem Grocery
+ChIJtQX-8e_0wokRlFuu_0femFY,40.8292164,-73.8761395,Associated Supermarket,"1585 Westchester Ave, Bronx",4,791,209,19.4208298636461,22s-222@627-rwr-f4v,Associated Supermarkets
+ChIJ0c9T14b0wokRRp4Ps82Jtfk,40.8539793,-73.8858192,CTown Supermarkets,"668 Crescent Ave, Bronx",3.9,745,206,26.6888708317204,22f-223@627-s6j-5j9,C Town Supermarkets
+ChIJrVuxG430wokRgExQBQIirAc,40.8408516,-73.8790835,Key Food Supermarkets,"2044 Boston Rd, Bronx",3.9,514,206,26.6888708317204,227-223@627-s6k-dsq,Key Food
+ChIJsYxIifT0wokRvvRWNkXqmL8,40.8382134,-73.88386000000001,Stop & Shop,"961 E 174th St, Bronx",4.2,2373,203,25.1325606228962,zzw-222@627-s6j-q2k,Stop & Shop
+ChIJNy8dXWrzwokRUk1HeXRZYnQ,40.87362290000001,-73.8673019,Fine Fare Supermarkets,"3315 White Plains Rd, Bronx",4,250,212,17.0046806291805,22m-222@627-rw6-mzf,Fine Fare Supermarkets
+ChIJAYxHIhPzwokR_CcUayGHw-w,40.8787493,-73.8738281,Fine Fare Supermarkets,"320 E Gun Hill Rd, Bronx",3.9,573,207,20.7937930965985,zzw-222@627-rw6-nwk,Fine Fare Supermarkets
+ChIJ_ZYpznXzwokRk2C8GatRV4g,40.8750127,-73.8867124,Fine Fare Supermarkets,"3131, 1 Grand Concourse, Bronx",4,205,207,20.7937930965985,227-222@627-rw9-7kf,Fine Fare Supermarkets
+ChIJG7oOZBXzwokRESgLuUf88j0,40.8782931,-73.8654813,Fine Fare Supermarkets,"3550 White Plains Rd, Bronx",3.7,218,212,17.0046806291805,22g-222@627-rw6-qj9,Fine Fare Supermarkets
+ChIJR3_rpnbzwokR7af1CIX6QtI,40.8739186,-73.8840372,CTown Supermarkets,"264 E 204th St, Bronx",3.9,345,207,20.7937930965985,22x-222@627-rw9-brk,C Town Supermarkets
+ChIJ98bGgJ_0wokRQDwq18QuEGE,40.854546,-73.86543879999999,Key Food Supermarkets,"751 Lydig Ave, Bronx",4,742,211,16.123032625179,22w-222@627-rwc-py9,Key Food
+ChIJmcq2yGfzwokRQus8ieBQY8o,40.8659386,-73.8675481,Key Food Supermarkets,"2711 White Plains Rd, Bronx",3.9,481,211,16.123032625179,224-222@627-rw6-vcq,Key Food
+ChIJW03CDHjzwokRa8eDMwa7Z9Q,40.8687477,-73.88822739999999,Met Foodmarkets of Fordham Manor,"277 E 198th St, Bronx",3.7,274,207,20.7937930965985,224-223@627-rw9-jd9,Met Food Supermarkets
+ChIJUQ38Enb0wokR1BZ3OsrGzdw,40.8623657,-73.9050717,Food Universe Marketplace,"2358 University Ave, Bronx",4.2,107,207,20.7937930965985,226-222@627-s6j-7dv,Food Universe Marketplace
+ChIJ56KeIHLzwokRWyHZOqRDTsc,40.873577,-73.878776,Foodtown of Bainbridge,"283 E 204th St, Bronx",3.9,1329,207,20.7937930965985,224-222@627-rwb-9cq,Foodtown
+ChIJcRkfJZ_0wokR54DtjAUoQ4Q,40.8528397,-73.8675521,Food Universe Marketplace,"2080 White Plains Rd, Bronx",3.9,282,211,16.123032625179,zzw-222@627-rwc-pqf,Food Universe Marketplace
+ChIJkaGDnXnzwokRk0BNZUttMTs,40.866594,-73.88375909999999,Cherry Valley Marketplace,"2870 Webster Ave #3013, Bronx",4.1,1232,206,26.6888708317204,222-222@627-rw9-dsq,Cherry Valley Marketplace
+ChIJGbOTEV3zwokR1krFJvh8Cjg,40.8647015,-73.8629946,Fine Fare Supermarkets,"2556 Boston Rd, Bronx",4.2,707,211,16.123032625179,22h-222@627-rwc-jqf,Fine Fare Supermarkets
+ChIJLWJUIG3zwokRSQE8iYHivVI,40.87667820000001,-73.87442159999999,Moronta's Supermarket Corp,"3294 Hull Ave, Bronx",3.7,16,207,20.7937930965985,226-222@627-rw6-nnq,Villa Deli Food Corporation
+ChIJx-xaSu_0wokRq0_4u9273lk,40.8296674,-73.8721869,Fine Fare Supermarkets,"1221 Fteley Ave, Bronx",4,1211,209,19.4208298636461,224-222@627-rwr-cqz,Fine Fare Supermarkets
+ChIJbR8aavr0wokRjuuTY9w4sR8,40.8282524,-73.88147169999999,Food Dynasty Supermarkets,"1470 Westchester Ave, Bronx",3.8,152,209,19.4208298636461,228-223@627-s6j-syv,Food Dynasty
+ChIJBeZOAnD1wokRrbPSDSjwrHE,40.8296183,-73.87211549999999,SÚPER market,"1661 Gleason Ave, Bronx",4,27,209,19.4208298636461,224-222@627-rwr-cqz,Fine Fare Supermarkets
+ChIJ4-y9MpX0wokR7Bn9EiK3B8o,40.837475,-73.8675164,Fine Fare Supermarkets,"1481 Beach Ave, Bronx",3.5,116,209,19.4208298636461,22f-222@627-rwx-kmk,Fine Fare Supermarkets
+ChIJAw-50bj0wokRqvJzZedscnA,40.8399422,-73.86164990000002,CTown Supermarkets,"1580 Unionport Rd, Bronx",3.9,376,209,19.4208298636461,226-222@627-rwx-mx5,C Town Supermarkets
+ChIJaZ1IbLn0wokRjUEaVPNkqak,40.840174,-73.855705,Fine Fare Supermarkets,"1654 Metropolitan Ave, Bronx",4,208,209,19.4208298636461,224-222@627-rwx-7nq,Fine Fare Supermarkets
+ChIJcUQNQsH0wokRwjtz8Pb6svY,40.8323974,-73.86086569999999,CTown Supermarkets,"100 Hugh J. Grant Cir, Bronx",4,762,209,19.4208298636461,224-222@627-rwx-sqz,C Town Supermarkets
+ChIJWXZbjrj0wokR5o60fUCPIgM,40.8365535,-73.8573784,Key Food Supermarkets,"1535 Unionport Rd, Bronx",4.1,339,209,19.4208298636461,225-222@627-rwx-73q,Key Food
+ChIJm0f8MLn0wokRws2r6kKPDkw,40.8394444,-73.8588889,Key Food Supermarkets,"1511 Metropolitan Ave, Bronx",3.8,167,209,19.4208298636461,227-222@627-rwx-8sq,Key Food
+ChIJLSCnXL70wokRNmBdr6GywLw,40.8373431,-73.8615475,Foodtown of West Ave,"1489 West Ave, Bronx",4.1,786,209,19.4208298636461,224-222@627-rwx-6c5,Foodtown
+ChIJlQ1aoaX0wokRNfXKkAWp-GY,40.848191,-73.855486,Big Deal Foodtown,"1018 Morris Park Ave, Bronx",4.3,707,211,16.123032625179,23b-222@627-rwy-c5z,Foodtown
+ChIJgfbL0ML0wokRMawZViMju_w,40.8270653,-73.8627932,Western Beef Supermarket,"1851 Bruckner Blvd, Bronx",4.1,2189,209,19.4208298636461,223-223@627-rwr-2tv,Western Beef
+ChIJgewRk8f0wokRcAo1GRnnSp0,40.8350839,-73.85535200000001,Chang Li Supermarket Inc.,"2079 Benedict Ave, Bronx",4.1,787,209,19.4208298636461,225-222@627-rwx-5pv,Chang Li Supermarket
+ChIJ47FZrPD1wokRv5olmrWxAFI,40.8543643,-73.86729129999999,Hudson Supermarket & Halal Meat,"706 Lydig Ave, Bronx",4.3,22,211,16.123032625179,22b-222@627-rwc-pn5,European Fresh Produce
+ChIJ_UeupVvzwokRML313OxdtG4,40.862568,-73.8575472,Paradise Food Market,"2476 Williamsbridge Rd, Bronx",3.5,72,211,16.123032625179,222-222@627-rwc-kj9,Associated Super Market
+ChIJ67wJ4Lf0wokRkTeni7a3hP4,40.8352762,-73.8521885,Pioneer Supermarkets of Unionport,"1345 Castle Hill Ave, Bronx",3.5,299,209,19.4208298636461,22y-222@627-rwx-5vf,Pioneer Supermarkets
+ChIJLYevTVvzwokR11ORf9NT2JY,40.8652229,-73.85849759999999,Foodtown of Allerton Avenue,"1000 Allerton Ave, Bronx",4.1,812,211,16.123032625179,zzy-223@627-rw6-gzf,Foodtown
+ChIJe_XUILyMwokRuBZDCRrptZU,40.8646013,-73.82210309999999,Food Universe Marketplace,"119 Einstein Loop N, Bronx",3.7,77,210,12.334434283602,zzw-222@627-rwf-wkz,Food Universe Marketplace
+ChIJR4Ky5UaLwokRt0MvsMfY0II,40.8343669,-73.8267489,Super Foodtown of Throgg's Neck,"2945-65 Bruckner Blvd, Bronx",4.2,1407,210,12.334434283602,zzy-222@627-rwt-gtv,Foodtown
+ChIJTw7u-az0wokRPfGetOljWXU,40.8470888,-73.8434632,Stop & Shop,"1720 Eastchester Rd, Bronx",4.2,2415,211,16.123032625179,zzw-224@627-rw7-ysq,Stop & Shop
+ChIJ2_Ca1rOMwokRF_GGXG4Ojic,40.8632091,-73.8349915,ALDI,"1750 E Gun Hill Rd Suite B, Bronx",4.3,3483,211,16.123032625179,zzw-222@627-rw8-ghq,ALDI
+ChIJGSxAj0GLwokReQ7Hm-3p1uM,40.835114,-73.8205172,Lizzie's Supermarket,"3201 Layton Ave, Bronx",3.7,94,210,12.334434283602,zzy-222@627-rwv-4vz,Food Universe Marketplace
+ChIJIzyqwD6LwokRlq6AiJHuHxs,40.8272471,-73.8231775,Fine Fare Supermarkets,"3680 E Tremont Ave, Bronx",3.7,699,210,12.334434283602,225-223@627-rwt-cbk,Fine Fair Supermarket
+ChIJ5xwZDrj0wokR0pdI7MpDJPk,40.8363559,-73.85480830000002,Al-Aqsa Halal Meat Supermarket,"2101 Starling Ave, Bronx",4.2,530,209,19.4208298636461,22n-222@627-rwx-5xq,Al Aqsa Halal Meat & Supermarket
+ChIJURSXErj0wokR_NBX5288sZ0,40.8362211,-73.8550302,Premium Halal Meat & Fish,"1500 Olmstead Ave, Bronx",3.7,45,209,19.4208298636461,22n-222@627-rwx-5xq,Al Aqsa Halal Meat & Supermarket
+ChIJX7t0f2tiwokRv2xChuvLF-o,40.74266799999999,-73.7216995,Maharaja Supermarket,"248-13 Union Tpke, Queens",4.1,64,413,8.9203113282698,229-222@627-rzv-wkz,Maharaja Supermarket
+ChIJV2cdh9iJwokRoCeNKpkJwRM,40.760663,-73.730851,Nature Farm Supermarket Corp,"249-26 Horace Harding Expy, Little Neck",3.9,288,411,7.59947857521556,22b-222@627-rzs-zvf,Nature Farm Supermarket
+ChIJQbvwaEJiwokRZNG15m5FUqo,40.735504,-73.71624,Patel Brothers,"251-08 Hillside Avenue, Queens",4.1,1260,413,8.9203113282698,22y-222@627-ryv-ct9,Patel Brothers
+ChIJfX2iJUJiwokRsLV9HEmmJjU,40.735111,-73.7178466,Maharaja Farmers Market,"249-12A Hillside Avenue, Queens",4,1151,413,8.9203113282698,22q-222@627-rzp-4y9,Maharaja Farmer's Market
+ChIJr-RVbPOJwokREs7JUg5YsVs,40.7606264,-73.7308681,新大众超市,"24926 Horace Harding Expy, Queens",4.2,9,411,7.59947857521556,22b-222@627-rzs-zvf,Nature Farm Supermarket
+ChIJM6XhdkdZwokR2FInILnIEm4,40.7299071,-73.950973,Key Food Supermarkets,"224 McGuinness Blvd, Brooklyn",4.2,592,301,16.8487727632621,224-222@627-s8g-sbk,Key Food
+ChIJJSxAyEBZwokROofQWj3xRVg,40.729929,-73.9542572,Mom & Pop's Organic Market,"889 Manhattan Ave, Brooklyn",3.8,14,301,16.8487727632621,zzw-228@627-s8g-ty9,Mom &amp Pop's Organic Market
+ChIJSfsWOGDzwokRQ0AOkyn_vMQ,40.8584555,-73.86726159999999,Community Green Market,"2228 White Plains Rd, Bronx",4.5,336,211,16.123032625179,22c-222@627-rwc-j5f,Community Green Market
+ChIJfbmVCqHzwokR3O-6WaX-Pos,40.8828954,-73.8930355,Food Universe Marketplace,"50 Van Cortlandt Ave W, Bronx",3.7,317,208,14.2645261447227,224-222@627-rwb-d7q,Food Dynasty
+ChIJhfnoagzzwokReK6V8Pz-NUE,40.8824642,-73.8819932,Key Food Supermarkets,"3515 Jerome Ave, Bronx",3.5,531,207,20.7937930965985,229-222@627-rwb-435,Key Food
+ChIJmya3COzzwokRov1zgAR5NVs,40.8784924,-73.91746789999999,Ben's Market,"19 Knolls Crescent # B, Bronx",4.3,84,208,14.2645261447227,22j-222@627-s5x-t35,Ben's Meat O Mat Market
+ChIJL8bETcOMwokRJU_Tf7Erokw,40.8805081,-73.8251382,Stop & Shop,"691 Co Op City Blvd, Bronx",4.2,1102,210,12.334434283602,222-224@627-rwg-h3q,Stop & Shop
+ChIJP-Hw3LiMwokRysU44VJyISU,40.8687666,-73.8255501,Stop & Shop,"2136 Bartow Ave, Bronx",4.2,1727,210,12.334434283602,zzw-223@627-rwf-wc5,Stop & Shop
+ChIJx-R1neiNwokReW2v90YQxp8,40.849233,-73.7875751,CTown Supermarkets,"385 City Island Ave, Bronx",4.2,67,210,12.334434283602,228-222@627-rvb-xbk,C Town Supermarkets
+ChIJV6XmRriMwokRiPU7wbmVQ8Y,40.8706068,-73.8284436,Food Universe Marketplace,"2061 Bartow Ave, Bronx",3.7,160,210,12.334434283602,zzw-223@627-rwf-zs5,Food Universe Marketplace
+ChIJsVfTpcWMwokRjUEQF2bYqtE,40.8768272,-73.8289108,Food Universe Marketplace,"111 Dreiser Loop, Bronx",3.6,112,210,12.334434283602,228-222@627-rwf-q4v,Food Universe Marketplace
+ChIJj4rEg9T0wokRMrl61GkqxTU,40.8190041,-73.8446172,Golden Mango Supermarkets,"2300 Randall Ave, Bronx",4.2,1155,209,19.4208298636461,zzw-222@627-rwm-7dv,Golden Mango
+ChIJM4FHDhiLwokR-QZKjQRGNck,40.819506,-73.817734,S&W Supermarket & Deli,"4028 E Tremont Ave, Bronx",4.3,319,210,12.334434283602,zzw-222@627-rww-2hq,S & W Supermarket
+ChIJd5UCUdH0wokR2UXWj7TSujY,40.8201256,-73.8479085,Key Food Supermarkets,"656 Castle Hill Ave, Bronx",4,444,209,19.4208298636461,22k-222@627-rwm-kfz,Food Fair
+ChIJdRUSKc7ywokRzHFvXkgQips,40.9040891,-73.8500537,Fine Fare Supermarkets,"4725 White Plains Rd, Bronx",3.8,242,212,17.0046806291805,225-222@627-sm9-9mk,Fine Fare Supermarkets
+ChIJE0hQCSzzwokRNXtfA5ppMfs,40.8882658,-73.84710179999999,Associated Supermarkets of Edenwald,"4141 Laconia Ave, Bronx",3.9,363,212,17.0046806291805,23c-222@627-rwd-vs5,Associated Supermarkets
+ChIJwQqYaSvzwokR2vl44PAU-mw,40.8894632,-73.8436203,Fine Fare Supermarkets,"1199 E 233rd St, Bronx",4.1,544,212,17.0046806291805,22f-222@627-rwd-jgk,Fine Fare Supermarkets
+ChIJ14FI7dCMwokRLaKrnOVCze4,40.8837097,-73.8326278,CTown Supermarkets,"4008 Boston Rd, Bronx",3.5,231,212,17.0046806291805,zzw-222@627-rwg-vpv,C Town Supermarkets
+ChIJfa3gIS7zwokRiHpvGPX0bEo,40.8839707,-73.84908709999999,CTown Supermarkets,"3970 Laconia Ave, Bronx",3.8,280,212,17.0046806291805,234-222@627-rw7-3bk,C Town Supermarkets
+ChIJk3c1OuDywokRH1rMyKAoU7M,40.8973756,-73.8674589,CTown Supermarkets,"4265 Katonah Ave, Bronx",4.3,258,212,17.0046806291805,22f-222@627-rwh-zs5,C Town Supermarkets
+ChIJUVA2gjbzwokRvbkFnrfTWgE,40.8767747,-73.8477078,Foodtown of Boston Road,"3471 Boston Rd, Bronx",4,878,212,17.0046806291805,223-222@627-rw6-zfz,Foodtown
+ChIJZWF4PyPzwokRRy1RkyakaVY,40.8868407,-73.8606995,Food Universe Marketplace,"3942 White Plains Rd 2nd floor, Bronx",3.9,407,212,17.0046806291805,zzw-222@627-rwj-59f,Food Universe Marketplace
+ChIJ80kMnteMwokRgRAgMm6P3sk,40.8889125,-73.8311294,Sunshine Supermarket,"3830 Dyre Ave, Bronx",4.3,6,212,17.0046806291805,zzw-222@627-rwf-5mk,Sunshine Supermarket
+ChIJxxo4yD3zwokRDP7GmrCa6Mk,40.882318,-73.863063,Foodtown of White Plains,"3734 White Plains Rd, Bronx",4.1,624,212,17.0046806291805,225-222@627-rw7-dqf,Foodtown
+ChIJNRBLRNjywokRwgIuMLIdBkY,40.896172,-73.855542,Foodtown of White Plains Road,"4332 White Plains Rd, Bronx",4.1,1146,212,17.0046806291805,229-222@627-rwd-kfz,Foodtown
+ChIJv_HhGyfzwokR5tztI0aamso,40.8930556,-73.8577778,Key Food Supermarkets,"4171 White Plains Rd, Bronx",4.2,573,212,17.0046806291805,22g-222@627-rwd-nh5,Key Food
+ChIJEzC2UyzzwokRzL-3d8Tzg0M,40.8759938,-73.86156009999999,Cherry Valley Marketplace,"801 E Gun Hill Rd, Bronx",4.2,1415,212,17.0046806291805,zzw-222@627-rw6-9fz,Cherry Valley Marketplace
+ChIJ--GWDyzzwokRMvHRh43j9oA,40.8881465,-73.8470064,City Fresh Market,"4139 Laconia Ave, Bronx",3.8,4,212,17.0046806291805,23c-222@627-rwd-vs5,Associated Supermarkets
+ChIJ38X9pVvzwokR_IgJ5AOu7zo,40.8803323,-73.86531339999999,Western Beef Supermarket,"3629 White Plains Rd, Bronx",4.1,233,212,17.0046806291805,zzw-222@627-rw6-q2k,Western Beef
+ChIJpRjitj3zwokRt9kFD-g5kU4,40.88250379999999,-73.8631286,Emerald grocery,"3738 White Plains Rd, Bronx",3.8,4,212,17.0046806291805,225-222@627-rw7-dqf,Foodtown
+ChIJ5bj1bkjzwokRCSHrU0c82fs,40.8728474,-73.8532568,Brothers Produce & Fish Supermarket,"1154 E Gun Hill Rd, Bronx",4.3,482,211,16.123032625179,229-222@627-rw7-789,Brothers Produce & Fish
+ChIJadIYX9CMwokRPda1I5Eliqk,40.8838613,-73.8318808,SY Grace West Indian Supermarket,"4018b Boston Rd, Bronx",4.4,693,212,17.0046806291805,228-222@627-rwg-t5f,SY Grace West Indian Market
+ChIJWVFL2HHzwokRHlE9vepDeMk,40.8715128,-73.87737229999999,La Gran Antillana,"366 E 204th St, Bronx",3.7,3,207,20.7937930965985,22w-222@627-rwb-5cq,California Market
+ChIJCbG2RfvzwokRby6v9bQVulg,40.8716658,-73.8771192,Gausia Foods Halal Supermarket,"367 E 204th St, Bronx",3.9,11,207,20.7937930965985,22d-222@627-rwb-5cq,Gausia Foods
+ChIJ5zs-J27zwokRguhg0GBDxg0,40.8716407,-73.8770163,Dhaka Supermarket and Halal Meat,"369 E 204th St, Bronx",4.1,217,207,20.7937930965985,22z-223@627-rwb-5cq,Dhaka Super Market &amp Halal Meat
+ChIJNXj-803ywokRrChncFG870c,40.9052883,-73.9010988,CTown Supermarkets,"5686 Mosholu Ave, Bronx",4,142,208,14.2645261447227,zzw-223@627-smd-k9f,C Town Supermarkets
+ChIJ2a99q7_zwokRPU_TjuOXaxE,40.9060147,-73.904986,Key Food Supermarkets,"5661 Riverdale Ave, Bronx",3.4,393,208,14.2645261447227,223-222@627-s64-4jv,Key Food
+ChIJXTPrAyD1wokRKrkc5z5gGQ4,40.8168394,-73.8655551,Food Universe Marketplace,"1757 Randall Ave, Bronx",3.9,365,209,19.4208298636461,222-222@627-rwr-575,Food Universe Marketplace
+ChIJTRgU59v0wokRhk7SlfZchgg,40.82139,-73.8583565,Met Foodmarkets of Soundview,"769 White Plains Rd, Bronx",3.9,156,209,19.4208298636461,zzy-223@627-rwq-xkf,Met Foodmarkets
+ChIJA0xnv-D0wokRlg7-WzvMYEc,40.8218671,-73.8673161,Western Beef Supermarket,"831 Rosedale Ave, Bronx",3.5,420,209,19.4208298636461,zzy-222@627-rwq-8n5,Western Beef
+ChIJpQa3F-b0wokRpaaFf4WpWBo,40.8270255,-73.8698431,Rivera Grocery,"1702 Watson Ave, Bronx",2.5,2,209,19.4208298636461,23m-223@627-rwr-dd9,Rivera Grocery
+ChIJpQa3F-b0wokRZUp_heq-qu0,40.8270255,-73.8698431,Lisbeth Food Corporation,"1702 Watson Ave, Bronx",3.7,88,209,19.4208298636461,23m-223@627-rwr-dd9,Rivera Grocery
+ChIJqzzjyun0wokRg-JfBed62-Y,40.8299543,-73.8666041,Gleason Grocery Corporation,"1791 Gleason Ave, Bronx",3.8,28,209,19.4208298636461,22t-222@627-rwx-rff,Gleason Grocery Corporation
+ChIJQfOPpxD1wokRIJP4UFnUYoY,40.806732,-73.87222870000001,Oriental Grocery Store,"355 Food Center Dr # 9C, Bronx",1,1,202,23.7214523086652,zzw-224@627-sbc-fs5,Latin Amer Whol
+ChIJc0xbeAdfwokRlpDMeyvLCUo,40.7490502,-73.88954319999999,Ferreira Foodtown of Jackson Heights - Supermarket,"76-10 37th Ave, Queens",4.1,1492,403,10.4416061201543,22q-222@627-s7w-nh5,Foodtown
+ChIJO8CmCgdfwokRIcpMEFxSqeQ,40.7493188,-73.89048319999999,Food Dynasty,"75-07 37th Ave, Queens",4,422,403,10.4416061201543,22w-222@627-s7w-nnq,Food Dynasty
+ChIJ4XuXPq5fwokRcdf1xnbHGeY,40.7484663,-73.89253049999999,Haat Bazar Supermarket,Jackson Heights,3.7,7,403,10.4416061201543,zzw-227@627-s7w-psq,Jaks Corner
+ChIJ9bxVSwpfwokRJyW4A0Zm65k,40.7584151,-73.8922113,Supermarket Bazaar,"75-10 31st Ave, East Elmhurst",4.1,7,403,10.4416061201543,22p-222@627-sb6-nwk,75th St Super Bazaar
+ChIJX1wA4zxfwokREDQb_AQpwN0,40.75709,-73.9156,Adriatic Meat Market,"44-10 Broadway, Astoria",4.3,18,401,13.4009229732834,23b-222@627-sb9-rp9,Tropical Fruit Market
+ChIJw3FOIgdfwokR2XxRm53-gl4,40.74807699999999,-73.89153999999999,Patel Brothers,"37-27 74th Street, Queens",4.3,3521,403,10.4416061201543,225-222@627-s7w-qvf,Patel Brothers
+ChIJW2c2-aRfwokRqA6PBZ_vV0g,40.748734,-73.89284669999999,Apna Bazar Farmers Market,"72-30 37th Ave, Queens",4.1,241,403,10.4416061201543,zzw-227@627-s7w-psq,Jaks Corner
+ChIJ_UT08FNawokROFxiomh_gsg,40.682061,-73.9879764,CTown Supermarkets,"239 Bond St, Brooklyn",3.8,272,306,10.886166172325,22w-222@627-wc3-g49,C Town Supermarkets
+ChIJcbTORaZbwokR91FNUl9BKeQ,40.677299,-73.969338,Foodtown of Prospect Heights,"632 Vanderbilt Ave, Brooklyn",4.3,885,308,16.9051320723646,226-222@627-s8x-zxq,Foodtown
+ChIJFSTDybdbwokRA9WCf0uwwKU,40.6934004,-73.9734185,Bravo Supermarkets,"331-337 Myrtle Ave, Brooklyn",3.7,247,302,13.3904746681599,236-222@627-s8y-y35,Bravo Supermarkets
+ChIJ0eqPlLtbwokRqOnvV7BVrLA,40.6870541,-73.9663116,Waverly Gourmet Market- Neighborhood Supermarket,"367 Waverly Ave, Brooklyn",4,172,302,13.3904746681599,22c-223@627-s8x-vpv,Waverly Gourmet Market
+ChIJL6mgm6pbwokRq885tDt3utM,40.6761589,-73.9809598,Associated Supermarkets of Park Slope,"216 5th Ave, Brooklyn",4.3,262,306,10.886166172325,229-222@627-wh3-pjv,Associated Supermarkets
+ChIJdUi5qsBbwokRFffrB3DLWpg,40.6933444,-73.9652167,Key Food Supermarkets,"492 Myrtle Ave, Brooklyn",4.2,730,302,13.3904746681599,226-222@627-s8y-jy9,Key Food
+ChIJwzdy7_RawokRxL22gU28aMA,40.6759883,-74.0044296,CTown Supermarkets,"57 Mill St, Brooklyn",3.7,223,306,10.886166172325,22j-222@627-wh6-94v,C Town Supermarkets
+ChIJaSqPGKFbwokRk3p3Wz8AOJE,40.676279,-73.963638,Ideal Food Basket,"720 Washington Ave, Brooklyn",3.9,493,308,16.9051320723646,22t-222@627-s8x-yqf,Ideal Food Basket
+ChIJVUNQMqNbwokR_kav5RhhYiE,40.6829149,-73.9633123,Key Food Supermarkets,"991 Fulton St, Brooklyn",4,296,302,13.3904746681599,223-222@627-s8y-qxq,Key Food
+ChIJmcJlCKpbwokRYS_QqdVx01A,40.67526300000001,-73.9778591,Union Market,"754-756 Union St, Brooklyn",4.2,214,306,10.886166172325,23m-222@627-wh3-bff,Union Market
+ChIJD5RoCk1bwokRU_ZYahwoqg8,40.6341628,-73.94938309999999,Fine Fare Supermarkets,"1498 Flatbush Ave, Brooklyn",3.8,375,314,15.3013319074573,22j-222@627-wg3-p7q,Fine Fare Supermarkets
+ChIJeZMsDIZcwokRpptvAQQhzUg,40.6632953,-73.9251838,Food Universe Marketplace,"1038 Rutland Rd, Brooklyn",3.9,188,317,14.0761094505928,23h-222@627-s8w-kvf,Food Universe Marketplace
+ChIJvdAfTmhbwokRfCu6X3-qhq4,40.6534195,-73.9501435,CTown Supermarkets,"1362 Nostrand Ave., Brooklyn",4.2,272,317,14.0761094505928,22c-222@627-wg9-wtv,C Town Supermarkets
+ChIJ5WUZfotcwokR6074Sk9JtPc,40.6614654,-73.9151073,Fine Fare Supermarkets,"783 Saratoga Ave, Brooklyn",3.9,425,316,25.5057334738635,22b-222@627-wg7-t9z,Fine Fare Supermarkets
+ChIJ-T37WmBbwokRG2i5bUv7WD4,40.6515189,-73.9382954,Associated Fresh of East Flatbush,"4121 Church Ave, Brooklyn",3.9,135,317,14.0761094505928,22d-222@627-wg9-jqf,Associated Supermarkets
+ChIJS4JrIYlcwokR4EYSQG_qAsc,40.6633349,-73.9215298,CTown Supermarkets,"146 E 98th St, Brooklyn",3.8,719,317,14.0761094505928,22p-222@627-s8w-jqf,C Town Supermarkets
+ChIJjXei3YBcwokRPBFQPnLjYE0,40.6667009,-73.9316075,CTown Supermarkets,"330 Utica Ave, Brooklyn",3.7,386,309,16.7576143125961,239-222@627-s8w-wx5,C Town Supermarkets
+ChIJO3zMaIRbwokR9ZCrp8MgqeY,40.6412377,-73.9566839,Food Universe Marketplace,"1188 Flatbush Ave, Brooklyn",4.1,254,314,15.3013319074573,22y-222@627-wg4-q2k,Food Universe Marketplace
+ChIJ4ccBSVxbwokR0QRjbKvQGXE,40.6473186,-73.9437891,Ideal Food Basket of Brooklyn Ave,"1086 Brooklyn Ave, Brooklyn",4.2,239,317,14.0761094505928,22d-223@627-wgb-73q,Ideal Food Basket
+ChIJQ6A0nZlcwokRFvcY_V6ZAPU,40.65261599999999,-73.9270652,CTown Supermarkets,"5311 Church Ave, Brooklyn",3.9,363,317,14.0761094505928,234-222@627-wgb-kmk,C Town Supermarkets
+ChIJVU9CKW9bwokRjlvTgaMBVB4,40.6570087,-73.9504937,Key Food Supermarkets,"1232 Nostrand Ave., Brooklyn",3.8,423,309,16.7576143125961,22j-222@627-wgb-33q,Key Food
+ChIJTWLC6bdcwokROzi2rcGIF60,40.63523300000001,-73.9133283,CTown Supermarkets,"7924 Flatlands Ave, Brooklyn",3.8,352,318,10.3519973638082,23d-222@627-wfz-c5z,C Town Supermarkets
+ChIJj1hQucVbwokRsOkJXMH65Y4,40.64182419999999,-73.9365476,CTown Supermarkets,"4209 Avenue D, Brooklyn",3.7,112,317,14.0761094505928,23h-223@627-wg9-qpv,C Town Supermarkets
+ChIJjRHz009bwokRILwYD1nj0co,40.6391286,-73.94813599999999,Key Food Supermarkets,"1905 Nostrand Ave., Brooklyn",3.9,396,317,14.0761094505928,22c-222@627-wg4-g8v,Key Food
+ChIJVfuBN0VbwokR7ypGjClJOwQ,40.642808,-73.9484071,CTown Supermarkets,"1761 Nostrand Ave., Brooklyn",4,190,317,14.0761094505928,22b-222@627-wgb-6c5,C Town Supermarkets
+ChIJeb6o455cwokRv61s-Y0_WYk,40.6515229,-73.9321713,Ideal Fresh Market,"4806 Church Ave, Brooklyn",4,457,317,14.0761094505928,239-222@627-wgb-mkz,NSA Supermarket
+ChIJw56X0oVcwokRym_rQgU8YDE,40.6624926,-73.92722619999999,Bravo Supermarkets,"80 E 93rd St, Brooklyn",4.3,315,317,14.0761094505928,zzw-223@627-s8w-hnq,Bravo Supermarkets
+ChIJ6zKRXPlbwokRZfEaAVuvo3s,40.6548042,-73.9564444,Ideal Food Basket of Bedford Ave,"2036 Bedford Ave, Brooklyn",3.9,99,314,15.3013319074573,22d-222@627-wh4-skf,Ideal Food Basket
+ChIJhfa2TrFcwokR73lZd4MIhX0,40.6331516,-73.9190485,Key Food Supermarkets,"1804 Ralph Ave, Brooklyn",4,706,318,10.3519973638082,227-222@627-wfy-pvz,Key Food
+ChIJ6xWkQEdbwokRByzukhZoTew,40.6468925,-73.9568099,Stop & Shop,"1009 Flatbush Ave, Brooklyn",4.1,2502,317,14.0761094505928,zzw-223@627-wh4-vvf,Stop & Shop
+ChIJlWu-YZJcwokRxCsWeuGXBQA,40.6554538,-73.91544019999999,Key Food Supermarkets,"9530 Church Ave, Brooklyn",3.8,550,317,14.0761094505928,zzw-222@627-wg7-rc5,Key Food
+ChIJU-XbbpBcwokRbEG-yyz_kwA,40.6559274,-73.9231889,Food Universe Marketplace,"1132, 1132, 405 Remsen Ave, Brooklyn",3.8,124,317,14.0761094505928,22p-222@627-wg7-3dv,Food Universe Marketplace
+ChIJa7gwC5xcwokRhiA3u-8lb_g,40.654882,-73.930353,Caribbean Supermarket,"741 Utica Ave #3411, Brooklyn",4.2,411,317,14.0761094505928,227-222@627-wgb-9cq,America's Food Basket
+ChIJi_nttHtbwokRC-j_IaXpBbE,40.6643913,-73.94446900000001,Empire Kosher Supermarket,"529 Empire Blvd, Brooklyn",4.5,1025,309,16.7576143125961,22t-222@627-s92-8n5,Empire Kosher Supermarket
+ChIJf2pNpBRbwokRQt7ZfE990A4,40.65750000000001,-73.96055559999999,Associated Fresh of Prospect Lefferts Gardens,"650 Flatbush Ave, Brooklyn",4.1,251,309,16.7576143125961,23v-222@627-wh4-s3q,Associated Supermarkets
+ChIJd6yRbHtbwokRmzukZ-zGhm8,40.6622706,-73.94319209999999,The Market Place - Crown Heights,"589 E New York Ave, Brooklyn",4.5,1115,309,16.7576143125961,236-222@627-wgb-syv,The Market Place
+ChIJA1_U-V5cwokRVyy-hGaKdys,40.6687538,-73.9093188,CTown Supermarkets,"29 Belmont Ave, Brooklyn",3.7,159,316,25.5057334738635,224-222@627-s84-bc5,C Town Supermarkets
+ChIJn_cHThVbwokRqWI3lWUDlrU,40.6536341,-73.9596795,Key Food Supermarkets,"786 Flatbush Ave, Brooklyn",3.9,374,314,15.3013319074573,223-222@627-wh4-q2k,Key Food
+ChIJP2G5qXRbwokRgih2WN0stRg,40.6675,-73.95888889999999,Foodtown of Crown Heights,"905-13 Franklin Ave, Brooklyn",4.1,596,309,16.7576143125961,22n-222@627-s8z-9mk,Foodtown
+ChIJT3tzbfJcwokRlRD_WJ5GSKo,40.6563099,-73.9079893,Associated Supermarkets of Brownsville,"103 Hegeman Ave, Brooklyn",3.8,168,316,25.5057334738635,22k-222@627-wg7-q75,Associated Supermarkets
+ChIJzwyv-aZcwokRpYdB-WC0X-E,40.641843,-73.93240899999999,A & M Grocery Store,"4624 Avenue D, Brooklyn",5,4,317,14.0761094505928,22b-222@627-wg9-ty9,A & M Grocery Store
+ChIJMYxtOXxbwokRlAL4wJYgk2k,40.664058,-73.93970900000001,Koshertown Supermarket,"469 Albany Ave, Brooklyn",4.7,396,309,16.7576143125961,22z-223@627-s8w-vs5,Koshertown
+ChIJSel7grRcwokReEYbpzNTOXI,40.6298446,-73.918808,Foodtown of Ralph Avenue,"1958-66 Ralph Ave, Brooklyn",4,1585,318,10.3519973638082,zzw-222@627-wfz-k9f,Foodtown
+ChIJCQ4wSPRcwokR46weDknJ_Qo,40.6624309,-73.9083583,Shop Fair Supermarkets,"256 Livonia Ave, Brooklyn",4.2,182,316,25.5057334738635,zzw-222@627-wg7-s3q,248 Deli
+ChIJC19T-3tbwokRyQrAeV8oSa0,40.6651166,-73.94244139999999,Kol Tuv Grocery,"409 Kingston Ave, Brooklyn",4.5,413,309,16.7576143125961,23k-222@627-s92-7h5,Kol Tuv Supermarket
+ChIJn3BvUQ1bwokRY3z_NA8ZGKo,40.6630554,-73.9597244,Western Beef Supermarket,"44 Empire Blvd, Brooklyn",3.8,735,309,16.7576143125961,22q-222@627-s8z-xdv,Western Beef
+ChIJx8QGeyJFwokRise2vnlFREA,40.6183001,-73.9912269,CTown Supermarkets,"6614 18th Ave, Brooklyn",3.9,341,311,14.4533915978255,zzw-225@627-wdm-hyv,C Town Supermarkets
+ChIJkyNiyTRbwokRC4D8ImUo174,40.6339905,-73.96374960000001,Key Food Supermarkets,"1407 Foster Ave, Brooklyn",3.8,251,314,15.3013319074573,236-222@627-wg3-xnq,Key Food
+ChIJGV28ATVbwokRVQ3EOOBPcMI,40.6356382,-73.9622042,CTown Supermarkets,"597 E 16th St, Brooklyn",4,602,314,15.3013319074573,233-222@627-wg4-2c5,C Town Supermarkets
+ChIJ0XEPanxFwokRZ9Yr3vYXPEk,40.6230518,-74.00494820000002,SuperFresh,"7002 13th Ave, Brooklyn",4.4,283,310,13.1135666871214,226-222@627-wgz-8jv,Superfresh
+ChIJyRouv_xEwokRUjgBTNR1FIE,40.6051624,-73.97838,Key Food Supermarkets,"319 Kings Hwy, Brooklyn",4,826,311,14.4533915978255,22v-222@627-wdh-dy9,Associated Supermarket
+ChIJf4oxIjhFwokRwxisjjCRlyg,40.6292643,-74.0048794,Scaturro Supermarkets,"6301 11th Ave, Brooklyn",4.1,404,310,13.1135666871214,22j-222@627-wgz-zvf,Scaturro Food Market
+ChIJg1GdN-9EwokR0qlYI4dFsZY,40.6090097,-73.9696341,Associated Supermarkets of Midwood,"480 Avenue P, Brooklyn",3.4,37,315,13.0139478449959,22j-222@627-wdg-vcq,Associated Supermarkets
+ChIJfc70TVxFwokRjFVp1woopo8,40.6013537,-74.00114020000001,Skyway Supermarket,"2001 Bath Ave, Brooklyn",4.3,55,311,14.4533915978255,232-222@627-wdd-n89,Skyway Supermarket
+ChIJqdYVSgtFwokRUcpXc4h4AiU,40.6037808,-74.006501,Key Food Supermarkets,"8772 18th Ave, Brooklyn",4.1,722,311,14.4533915978255,22y-222@627-wdm-dy9,Key Food
+ChIJa-4QetdEwokRNootTYToteA,40.6265205,-73.9793226,Borough Park Supermarket,"1891 50th St, Brooklyn",4.7,34,312,17.2724163426071,23b-222@627-wgw-8gk,Borough Park Supermarket
+ChIJ7zYh3g5FwokRD7oa9Bkr6JM,40.6051006,-73.99794899999999,Green Food Supermarket,"8508 20th Ave, Brooklyn",3.9,107,311,14.4533915978255,239-222@627-wdk-zs5,Green Food Supermarket
+ChIJT9v4POJEwokRlAZNTXrZ9ZI,40.61062769999999,-73.98131590000001,Food Universe Marketplace,"97 Avenue O, Brooklyn",3.9,539,311,14.4533915978255,22x-222@627-wdm-tn5,Food Universe Marketplace
+ChIJ3SR8RQZFwokRMqCWWAAS2n0,40.6014117,-73.9924379,86 Supermarket Inc,"2243 86th St, Brooklyn",3.4,34,311,14.4533915978255,23q-222@627-wdk-ysq,Thanksgiving Supermarket
+ChIJkbaJyg1FwokRdZVH_u_5Qjw,40.60708169999999,-74.0020428,Mong Kok Supermarket,"1815 86th St, Brooklyn",3.6,82,311,14.4533915978255,225-222@627-wdm-fvf,Mong Kok Supermarket 歐江超級市場
+ChIJO2tAk8ZEwokRqG4XKFlh2qA,40.6206474,-73.9639969,Pomegranate Supermarket,"1507 Coney Island Ave, Brooklyn",4.5,1878,314,15.3013319074573,225-222@627-wdj-2c5,Pomegranate
+ChIJ3TIKh8ZEwokRFdHlf2KWDdM,40.621345,-73.964822,Paperific Supermarket,"1482 Coney Island Ave, Brooklyn",4.6,231,312,17.2724163426071,232-222@627-wdj-28v,Paperific Supermarket
+ChIJc3UoqwdFwokRsDb6Ypl2tmo,40.600605,-73.9919204,Cherry Hill Market,"2284 86th St #1, Brooklyn",4,441,311,14.4533915978255,222-222@627-wdk-yvz,Cherry Hill Market
+ChIJwyI3YvpEwokRH_7qBqRIzZE,40.6023443,-73.97210609999999,Kosher Corner Supermarket Inc,"2055 McDonald Ave, Brooklyn",4.3,184,315,13.0139478449959,222-222@627-wd9-nnq,Kosher Corner Supermarket
+ChIJS52WTg9FwokRuMNPm-0Pm38,40.6038729,-73.9956428,Jae's Supermarket,"8502 21st Ave, Brooklyn",4.2,40,311,14.4533915978255,22f-222@627-wdk-yd9,Jae's Supermarket
+ChIJ7znpkz1FwokRAt1goKudwHo,40.6197933,-73.9992178,Key Food Supermarkets,"7000 New Utrecht Ave, Brooklyn",4,608,311,14.4533915978255,232-222@627-wdm-w8v,Key Food
+ChIJXedkcG1FwokRkB5ZUBKqIYo,40.611361,-74.0083506,Food Dynasty Supermarkets,"1525 86th St, Brooklyn",4,468,311,14.4533915978255,22n-222@627-wdm-7qz,Food Dynasty
+ChIJTWPPbjJFwokRqFTzufax0cs,40.6348668,-73.9960973,Mehadrin Super Market,"5124 12th Ave, Brooklyn",4.6,75,312,17.2724163426071,22w-222@627-wgw-gkz,Mehadrin Super Mkt
+ChIJTwVkdOVFwokRZE-m2emZpVM,40.6071663,-74.0021343,18th Ave Supermarket,"1811 86th St, Brooklyn",3.8,4,311,14.4533915978255,229-222@627-wdm-fvf,Legend Supermarket
+ChIJ_2b_RuFEwokRwBKg0K3S3CU,40.6120902,-73.97797539999999,Netcost Market,"2339 65th St, Brooklyn",4.1,892,311,14.4533915978255,23c-222@627-wdh-6p9,Net Cost Market
+ChIJ1XfDTtdEwokRNdFLltgwckY,40.6267968,-73.97701169999999,ShopRite of Avenue I,"1080 McDonald Ave, Brooklyn",4.3,5925,312,17.2724163426071,224-224@627-wgw-89z,ShopRite
+ChIJD0AeLt1EwokRS2Mmyuv7_BM,40.6169444,-73.9719444,Moisha's Supermarket,"315 Ave. M, Brooklyn",4.4,656,312,17.2724163426071,238-222@627-wdh-yqf,Moisha's Discount Supermarket
+ChIJKSJIiwxFwokRt4-EH4ieesg,40.6058142,-74.00370869999999,Netcost Market,"8671 18th Ave, Brooklyn",4.2,1043,311,14.4533915978255,22c-222@627-wdm-cqz,Net Cost Market
+ChIJe-BeeElFwokRiPrHKQWafag,40.6346979,-74.0094708,I Fresh Market,"Parking, Parking lot, 6023 8th Ave, Brooklyn",3.7,409,307,14.1749970882059,22g-223@627-wgz-r6k,i Fresh Market
+ChIJE97SyMxEwokR3-XNepOWL8A,40.6334911,-73.9673638,Apna Supermarket,"980 Coney Island Ave, Brooklyn",4.2,34,314,15.3013319074573,zzy-223@627-wg3-zcq,Apna Super Market
+ChIJQ4Dwey1FwokRTWCH_VdsNNs,40.63592329999999,-73.99444729999999,Yidel's Grocery Inc.,"4913 12th Ave, Brooklyn",4.7,36,312,17.2724163426071,23j-222@627-wgw-gx5,Yidel's Shopping Cart
+ChIJUcOm23xFwokRRAmzv9GHAEk,40.6174013,-73.99214909999999,lucky market,"6802 18th Ave, Brooklyn",4,7,311,14.4533915978255,228-222@627-wdm-kj9,Jin Cheng Da Inc
+ChIJ1_T_-AZFwokRiSsu-CyY2ts,40.6010079,-73.9917202,Vucciria Food & Gourmet,"2275 86th St, Brooklyn",4,505,311,14.4533915978255,226-222@627-wdk-yvz,Vucciria
+ChIJwT04RQZFwokRifi0zZ7c40M,40.6014795,-73.9924965,Thanksgiving Supermarket,"2239 86th St, Brooklyn",3.7,88,311,14.4533915978255,23q-222@627-wdk-ysq,Thanksgiving Supermarket
+ChIJH8DxvNZEwokRJDF-ZMnXGrE,40.63023,-73.97891659999999,Landau's Supermarket,"4510 18th Ave, Brooklyn",4.5,292,312,17.2724163426071,22s-222@627-wgw-3h5,Landau's Kosher Supermarket
+ChIJcVNG3OFEwokRJOjIOBbm2zE,40.613098,-73.982649,Early Bird Supermarket Inc.,"6614 Bay Pkwy, Brooklyn",3.7,45,311,14.4533915978255,22m-222@627-wdh-7wk,Early Bird Supermarket
+ChIJ32jvxChFwokRKxv2uyx21jg,40.6291264,-73.9877252,Einhorn's Supermarket,"5216 16th Ave, Brooklyn",4.7,475,312,17.2724163426071,239-222@627-wgw-mrk,Einhorn Grocery
+ChIJf8fxoLdFwokR_dP-PzgyA00,40.59886050000001,-73.9854142,Foodtown of Bensonhurst,"1949 Stillwell Ave, Brooklyn",4.4,438,311,14.4533915978255,22w-222@627-wd9-zvf,Foodtown
+ChIJ55KGw5ZbwokRmJIoNTF_v9I,40.6852228,-73.95450149999999,Metropolitan Citymarket,"1142 Bedford Ave, Brooklyn",3.5,274,303,18.0617780806477,22f-222@627-s8y-t5f,Metropolitan City Market
+ChIJTawz4r9bwokRKvztxkipzn4,40.690586,-73.95931999999999,CTown Supermarkets,"241 Taaffe Pl, Brooklyn",4.1,433,303,18.0617780806477,22t-222@627-s8y-j9z,C Town Supermarkets
+ChIJH-l4LZhbwokRXeygGCQg_0E,40.6815723,-73.95673099999999,Shop Fair Supermarkets,"1125 Fulton St, Brooklyn",4.1,277,303,18.0617780806477,zzw-224@627-s8y-q75,Shop Fair Supermarket
+ChIJlxwyhIVbwokR9g81z_Ued-A,40.6797,-73.9444,Super Foodtown of Bedford Stuyvesant,"1420 Fulton St, Brooklyn",4.1,3066,303,18.0617780806477,22h-223@627-s8t-zj9,Foodtown
+ChIJw_4SnZFbwokRxpSzPmXEofE,40.6857154,-73.9504477,KeyFoods Supermarket,"367 Nostrand Ave., Brooklyn",3.8,341,303,18.0617780806477,242-222@627-s8v-grk,Key Food
+ChIJ7YEEmJpbwokRvvsMSiKcDaM,40.6805819,-73.9492151,Bravo Supermarkets,"1299 Fulton St, Brooklyn",4,367,303,18.0617780806477,226-222@627-s8v-dsq,Bravo Supermarkets
+ChIJx8xkeeNbwokRiK5NoiYIqmQ,40.7065481,-73.9500918,Brooklyn Harvest Market Union Ave,"204 Union Ave, Brooklyn",4.3,343,301,16.8487727632621,22h-222@627-s95-v75,Brooklyn Harvest Market of Union Avenue
+ChIJq6qqqv5bwokRsowFucvpASw,40.6944847,-73.9554519,Chestnut Supermarket,"700 Myrtle Ave, Brooklyn",4.5,547,303,18.0617780806477,22n-222@627-s95-yvz,Chestnut Supermarket
+ChIJ6cIXW3NbwokR8LzMUMLpl_E,40.6900748,-73.95499439999999,Bravo Supermarkets,"991 Bedford Ave, Brooklyn",3.5,121,303,18.0617780806477,23c-222@627-s8v-6kz,Bravo Supermarkets
+ChIJAck_HORbwokRsKxQ1FwN6Mg,40.705508,-73.953474,All Fresh Supermarket Inc.,"46 Harrison Ave, Brooklyn",4.8,32,301,16.8487727632621,22j-222@627-s95-v4v,All Fresh Supermarket
+ChIJqUg8H5RbwokRRrpUE1G0mGw,40.6871063,-73.9548985,Green Farm Supermarket,"1098 Bedford Ave, Brooklyn",4,13,303,18.0617780806477,22t-222@627-s8v-7h5,Green Farm
+ChIJnxgS61dZwokRv_-bpBVdXQ0,40.7115101,-73.94659039999999,Ozzie's Fresh Market,"639 Grand St, Brooklyn",4.1,265,301,16.8487727632621,23p-223@627-s96-gtv,Food Universe Marketplace
+ChIJ_W2i0-hbwokRuKFUJaVqzlY,40.6994611,-73.9538359,Lee Gardens Supermarket Inc,"529 Flushing Ave # A, Brooklyn",4.8,75,301,16.8487727632621,227-222@627-s95-xbk,Lee Gardens Supermarket
+ChIJjbHc-3lbwokRX93dyCyfCHQ,40.6888136,-73.9623933,The Food Emporium,"325 Lafayette Ave, Brooklyn",4.1,202,302,13.3904746681599,226-223@627-s8y-kpv,The Food Emporium
+ChIJwzhPfvNbwokRjKfSvVnwtAg,40.6922431,-73.9419881,Bravo Supermarkets,"844 DeKalb Ave, Brooklyn",3.9,400,303,18.0617780806477,222-223@627-s8v-x3q,Bravo Supermarkets
+ChIJAwmz1VVZwokR98Eb3jT5CIc,40.7120409,-73.941713,Bravo Supermarkets,"785 Grand St, Brooklyn",3.8,187,301,16.8487727632621,239-222@627-s96-m49,Bravo Supermarkets
+ChIJT1KhD-hbwokRp5Q-mzA9d-E,40.7016776,-73.9587276,Landau's Supermarket,"650 Bedford Ave, Brooklyn",4.7,177,301,16.8487727632621,zzw-222@627-s95-snq,Landau E Fruits Vegetable
+ChIJVcBKf4tbwokRn5FL7ITHiIY,40.6873757,-73.9414883,Ideal Food Basket of Gates Ave,"631 Gates Ave, Brooklyn",4,521,303,18.0617780806477,233-222@627-s8t-s3q,Ideals Supermarket
+ChIJV5lo21ZZwokRQ32CKZv4QKU,40.71412600000001,-73.94400159999999,CTown Supermarkets,"330 Graham Ave, Brooklyn",3.8,438,301,16.8487727632621,223-222@627-s96-kj9,C Town Supermarkets
+ChIJ7Yt2TflbwokRaIYaiij3Dak,40.7045086,-73.9411607,Bravo Supermarkets,"91 Humboldt St, Brooklyn",4,216,301,16.8487727632621,229-222@627-s96-sh5,Bravo Supermarkets
+ChIJHz5sLDRbwokRR76xqunD5hc,40.6930525,-73.94860659999999,Lincoln Market,"633 Marcy Ave, Brooklyn",4.6,257,303,18.0617780806477,22f-222@627-s8v-87q,Lincoln Market
+ChIJ8dm4kpRbwokRsdjdhkBEFcY,40.6762583,-73.9585056,GalaFresh Farms,"492 St Marks Ave, Brooklyn",4.2,528,308,16.9051320723646,222-222@627-s92-ct9,Gala Fresh Farms
+ChIJUeZmwhBcwokRxf9v1RUt7mM,40.6948126,-73.9198891,CTown Supermarkets,"346 Central Ave, Brooklyn",3.5,237,304,16.5902679830748,22h-222@627-s94-qcq,C Town Supermarkets
+ChIJBSAnRQVcwokRVrW0yp4VYA8,40.6982148,-73.92603919999999,Fine Fare Supermarkets,"1305 Myrtle Ave, Brooklyn",4.1,306,304,16.5902679830748,237-222@627-s92-yy9,Fine Fare Supermarkets
+ChIJF7WS_4pbwokRoudts-cWrSc,40.6870292,-73.9385763,Marcus Market,"301 Marcus Garvey Blvd, Brooklyn",3.9,67,303,18.0617780806477,zzw-223@627-s8t-s89,Associated Supermarkets
+ChIJIQrEqhtdwokRg2dGKWGvTng,40.6987339,-73.9208724,Met Fresh of Bushwick,"1381 Myrtle Ave, Brooklyn",4.2,181,304,16.5902679830748,22d-222@627-s93-2p9,Met Foodmarkets
+ChIJi5XNuR1cwokR5cYl3D-pZ0g,40.704603,-73.9203213,Key Food Supermarkets,"72-80 Wyckoff Ave, Brooklyn",4.1,752,304,16.5902679830748,zzw-226@627-s93-qfz,Key Food
+ChIJ1wyl1PdbwokRbdiDPtmRp8k,40.6966458,-73.93626189999999,FOOD BAZAAR,"1102 Myrtle Ave, Brooklyn",4.2,2971,303,18.0617780806477,22m-222@627-s8v-nt9,Food Bazaar Supermarket
+ChIJuefldRJcwokR9UgBR0AwZsY,40.6909383,-73.92412790000002,Foodtown of Bushwick,"1291 Broadway, Brooklyn",4,1170,304,16.5902679830748,22s-223@627-s94-nyv,Foodtown
+ChIJR3vZXANcwokRc0ytxmaTrQA,40.703138,-73.925435,City Fresh Market,"229 Knickerbocker Ave #2401, Brooklyn",4.3,755,304,16.5902679830748,22n-222@627-s92-rx5,Associated Supermarket
+ChIJVUVc5vRbwokRYp-QeiKHCf4,40.6911209,-73.9392775,Ideal Food Basket of Lafayette Ave,"830 Lafayette Ave, Brooklyn",4,452,303,18.0617780806477,zzw-222@627-s8t-vxq,Ideal Supermarkets
+ChIJ7aGeY3NcwokRVf72Sz5nbx8,40.6865713,-73.9300147,Key Food,"200 Malcolm X Blvd, Brooklyn",3.7,331,303,18.0617780806477,22y-223@627-s8v-qfz,200 Malcolm X Meat
+ChIJgc_H7HNcwokRGQbrrGcvpbc,40.6843076,-73.92901169999999,Halsey Traders Market,"587 Halsey St, Brooklyn",4,304,303,18.0617780806477,238-222@627-s8v-q2k,Halsey Traders Market
+ChIJtV44gw5cwokRhpCV_q-7zwQ,40.693147,-73.92778799999999,Premier Food Fresh Market,"1165 Broadway, Brooklyn",3.4,334,304,16.5902679830748,22p-222@627-s8v-mzf,Premier Food Fresh Market
+ChIJnV8LNwhcwokRKWafZ1RwNg4,40.6969004,-73.9348648,Mr. Kiwi's,"957 Broadway, Brooklyn",4.3,556,304,16.5902679830748,22n-222@627-s8v-p5f,Mr Kiwi's
+ChIJRyyQoGBZwokR2ISrdKgCsdo,40.71614090000001,-73.9597096,Whole Foods Market,"238 Bedford Ave, Brooklyn",4.3,2125,301,16.8487727632621,22z-224@627-s96-z9f,Whole Foods Market
+ChIJ7TItzBRcwokRsM0tTxG2UWs,40.68654950000001,-73.9164174,Key Food Supermarkets,"1533 Broadway, Brooklyn",3.7,352,304,16.5902679830748,23f-222@627-s94-wff,Key Food
+ChIJKW0-mGpcwokRylHVwVCF90o,40.6846684,-73.9132482,Pioneer Supermarkets of Bushwick,"1657 Broadway, Brooklyn",3.7,364,304,16.5902679830748,zzw-224@627-s94-9zz,Pioneer Supermarkets
+ChIJFYOldLpdwokRXq2uYb7l_G0,40.674491,-73.8769259,Associated Supermarkets of Pitkin,"2578 Pitkin Ave, Brooklyn",3.6,258,305,18.3671929686415,235-222@627-s7z-92k,Associated Supermarkets
+ChIJpQTNB0FcwokR7AFROYO06HA,40.6825465,-73.909255,CTown Supermarkets,"1781 Broadway, Brooklyn",3.9,247,304,16.5902679830748,23v-222@627-s94-kcq,Marketplace Of Bushwick
+ChIJl9J4tbRdwokRveCrdmM46ec,40.6789662,-73.8884446,CTown Supermarkets,"2869 Fulton St, Brooklyn",3.9,349,305,18.3671929686415,22d-222@627-s84-rhq,C Town Supermarkets
+ChIJ_fpFTlFcwokRK39MQolx56A,40.6691938,-73.89538499999999,Shop Fair Supermarkets,"340 Granville Payne Ave, Brooklyn",3.8,96,305,18.3671929686415,237-222@627-s83-vs5,Shop Fair
+ChIJzY2VGFJcwokRFFKQyYx61zY,40.67236949999999,-73.8942963,CTown Supermarkets,"2115 Pitkin Ave, Brooklyn",3.9,607,305,18.3671929686415,22c-222@627-s83-yjv,C Town Supermarkets
+ChIJJX73vEtcwokRLXcSV7NIOBE,40.6795418,-73.89286539999999,Associated Supermarkets of Arlington,"52 Arlington Ave, Brooklyn",4,159,305,18.3671929686415,22g-222@627-s85-4sq,Associated Supermarkets
+ChIJC9iQs65dwokRMjsToJGcVnA,40.6667838,-73.8820401,Food Universe Marketplace,"773 New Lots Ave, Brooklyn",3.7,131,305,18.3671929686415,232-223@627-s84-ty9,Food Universe Marketplace
+ChIJs52HKrZdwokRjQs1rjABbkw,40.6812125,-73.880308,Shop Fair Supermarket,"3104 Fulton St, Brooklyn",4.1,76,305,18.3671929686415,22x-222@627-s8b-3t9,Chimis La Sabrosura
+ChIJ37c5blRdwokR2mZyrK1rKJQ,40.6824644,-73.9094318,Marketplace of Bushwick,"1781 Broadway, Brooklyn",3.9,127,304,16.5902679830748,23v-222@627-s94-kcq,Marketplace Of Bushwick
+ChIJ9xxoRVhcwokRqZvLriX_Tp8,40.6663968,-73.90299689999999,Powell Supermarket Inc,"323 Powell St, Brooklyn",4.3,58,316,25.5057334738635,222-222@627-s84-j7q,Powell Street Superette
+ChIJsaeaIAFdwokRZQSvXDPEbhM,40.659381,-73.884292,City Fresh Market,"655 Stanley Ave, Brooklyn",4,301,305,18.3671929686415,224-222@627-s86-jjv,City Fresh Market
+ChIJGRdL8LpdwokRlCScmQ8cWp4,40.6724843,-73.8751849,Tony's Shop & Save Supermarket,"Tony's Shop & Save Supermarket, 1161 Sutter Ave",4,143,305,18.3671929686415,22q-222@627-s7z-8n5,Tony's Shop & Save Supermarket
+ChIJQ0E8CrtdwokRBdN50S3KX3U,40.67281550000001,-73.8733335,Key Food Supermarkets,"1215 Sutter Ave, Brooklyn",4,672,305,18.3671929686415,22v-222@627-s7z-d35,Key Food
+ChIJG94oNr9dwokRb95NyoNSu4M,40.6783718,-73.8710342,Golden Farms Supermarket,"416 Crescent St, Brooklyn",4,579,305,18.3671929686415,233-222@627-s82-35z,Food Universe Marketplace
+ChIJSYBkvMZdwokRieBJtVj9wP0,40.68416670000001,-73.8725,Key Food Supermarket,"208 Crescent St, Brooklyn",4,380,305,18.3671929686415,23b-222@627-s8b-ty9,Key Food
+ChIJq5D627VdwokRyhQsu-NKyNA,40.6800573,-73.88353579999999,Bravo Supermarkets,"3008 Fulton St, Brooklyn",4,299,305,18.3671929686415,224-222@627-s8b-3nq,Bravo Supermarkets
+ChIJPwR7ClZcwokRFXMKKSbzONU,40.6645438,-73.8947503,Fine Fare Supermarkets,"602 Livonia Ave, Brooklyn",3.8,255,305,18.3671929686415,22c-222@627-s84-6x5,Fine Fare Supermarkets
+ChIJaQAZD2hcwokRHVoe-KGQWT4,40.67599269999999,-73.9122837,America's Food Basket of Atlantic Ave,"2220 Atlantic Ave, Brooklyn",4.1,706,316,25.5057334738635,22w-222@627-s8x-59f,America's Food Basket
+ChIJoyvBk1lcwokRYBQ6PINYro0,40.6614734,-73.8935894,Bravo Supermarkets,"366 New Lots Ave, Brooklyn",3.8,440,305,18.3671929686415,237-222@627-s84-35z,Bravo Supermarkets
+ChIJ2evpA5hdwokRZuvKRA4nZ1Q,40.6646788,-73.8951621,Associated Fresh of Livonia Ave,"597 Livonia Ave, Brooklyn",4.4,142,305,18.3671929686415,zzy-222@627-s84-73q,Associated Supermarkets
+ChIJ39D4rF5cwokRAWMSO8ZCdUA,40.6696395,-73.9066619,Cherry Valley Marketplace,"381 Mother Gaston Blvd, Brooklyn",3.8,314,316,25.5057334738635,22v-222@627-s84-bhq,Pioneer Supermarket
+ChIJ98Vc6qldwokRiuw81bEFL9s,40.6630834,-73.8813718,Farm Country Supermarkets,"2205 Linden Blvd, Brooklyn",4.1,1516,305,18.3671929686415,223-223@627-s86-kmk,Farm Country Outlet
+ChIJC2dYUDlcwokRjHv3fQqWV18,40.689358,-73.9060101,Stop One Supermarket,"624 Wilson Ave, Brooklyn",4.5,69,304,16.5902679830748,229-222@627-s94-cdv,Stop One Supermarket
+ChIJ7buCAVBdwokRiX6eQk_4gAc,40.6831954,-73.88334309999999,Banana Supermarket Inc.,"145 Ridgewood Ave, Brooklyn",4,3,305,18.3671929686415,22r-222@627-s8b-j7q,New Way Grocery
+ChIJVVVVFQ5dwokRNdt1wW_pGfI,40.6538135,-73.87107069999999,ALDI,"528 Gateway Dr, Brooklyn",4.3,1889,305,18.3671929686415,zzw-222@627-s86-fzz,ALDI
+ChIJ3cfbv_NcwokRhLE8ZbdxIXY,40.6589908,-73.9081678,Amazing Groceries,"842 Rockaway Ave, Brooklyn",4.1,87,316,25.5057334738635,22t-223@627-wg7-snq,Amazing Groceries
+ChIJsz2fMcJdwokRBB6-GEBaim8,40.68509600000001,-73.867918,Pioneer Supermarkets of Cypress Hills,"3461 Fulton St, Brooklyn",4,67,305,18.3671929686415,234-222@627-s8b-t5f,Pioneer Supermarkets
+ChIJbRzZ8l5cwokRkCXxQFrobaU,40.669139,-73.908931,PEOPLE'S CHOICE,"134 Osborn St, Brooklyn",4.2,450,316,25.5057334738635,zzy-222@627-s84-bc5,Slavin M & Son
+ChIJ4Tuuh0RcwokRZzwDNSC6KHk,40.677371,-73.90590329999999,Abreu's Grocery Store,"65 Sackman St, Brooklyn",4.6,31,316,25.5057334738635,23v-222@627-s94-fs5,Abreu's Grocery Store
+ChIJjX9xX6RdwokR6h6cImNGhYU,40.6677587,-73.8730911,Luna Grocery Store,"1084 Hegeman Ave, Brooklyn",4.2,97,305,18.3671929686415,228-222@627-s7z-jn5,Luna Grocery Store
+ChIJUWKOAzxcwokRUWI4qho0Z24,40.6902506,-73.90709149999999,Big Apple Grocery,"609 Wilson Ave, Brooklyn",4.7,9,304,16.5902679830748,zzw-222@627-s94-ckf,Martinez P Deli
+ChIJx_sIyltFwokRwC74XFezqzI,40.6292963,-74.0230753,CTown Supermarkets,"7510 5th Ave, Brooklyn",4,360,310,13.1135666871214,237-222@627-wgz-c3q,C Town Supermarkets
+ChIJyzlDWVZFwokRaRfTwHdfY5c,40.636049,-74.02734760000001,SuperFresh,"242 Bay Ridge Ave, Brooklyn",4.1,815,310,13.1135666871214,22n-222@627-wgz-g8v,Superfresh
+ChIJZfd1HolPwokRPxknEwTEnRg,40.6165099,-74.034089,Met Fresh of Bay Ridge,"9606 3rd Ave, Brooklyn",4.1,530,310,13.1135666871214,238-222@627-wfd-nbk,Met Foodmarkets
+ChIJ3XucbF5FwokRB_3Z34u2F4s,40.6241348,-74.0250318,Met Foodmarkets of Bay Ridge,"8210 5th Ave, Brooklyn",3.6,92,310,13.1135666871214,23n-222@627-wgz-k4v,Met Food Supermarket
+ChIJfyEIMVhFwokRwZHupy8eU7o,40.6317466,-74.02789899999999,Key Food Marketplace,"7414 3rd Ave, Brooklyn",4.1,498,310,13.1135666871214,23f-223@627-wgz-ckf,Manorville Stand
+ChIJ8evRN4pPwokRmFy4NM9n0Eo,40.6198056,-74.03230730000001,Foodtown of Bay Ridge,"9105-27 3rd Ave, Brooklyn",4.2,1785,310,13.1135666871214,23j-222@627-wff-btv,Foodtown
+ChIJGchy_U5FwokRWvczk2jIUAo,40.63356390000001,-74.0147322,Forum Supermarket 新荣超級市場,"6501 7th Ave, Brooklyn",3.7,275,310,13.1135666871214,22g-222@627-wgz-3yv,Forum Supermarket
+ChIJh4LC6IlPwokRVxg2oEwvNvY,40.61743939999999,-74.030897,Associated Fresh Of Bay Ridge,"9310 4th Ave, Brooklyn",4,120,310,13.1135666871214,228-222@627-wff-ch5,Associated Supermarkets
+ChIJt82BrGtFwokRbGfnHS1IdeA,40.6177924,-74.0098198,La Bella Marketplace,"7907 13th Ave, Brooklyn",4.4,923,310,13.1135666871214,233-222@627-wdm-9mk,La Bella Marketplace
+ChIJZXENObNawokRIFkaFDR3gu8,40.6415798,-74.0142589,Pioneer Supermarkets of Sunset Park,"5612 5th Ave, Brooklyn",4.2,404,307,14.1749970882059,23m-222@627-wh2-66k,Pioneer Supermarkets
+ChIJbXJJt7JawokRLbvDJyK_uCo,40.6418044,-74.0171585,Green Village Supermarket,"5801 4th Ave, Brooklyn",3.7,21,307,14.1749970882059,23b-222@627-wh2-7bk,Green Village Supermarket
+ChIJF9YbJElFwokRx24511vZ7rI,40.6333333,-74.0113889,Fei Long Market,"6301 8th Ave, Brooklyn",3.8,2513,310,13.1135666871214,224-227@627-wgz-2c5,Fei Long Supermarket
+ChIJq2CZrrJawokRykmPyBJVk6U,40.6417281,-74.0179414,Bravo Supermarkets,"5818 4th Ave, Brooklyn",3.6,158,307,14.1749970882059,227-222@627-wh2-7h5,Bravo Supermarkets
+ChIJqabDNLVawokROohPL_kBK-4,40.6400564,-74.0082205,Xin Hao NY Inc Supermarket,"5401 7th Ave, Brooklyn",3,4,307,14.1749970882059,23m-223@627-wgv-435,B &amp W Super Grocery
+ChIJXUurglBFwokRopd9_c_e2-g,40.6320636,-74.02190449999999,Balady Halal Foods,"7128 5th Ave, Brooklyn",4.6,734,310,13.1135666871214,22x-223@627-wgz-bkz,Balady Foods
+ChIJt6EuLLNawokRoNmShBRxC-o,40.6410716,-74.014887,Hometown Fresh Market,"5712 5th Ave, Brooklyn",4.4,5,307,14.1749970882059,23g-222@627-wh2-5vf,Mi Pueblito Market Hometown Market
+ChIJtfjD_r9dwokRnW3fmskM0N0,40.678541,-73.8658092,CTown Supermarkets,"1176 Liberty Ave, Brooklyn",3.6,226,305,18.3671929686415,23j-223@627-s7z-zvf,C Town Supermarkets
+ChIJ___PI6JdwokRwa_Rny5BfPY,40.6647936,-73.8671293,Cherry Valley Marketplace,"925 Crescent St #5515, Brooklyn",3.9,294,305,18.3671929686415,235-222@627-s7z-54v,El Verde Meat & Produce
+ChIJvb29i71dwokRmHpDvtcJnLk,40.6731971,-73.8663012,Fine Fare Supermarkets,"675 Lincoln Ave, Brooklyn",4.1,339,305,18.3671929686415,zzw-222@627-s7z-2ff,Fine Fare Supermarkets
+ChIJFS45cO5dwokRzE_V2nAAgKw,40.6832814,-73.8555933,Cherry Valley Marketplace,"84-12 97th Ave, Queens",4.2,853,409,10.8413546626525,236-222@627-s87-fxq,Cherry Valley Marketplace
+ChIJR99cQOtdwokRp20oE3ttG2Q,40.6796684,-73.8610229,Golden Farms,"101-16 77th St, Queens",4.2,951,410,11.202506327968,22p-222@627-s7z-s3q,Golden Farms
+ChIJE1GmsfNdwokRNyQ5w5_jmlE,40.6800975,-73.8502321,Milk Farm Supermarket,"88-13 Liberty Ave, Ozone Park",4.1,144,410,11.202506327968,zzw-222@627-s87-4gk,Circle S Milk Farm
+ChIJI0R8cYVdwokRVe9kk5zl-_4,40.6666666,-73.85112099999999,The Food Emporium,"82-35 153rd Ave, Howard Beach",3.8,405,410,11.202506327968,225-224@627-s7z-v75,The Food Emporium
+ChIJB04Bt65dwokR3aHHm4EjHTc,40.6670246,-73.8818038,New Lots Elton Mini Market Inc.,"781 New Lots Ave, Brooklyn",1,1,305,18.3671929686415,232-223@627-s84-ty9,Food Universe Marketplace
+ChIJ25Cd0u5dwokRnpWg7V044qM,40.6847967,-73.8591678,Golden Mango Supermarket,"8105 Rockaway Blvd, Ozone Park",4,337,409,10.8413546626525,22g-222@627-s87-dy9,Golden Mango
+ChIJ7xhw1ABdwokR7b1e7dsBSCk,40.659764,-73.8834298,Pioneer Fresh of East New York,"689 Stanley Ave, Brooklyn",4.6,70,305,18.3671929686415,227-222@627-s86-h3q,Stanley Mini Market
+ChIJccrRf-tdwokRP6lZ_alV4Q8,40.68054900000001,-73.8595893,Dubai Supermarket,Ozone Park,3.6,22,409,10.8413546626525,23m-222@627-s7z-sdv,Ozone Grocery
+ChIJgzur2g1dwokRzQAhcD_Hnyo,40.6551427,-73.8688014,ShopRite of Gateway Center,"590 Gateway Dr, Brooklyn",4.5,5409,305,18.3671929686415,222-222@627-s86-52k,ShopRite
+ChIJf0lPF-tdwokRpd9nZor8nSg,40.6799523,-73.8616341,Mannan Halal Supermarket,"75-19 101st Ave, Queens",3.9,471,409,10.8413546626525,22p-222@627-s82-52k,Mannan Halal Supermarket
+ChIJHWjNGOtdwokR7cMD-Flvfpc,40.6799139,-73.862116,Shajalal Supermarket & Halal Meat,"75-05 101st Ave, Jamaica",4.2,46,409,10.8413546626525,zzw-224@627-s82-52k,Shahjalal Super Market
+ChIJVaioGjdbwokRVlBbkCy0cdE,40.6415845,-73.9632507,Key Food Supermarkets,"1610 Cortelyou Rd, Brooklyn",4,483,314,15.3013319074573,22x-222@627-wh4-835,Key Food
+ChIJDbJ30pVEwokR-ntKETJGj9o,40.6102581,-73.9543236,Food Universe Marketplace,"1910 Kings Hwy, Brooklyn",4.3,79,315,13.0139478449959,22p-222@627-wdh-ty9,Food Universe Marketplace
+ChIJLYTkkzFbwokRJ9RcmnunSxs,40.640397,-73.9694902,Ideal Food Basket of Coney Island Ave,"710 Coney Island Ave, Brooklyn",4,522,312,17.2724163426071,22t-222@627-wh4-6zf,Ideal Food Basket
+ChIJGxvi009bwokRN96NHVE74Q8,40.6277675,-73.94732309999999,Key Food Supermarkets,"2326 Nostrand Ave., Brooklyn",4,586,314,15.3013319074573,237-222@627-wg3-vcq,Key Food
+ChIJwRl1FFBDwokRNjT5n_6u76c,40.6192964,-73.9252593,Key Food Supermarkets,"5101 Avenue N, Brooklyn",4.2,634,318,10.3519973638082,22d-222@627-wg5-x5z,Key Food
+ChIJK2K21UJDwokRrlh5Q6D7svo,40.61063559999999,-73.9240542,Food Universe Marketplace,"2424 Flatbush Ave, Brooklyn",4,556,318,10.3519973638082,228-222@627-wg6-4n5,Food Universe Marketplace
+ChIJF0E_Dr5EwokRG5Z6mNN0dtE,40.6133421,-73.95437390000001,Ocean Fruit & Supermarket Inc,"1986 Ocean Ave, Brooklyn",4.6,152,314,15.3013319074573,22w-222@627-wdh-t35,Ocean Fruit & Supermarket
+ChIJUyayjKZEwokRQh3AgEghJdk,40.6176803,-73.9404249,Supermarket Of Ave N inc,"3524 Flatlands Ave, Brooklyn",4.6,147,318,10.3519973638082,227-222@627-wg5-7dv,Supermarket of Ave N
+ChIJV7BENZREwokR9JH7y3Hf9AM,40.61,-73.95479999999999,Domino Supermarket,"1824 Kings Hwy, Brooklyn",3.8,693,315,13.0139478449959,236-222@627-wdh-qvf,Domino Supermarket
+ChIJa_6ba6VEwokRg5OLWI9ZZWo,40.620128,-73.945921,Shop Smart Kosher Supermarket,"2640 Nostrand Ave., Brooklyn",4.3,417,314,15.3013319074573,zzw-222@627-wg5-jd9,Shop Smart Kosher Supermarket
+ChIJ05Bn4TRbwokRM2M-U0qSjZU,40.6350959,-73.9625578,Plaza Grocery Store,"13 Newkirk Plaza, Brooklyn",5,5,314,15.3013319074573,23r-225@627-wg3-xyv,Newkirk Gourmet Deli
+ChIJlSyYRlxbwokRuMmqUX5QJ_8,40.6475651,-73.9437336,Met Food Market,"1086 Brooklyn Ave, Brooklyn",4.2,58,317,14.0761094505928,22d-223@627-wgb-73q,Ideal Food Basket
+ChIJg2RFVL9EwokRjDT2fBNsxQc,40.61822,-73.959285,Mountain Fruit of Ave. M,"1523 Ave. M, Brooklyn",4.4,447,314,15.3013319074573,224-222@627-wdh-j7q,Mountain Fruit of Avenue M
+ChIJTX3BljtbwokRwFONAL6_Yfw,40.6478879,-73.9673763,Ideal Fresh Market of Church Ave,"1301 Church Ave, Brooklyn",3.7,233,314,15.3013319074573,226-222@627-wh3-ygk,Ideal Fresh Market
+ChIJGfDg705ZwokRvqa_3iQAPsQ,40.7228888,-73.9437891,Met Foodmarkets of Greenpoint,"131 Driggs Ave, Brooklyn",4.1,251,301,16.8487727632621,22k-222@627-s8g-dqf,Met Foodmarkets
+ChIJ7eUVw91ZwokRK1uWaA8dNEA,40.7229466,-73.94381299999999,Food Market,"129 Driggs Ave, Brooklyn",4.5,6,301,16.8487727632621,zzw-222@627-s8g-dqf,Greenpoint Food Market
+ChIJp6oxlPlbwokRMr79y30u_G0,40.7012598,-73.9406714,Green Corner Fish & Farmers Market,"801 Flushing Ave, Brooklyn",4.2,977,301,16.8487727632621,22b-222@627-s93-c5z,Green Corner Fish & Farmers Market
+ChIJd5B_l-dbwokRUkEuCBlLsjU,40.7039289,-73.9582629,Schwartz Kosher Supermarket,"120 Lee Ave # A, Brooklyn",4.7,85,301,16.8487727632621,236-222@627-s95-t35,Greenfelds Foods
+ChIJYX2hfkVZwokRLXisA7Yh1dQ,40.7224449,-73.94797760000002,Freddy's Food Market,"257 Driggs Ave, Brooklyn",3.9,88,301,16.8487727632621,zzw-222@627-s8g-yjv,Freddy's Food Market
+ChIJXQVnmUhZwokR1rZGhMn4aNI,40.712978,-73.9371914,D & J Grocery Store,"927 Grand St, Brooklyn",4.4,14,301,16.8487727632621,22w-222@627-s8g-j7q,D &amp J Grocery
+ChIJXRIy3G9cwokRM68tnUit2Oc,40.6788333,-73.9238118,Associated Supermarkets of Bed-Stuy,"1888 Fulton St, Brooklyn",3.8,486,303,18.0617780806477,22t-222@627-s8x-hqz,Associated Supermarkets
+ChIJw1XXx3BcwokR3hbhFYYKFvE,40.6796221,-73.9293472,Market Place Fulton Food Plaza Supermarket,"Malcolm X Blvd, Brooklyn",4.3,32,303,18.0617780806477,22d-222@627-s8x-hwk,Kiwi Food Market
+ChIJd3wkRXhcwokRlh8tdDC1X1Q,40.6770276,-73.9338326,Food Universe Marketplace,"1720 Atlantic Ave, Brooklyn",4,240,308,16.9051320723646,224-225@627-s8t-z4v,Food Universe Marketplace
+ChIJp6csnoBbwokR51YuVfwiTy8,40.6730411,-73.93617069999999,Shop Fair Supermarkets of Troy Ave.,"187 Troy Ave, Brooklyn",4,158,308,16.9051320723646,227-222@627-s8w-nkf,Shop Fair Supermarkets of Troy Ave
+ChIJfVeVt39cwokRXuMRpbjO3OQ,40.6702528,-73.93345,Food Universe Marketplace,"243 Schenectady Ave, Brooklyn",3.9,271,308,16.9051320723646,22b-222@627-s8w-p7q,Food Universe Marketplace
+ChIJL1fdAWNcwokRWR-rW6KKC9I,40.6698188,-73.9215613,FOOD BAZAAR,"1682 St Johns Pl, Brooklyn",4.1,2421,316,25.5057334738635,229-222@627-s8w-d35,Food Bazaar Supermarket
+ChIJsdWCQn5cwokRK_X4oVmfCng,40.6704539,-73.93161169999999,Ideal Food Basket of Crown Heights,"1410 St Johns Pl, Brooklyn",3.9,522,308,16.9051320723646,22z-222@627-s8w-p35,Ideal Food Basket
+ChIJkWa92H9cwokRdR7RCz8I6mQ,40.6693521,-73.9336304,Farmers Market,"1045 Eastern Pkwy # A, Brooklyn",4.3,111,308,16.9051320723646,22q-223@627-s8w-nqz,Lee's Farmer's Market
+ChIJWXq4AoJbwokRJWcfReaIWtA,40.6707392,-73.9418748,Fine Fare Supermarkets,"261 Kingston Ave, Brooklyn",4,284,308,16.9051320723646,zzw-223@627-s92-9fz,Fine Fare Supermarkets
+ChIJCac4cJ1bwokRflQzbAu8cLs,40.6720706,-73.9500932,Met Foodmarkets,"739 Nostrand Ave., Brooklyn",3.9,197,308,16.9051320723646,23n-222@627-s92-389,Met Foodmarkets
+ChIJS44U8pxbwokRHGevobXbLcQ,40.6748668,-73.9498687,Urban Market by Key Food,"651 Nostrand Ave., Brooklyn",3.9,601,308,16.9051320723646,22m-222@627-s92-2rk,Urban Market of Brooklyn
+ChIJFWWxGBVbwokRnl7IghksiYs,40.6554757,-73.9611929,Pioneer Supermarkets of Flatbush,"191-199 Parkside Ave, Brooklyn",3.8,551,309,16.7576143125961,22y-222@627-wh4-p7q,Pioneer Supermarkets
+ChIJC5K5FHVbwokRPOpdUGuSeBg,40.6712545,-73.95763149999999,Bob & Betty's Food Market,"805 Franklin Ave, Brooklyn",4.1,196,308,16.9051320723646,23s-222@627-s8z-d5f,Bob & Betty's Food Market
+ChIJV_qZ4xJbwokRV43QGEOZ060,40.660854,-73.96171389999999,Lincoln Market,"33 Lincoln Rd, Brooklyn",4.4,592,309,16.7576143125961,226-222@627-s8z-tqf,Lincoln Market
+ChIJS7NXrulawokRgS2JxEEXPoE,40.6605073,-73.99839949999999,CTown Supermarkets,"760 4th Ave, Brooklyn",4,265,307,14.1749970882059,226-222@627-wgv-pn5,C Town Supermarkets
+ChIJFXcPQR5bwokRlrNECLBilAk,40.6595768,-73.9814051,Prospect Market,"236-238 Prospect Park West, Brooklyn",4,31,307,14.1749970882059,228-222@627-wh2-n5z,Prospect Market
+ChIJGSbiSR9bwokRJtFadpKsywk,40.6567622,-73.9775432,Windsor Farms Market,"589 Prospect Ave, Brooklyn",4.2,430,307,14.1749970882059,22y-223@627-wh5-47q,Windsor Farms Market
+ChIJQwKtiihbwokR9xk6n4BmB-w,40.6447525,-73.9801559,Foodtown of Kensington,"382 McDonald Ave, Brooklyn",4.1,1242,312,17.2724163426071,22f-222@627-wh4-jn5,Foodtown
+ChIJs7F04T5bwokRAAnH5Okpq2U,40.6498354,-73.9626213,MUNDO SUPERMARKET,"1815 Church Ave, Brooklyn",4.3,27,314,15.3013319074573,22j-222@627-wh4-2zf,Great Vegetable Store
+ChIJWwHj-8tawokRws0H8WlE8xU,40.6426221,-73.9951935,Green Market & Discount,"4214 10th Ave, Brooklyn",3.7,13,312,17.2724163426071,22y-222@627-wgt-nwk,B Town
+ChIJPTNG_81awokRk6yjnqf4bbI,40.6426271,-73.9951883,7 BROTHERS SUPERMARKET INC.,"4214 10th Ave, Brooklyn",4,9,312,17.2724163426071,22y-222@627-wgt-nwk,B Town
+ChIJQeMMakJbwokRCLlTeLUy1zU,40.6505944,-73.95171669999999,Associated Fresh of Flatbush,"2720 Church Ave, Brooklyn",4.1,167,317,14.0761094505928,228-223@627-wg9-ysq,Shop Fair Supermarket
+ChIJ4yqq7B1bwokR5aSKgfA_RRE,40.6622324,-73.98188999999999,Royal Supermarket,"1419 8th Ave, Brooklyn",4.3,36,306,10.886166172325,236-222@627-wh2-qmk,Royal Supermarket
+ChIJd5RJtNVawokRMnn6EooKOvo,40.64042999999999,-73.9854749,KRM Kollel Supermarket,"1325 39th St, Brooklyn",4.6,1527,312,17.2724163426071,22s-222@627-wgx-3yv,KRM Supermarket
+ChIJrzOiDilbwokR8LutKeDPqhU,40.6424627,-73.9795595,Suchana Super Market,"476 McDonald Ave, Brooklyn",4.2,9,312,17.2724163426071,22h-222@627-wh4-kfz,Greenhouse Deshi Supermarket
+ChIJjVBCYSpbwokRhCaKPmA3YO8,40.63903699999999,-73.981608,Paperific Supermarket,"1465 38th St, Brooklyn",4.5,287,312,17.2724163426071,22h-222@627-wgx-6rk,Paperific Supermarket
+ChIJTeCCSNRawokRvTl8v6k3OkM,40.6406055,-73.9866474,Gourmet Glatt Market,"1274 39th St, Brooklyn",4.6,1237,312,17.2724163426071,23q-222@627-wgx-7t9,Gourmet Glatt Market
+ChIJyQ48VMlawokRAzAAcion10s,40.644124,-74.000935,45th Street Supermarket Inc.,"779 45th St, Brooklyn",1,1,307,14.1749970882059,22c-222@627-wgt-snq,First Fei Long Market
+ChIJazKHQCtFwokRbQdY2xQTn5s,40.6359449,-73.9873673,Rosner's Grocery,"4423 14th Ave, Brooklyn",4.4,96,312,17.2724163426071,22t-222@627-wgx-5fz,Rosner's Grocery
+ChIJAxaTpylbwokRTntuBCNEGJo,40.64274899999999,-73.98006699999999,Bangla Nagar Supermarket,"87 Church Ave, Brooklyn",3.8,148,312,17.2724163426071,223-222@627-wh4-kfz,Bangla Nagar Grocery
+ChIJFVVICSlbwokRGLcVCkJ5QF4,40.64258969999999,-73.97957939999999,Green House Deshi Supermarket,"472 McDonald Ave, Brooklyn",4,40,312,17.2724163426071,22h-222@627-wh4-kfz,Greenhouse Deshi Supermarket
+ChIJR8rOQORawokR18N7X-puOkk,40.663587,-73.990687,Marketplace By Key Food,"617 5th Ave, Brooklyn",4.4,163,307,14.1749970882059,22z-222@627-wh3-3wk,Associated Fresh
+ChIJUQzaQORawokRW2_sG6S1qqU,40.6636071,-73.990684,Associated Fresh,"615 5th Ave, Brooklyn",4.2,87,307,14.1749970882059,22z-222@627-wh3-3wk,Associated Fresh
+ChIJk41eP1REwokR_xJR5Au6v-c,40.5930188,-73.97862409999999,CTown Supermarkets,"2807-15 86th St, Brooklyn",3.6,177,315,13.0139478449959,23p-222@627-wd8-xnq,C Town Supermarkets
+ChIJIScz6_hEwokRyHK1WSmoBxo,40.5968732,-73.9754816,CTown Supermarkets,"237-243 Avenue U, Brooklyn",4.1,305,311,14.4533915978255,23n-222@627-wd9-mzf,C Town Supermarkets
+ChIJkY9dZbNFwokRErXf715WoR0,40.5826389,-73.9851702,Stop & Shop,"2965 Cropsey Ave, Brooklyn",4,2129,313,20.6983658921545,222-224@627-wdg-54v,Stop & Shop
+ChIJ5avEclBEwokR7yFYKZFtJOc,40.5864501,-73.9717926,Key Food Supermarkets,"599 Avenue Z, Brooklyn",4.1,738,313,20.6983658921545,22p-222@627-wdc-ecq,Key Food
+ChIJ_3LEJUlEwokRUeY3cE7hocQ,40.58002889999999,-73.9722852,Key Food Supermarkets,"505 Neptune Ave, Brooklyn",4.2,556,313,20.6983658921545,223-223@627-wdc-hh5,Belarus
+ChIJ9-2Ot-FEwokRr63OTSlngaY,40.6134194,-73.9814861,Z&Z Market Inc.,"6511 Bay Pkwy, Brooklyn",3.8,226,311,14.4533915978255,224-222@627-wdh-7wk,Ace Market NY
+ChIJOzsvbQZFwokRw6kc-dRDUVs,40.6021698,-73.9933166,Bay Parkway Grocery,Brooklyn,5,5,311,14.4533915978255,23m-222@627-wdk-ysq,Bay Parkway Grocery
+ChIJObY1sEhEwokRGQz_nMFy11Y,40.5800829,-73.97217370000001,Belarus Supermarket,"495 Neptune Ave, Brooklyn",3.8,51,313,20.6983658921545,223-223@627-wdc-hh5,Belarus
+ChIJmfW_AP1awokRYoqiH1mySHk,40.6690087,-73.9853759,CTown Supermarkets,"329 9th St, Brooklyn",4.1,630,306,10.886166172325,22c-222@627-wh2-fzz,C Town Supermarkets
+ChIJWwHj-8tawokRgqM0ERt2LIk,40.6465052,-74.0085189,CTown Supermarkets,"4705 5th Ave, Brooklyn",4,918,307,14.1749970882059,23c-222@627-wgv-68v,C Town Supermarkets
+ChIJ0_-PpoxawokRuxEliQTQi7U,40.6742565,-74.0074731,Associated Supermarkets of Red Hook,"58 Lorraine St, Brooklyn",3.9,144,306,10.886166172325,zzw-223@627-wh6-9zz,Associated Supermarkets
+ChIJbxV3qLlawokRvpMxyXlnA3o,40.6525309,-74.0101646,Food Universe Marketplace,"4118 3rd Ave, Brooklyn",3.9,81,307,14.1749970882059,228-222@627-wgt-v9f,Food Universe Marketplace
+ChIJF7ai47dawokRIz8yAPKbQg0,40.648838,-74.0067749,Key Food Supermarkets,"4320 5th Ave, Brooklyn",4,678,307,14.1749970882059,243-222@627-wgt-vfz,Key Food
+ChIJ80N2DyRbwokRtpWO180_02c,40.6700014,-73.98522969999999,Foodtown of Park Slope,"409 5th Ave, Brooklyn",4.3,68,306,10.886166172325,23x-222@627-wh2-kvf,Emporium Fresh Market of Park Slope
+ChIJzaVGIDZbwokRYgBav07y8Kw,40.6642624,-73.99000459999999,Prospect Market,"595 5th Ave, Brooklyn",4.4,72,307,14.1749970882059,232-223@627-wh3-3wk,Prospect Market
+ChIJiRDDLwdbwokRJS0Ur3l4nfw,40.6731276,-73.9766209,Key Food Urban Marketplace,"130 7th Ave, Brooklyn",4,507,306,10.886166172325,225-222@627-wh3-6ff,Key Food
+ChIJV_1_B_1awokRhmShu5GcuH4,40.668923,-73.9853931,Steve's 9th Street Market,"329 9th St, Brooklyn",4.2,31,306,10.886166172325,22c-222@627-wh2-fzz,C Town Supermarkets
+ChIJ53Bm0MBawokR5Knsu-Kqu0g,40.6548042,-74.0042054,T.H. Fruits & Vegetables Super Market,"938B 4th Ave, Brooklyn",2.7,3,307,14.1749970882059,22j-222@627-wgv-nt9,TH Fruits & Vegetables Super Market
+ChIJmcJlCKpbwokRdDOMUBqltxM,40.6647222,-73.98361109999999,Union Market,"402-404 7th Ave, Brooklyn",4.2,357,306,10.886166172325,239-222@627-wh2-gff,Union Market
+ChIJUylU0LZawokRggyhMTkRvH8,40.6475487,-74.0119917,Bravo Supermarkets,"4808 4th Ave, Brooklyn",4,355,307,14.1749970882059,22w-222@627-wgt-wtv,Bravo Supermarkets
+ChIJCyuFM_9awokR-UCjM7JdJe0,40.67489279999999,-73.98878789999999,Whole Foods Market,"214 3rd St, Brooklyn",4.4,3228,306,10.886166172325,224-222@627-wh3-k4v,Whole Foods Market
+ChIJy-wL6wxbwokR-qitFNYm3bU,40.6664681,-73.9613552,Family Supermarket,"98 Montgomery St, Brooklyn",4.3,32,309,16.7576143125961,227-222@627-s8z-whq,J & J Food Market
+ChIJoSQj0aFbwokRRwkwDUyNqcM,40.6756137,-73.9599868,Classon Grocery Store,"502 Prospect Pl, Brooklyn",4.7,20,308,16.9051320723646,zzw-224@627-s92-f9f,Classon Grocery Store
+ChIJE_1Dl8BbwokR_tHtBv0PhYQ,40.6935762,-73.9632748,Khim's Millennium Market Viii,"536 Myrtle Ave, Brooklyn",4.1,123,302,13.3904746681599,zzw-222@627-s8y-ht9,Khim's Millennium Market
+ChIJQ62O_S1FwokRO3NWK33_SI4,40.6331255,-73.9943289,Super 13,"5214 13th Ave, Brooklyn",4.6,318,312,17.2724163426071,235-222@627-wgw-bkz,Super 13
+ChIJfWshri1FwokRVHfIl41bIXs,40.6346563,-73.992293,Kosher Discount,"4909 13th Ave, Brooklyn",4.6,128,312,17.2724163426071,23r-222@627-wgw-bx5,Kosher Discount
+ChIJ5XGmwLNawokRRPasDIAGdOE,40.6445718,-74.0141759,Valdez Supermarket,"5301 4th Ave, Brooklyn",0,0,307,14.1749970882059,22f-222@627-wgy-f2k,Patel Grocery
+ChIJFxpy0C9FwokRxQ-IuQdIVB4,40.629987,-73.994134,Tov Meod Food Center Inc.,"5520 14th Ave, Brooklyn",4.9,39,312,17.2724163426071,236-223@627-wgw-dy9,Star Food Center
+ChIJ3RMWPDBFwokRiDxQBevxdn0,40.6297881,-73.99580999999999,Biedronka,"5703 57th St, Brooklyn",4.4,161,312,17.2724163426071,237-222@627-wgw-dn5,Beidronka
+ChIJpVdeFTZFwokRZfX3dtNDbuQ,40.6330556,-74.0052778,Circus Fruits,"5915 Fort Hamilton Pkwy, Brooklyn",4.2,1160,312,17.2724163426071,22v-222@627-wgz-rzf,Circus Fruits
+ChIJRSD_YyZcwokR7uLiqekX-RY,40.7076551,-73.91563579999999,Associated Supermarkets of Ridgewood,"333 Seneca Ave, Queens",4.2,498,405,9.24780685798555,22j-222@627-s93-rx5,Associated Supermarkets
+ChIJO9aqjiFcwokR8PlWf5vjAa8,40.700721,-73.910724,FOOD BAZAAR,"1590 Gates Ave, Queens",4.3,7225,405,9.24780685798555,zzw-223@627-s7r-2c5,Food Bazaar Supermarket
+ChIJk3ydzrFdwokRwhZdtp_TLnM,40.6981811,-73.909584,Food Bazaar Supermarket,"454 Wyckoff Ave, Brooklyn",4.4,226,304,16.5902679830748,zzw-222@627-s95-gx5,Food Bazaar Supermarket
+ChIJSWp2CCFcwokRNIa7mRL0oCE,40.6994439,-73.9055278,Billy's Marketplace,"870 Cypress Ave, Queens",4.4,709,405,9.24780685798555,zzw-224@627-s7r-33q,C Town Supermarkets
+ChIJxQQveydcwokRIktRBklSCGg,40.70396530000001,-73.9044454,Vitelio's Marketplace,"1883 Madison St, Ridgewood",4.1,151,405,9.24780685798555,233-222@627-s7r-3nq,Vitelios Marketplace
+ChIJg9PzJIxEwokRT8HvJ8fmeOA,40.5993394,-73.9541725,CTown Supermarkets,"1709 Avenue U, Brooklyn",3.8,186,315,13.0139478449959,zzw-223@627-wdk-fcq,C Town Supermarkets
+ChIJCzmep2ZEwokR2D1_dc-G-ts,40.5871944,-73.9538141,Bay Supermarket Deli & Grocery,"1504 Sheepshead Bay Rd, Brooklyn",4.5,2,315,13.0139478449959,22n-222@627-wdj-hnq,Ocean Foodmart
+ChIJ__-_5WREwokRn1rL9ZIUZD4,40.5851818,-73.9496671,Netcost Market,"3100 Ocean Ave, Brooklyn",4.3,1735,315,13.0139478449959,zzw-222@627-wdj-jn5,Net Cost Market
+ChIJFbiLzItEwokRYc-cVskEh8I,40.5954579,-73.9544428,Netcost Market,"2257 East 16th Street, Brooklyn",4.2,1254,315,13.0139478449959,23f-222@627-wdj-brk,Net Cost Market
+ChIJR-3h4xtFwokRCwY2LKYqlOE,40.5988286,-73.9854319,Courses,"1949 Stillwell Ave, Brooklyn",0,0,311,14.4533915978255,22w-222@627-wd9-zvf,Foodtown
+ChIJx2Se9pREwokRQ3u_5dikcG0,40.6098338,-73.9561619,Big Banana,"1709 Kings Hwy, Brooklyn",4,301,315,13.0139478449959,228-222@627-wdh-qj9,Big Banana II
+ChIJ7xdJoYxEwokRnJl6P9-1WDs,40.5985054,-73.95836059999999,L&J Super Market,"2102 E 13th St, Brooklyn",5,3,315,13.0139478449959,22f-222@627-wdj-sbk,L &amp J Supermarket II
+ChIJJwoWk_REwokR-QwlCSdhZa8,40.59754,-73.961446,Ocean Bay Market,"2424 Coney Island Ave, Brooklyn",4,388,315,13.0139478449959,22w-222@627-wdj-nyv,Ocean Bay Market
+ChIJ51fO_2NEwokRF06NU0RvTu8,40.5883695,-73.9518068,Sheepshead Bay Marketplace,"1717 Avenue Z, Brooklyn",4.4,1351,315,13.0139478449959,234-222@627-wdj-mc5,Sheepshead Bay Fruits & Vegetables
+ChIJR9JKiIxEwokRGX95RT4X66g,40.59859,-73.9566651,Chang Fa Food Market,"1418 Avenue U, Brooklyn",3.9,220,315,13.0139478449959,zzw-222@627-wdj-s5z,Chang Fa Food Market
+ChIJTfTwpYxEwokRZAjA9uI2OQU,40.5987045,-73.958693,Sea Bay Seafood & Meat Market,"1241 Avenue U, Brooklyn",4,99,315,13.0139478449959,223-222@627-wdj-sbk,Sea Bay Seafood & Meat Market
+ChIJKYgKqmZEwokRlmnw3rx_m-A,40.587381,-73.953667,Portokali Gourmet Market,"1509 Sheepshead Bay Rd, Brooklyn",4.5,443,315,13.0139478449959,22n-222@627-wdj-hnq,Ocean Foodmart
+ChIJI6s-BGpEwokRigIoZ3bcjRM,40.5782722,-73.9592167,Brighton Bazaar,"1007 Brighton Beach Ave, Brooklyn",3.9,1093,313,20.6983658921545,22c-222@627-wdc-4vz,Brighton Bazaar
+ChIJ4VwWN8ZFwokRTWPA9m7JKFE,40.5758942,-73.9960567,Fine Fare Supermarkets,"2901 Mermaid Ave, Brooklyn",3.7,738,313,20.6983658921545,zzw-222@627-wdf-9zz,Fine Fare Supermarkets
+ChIJ7XvZ1cBFwokRdKJBF4DDm5c,40.5772486,-74.00182459999999,Key Food Supermarkets,"3485 Neptune Ave, Brooklyn",4.2,545,313,20.6983658921545,zzw-222@627-wdf-sbk,Key Food
+ChIJ460YC0FEwokRfq88sb45xx4,40.577614,-73.962587,Brighton Fruit Market,"421 Brighton Beach Ave, Brooklyn",4.6,35,313,20.6983658921545,229-222@627-wdb-fpv,Exquisite Foodland
+ChIJcT_wzXhbwokRmJNfTKjH_w0,40.668339,-73.94211299999999,Kahan's Superette,"317 Kingston Ave, Brooklyn",4.5,429,309,16.7576143125961,23x-222@627-s92-92k,Kahan's Superette
+ChIJLwNSvZpbwokRg2MNgRNe0JI,40.6805722,-73.94907979999999,Carib Food Market,"1303 Fulton St, Brooklyn",4.1,191,303,18.0617780806477,22k-222@627-s8v-dsq,Carib Food Market
+ChIJc8YnGCRFwokRUHDd4KT2JN0,40.623669,-73.98957200000001,Breadberry,"1689 60th St, Brooklyn",4.6,1291,312,17.2724163426071,239-222@627-wgw-jy9,Breadberry
+ChIJo7q6vCpbwokR11loiv-Qrw0,40.6374283,-73.9822224,Kol Tuv Grocery,"1507 40th St, Brooklyn",4.7,115,312,17.2724163426071,23g-222@627-wgx-4gk,Kol Tuv Grocery
+ChIJRYkmVqNgwokR1Ig6hS4YQY4,40.7086042,-73.8302983,CTown Supermarkets,"81-29 Lefferts Blvd, Queens",3.8,210,409,10.8413546626525,zzw-228@627-s9s-rtv,C Town Supermarkets
+ChIJj8MZ4sRgwokR4ZNF6GTUCy8,40.7029676,-73.8087302,Ideal Food Basket,"8930 Sutphin Blvd, Queens",4.3,724,412,12.9886899506901,236-222@627-s9p-wkz,Ideal Food Basket
+ChIJVxGWrMxgwokRMPnbIRo78LI,40.691428,-73.81197139999999,CTown Supermarkets,"134-16 Liberty Ave, Queens",3.9,1004,410,11.202506327968,226-222@627-s9w-6zf,C Town Supermarkets
+ChIJZfTcRcNgwokRaBIE2OKwj-A,40.70623399999999,-73.80747660000002,Ideal Food Basket,"148-40 Hillside Avenue, Queens",4.1,320,412,12.9886899506901,22t-222@627-s9p-qxq,Ideal Food Basket
+ChIJkWfJz7lgwokRRGgPmoyI1NQ,40.70324129999999,-73.82163249999999,Trade Fair Supermarket,"130-10 Metropolitan Ave, Richmond Hill",4,1595,409,10.8413546626525,22c-222@627-s9t-mc5,Trade Fair Supermarket
+ChIJz0P2ouhgwokRJgtWWgiqeR4,40.714036,-73.806995,Foodtown,"84-05 Parsons Blvd, Queens",4,897,408,12.3158312864995,236-222@627-s9q-snq,Foodtown
+ChIJd73odf5dwokRGg9eM57bU_4,40.6946369,-73.847383,CTown Supermarkets,"98-02 Jamaica Ave, Queens",3.7,375,409,10.8413546626525,zzw-223@627-s87-nqz,C Town Supermarkets
+ChIJodPvAa5gwokRSFIRmaRAKfw,40.6991081,-73.8302307,Key Food Supermarkets,"87-25 Lefferts Blvd, Queens",3.9,979,409,10.8413546626525,zzw-222@627-s9s-vcq,Key Food
+ChIJSeyaQydewokR_PWmaOt8hj8,40.7213225,-73.8427793,Key Food Supermarkets,"108-27 Queens Blvd, Forest Hills",3.8,424,406,10.2563388560526,zzw-222@627-s7v-dvz,Key Food
+ChIJJ5K-EktnwokRK75S3FYEhAc,40.6908569,-73.8220138,Key Food Supermarkets,"123-12 101st Ave, Jamaica",3.9,506,409,10.8413546626525,22p-222@627-s9v-54v,Key Food
+ChIJP0_T2tpgwokRzPdEOPB5CnI,40.7019976,-73.8057242,Key Food Supermarket,"148-35 Jamaica Ave, Queens",4,846,412,12.9886899506901,22p-222@627-s9p-ty9,Key Food
+ChIJvUnCl8BgwokRQigCh9lTx8w,40.7080556,-73.8175,Key Food Supermarkets,"13837 Queens Blvd, Queens",3.4,562,408,12.3158312864995,22g-222@627-s9q-cnq,Key Food
+ChIJAWX9I6tgwokRcrbXE36uXSA,40.6958337,-73.8383916,Bravo Supermarkets,"109-08 Jamaica Ave, Queens",3.5,150,409,10.8413546626525,239-222@627-s87-qfz,Bravo Supermarkets
+ChIJsW7v5-xgwokRpMj4RjFeieo,40.7184986,-73.8167823,Key Food Supermarkets,"79-15 Main St, Flushing",4,910,408,12.3158312864995,zzw-222@627-s9z-tjv,Key Food
+ChIJNRI-YJhgwokR8UGMJWu9MnM,40.7152028,-73.8329444,Key Food Supermarkets,"116-34 Queens Blvd, Queens",3.9,425,406,10.2563388560526,224-222@627-s9t-fvf,Key Food
+ChIJzyAADXJhwokRQoXPwKyq4Xs,40.7226669,-73.81946649999999,R&M MAIN SUPERMARKET INC.,"76-05 Main St, Flushing",3.9,93,408,12.3158312864995,zzw-222@627-s9z-wc5,R& M Food Market
+ChIJOxwecJ5gwokR9c-z4RxxjGI,40.719216,-73.839685,Foodtown of Forest Hills,"110-44 Queens Blvd, Queens",4.2,661,406,10.2563388560526,22f-222@627-s9t-wtv,Foodtown
+ChIJIxyjfa5gwokRa6FQMsKXfBs,40.7074433,-73.8354877,Vitelio's Marketplace,"11615 Metropolitan Ave, Queens",3.7,266,409,10.8413546626525,233-222@627-s9s-n89,Vitelio's Marketplace
+ChIJQSp7-YxgwokRo24Vre1kyXA,40.72511,-73.82070399999999,Wasserman's Supermarket,"72-51 Main St, Flushing",4.5,295,408,12.3158312864995,zzw-22c@627-s9z-mzf,Wasserman Grocery
+ChIJf_r_RONdwokRI-hFK8H1uQU,40.6930136,-73.85461579999999,Fine Fare Supermarkets,"90-01 Jamaica Ave, Queens",4.3,369,409,10.8413546626525,22n-222@627-s86-zcq,Fine Fare Supermarkets
+ChIJZfVjxdJhwokRz1l6QL6FXDM,40.726414,-73.810351,Kouchi Supermarket,"75-01 Parsons Blvd, Queens",3.8,12,408,12.3158312864995,22m-222@627-sb2-jsq,Kouchi Supermarket
+ChIJX0ZCUMBdwokRJNonfyfwYM4,40.692824,-73.853703,Key Food Supermarkets,"90-28 Jamaica Ave, Queens",4.1,65,409,10.8413546626525,22x-223@627-s86-z75,Key Food
+ChIJLYjTy6BgwokRMBOJSmI1eRo,40.7071685,-73.854721,Stop & Shop,"8989 Union Tpke, Queens",4.2,1724,406,10.2563388560526,zzw-222@627-s7n-cyv,Stop & Shop
+ChIJEXjZfiVewokRPLmk3GVKhBI,40.7262555,-73.85106100000002,New Yellowstone Farm,"102-01 Queens Blvd, Forest Hills",4.1,79,406,10.2563388560526,zzw-22c@627-s7t-dsq,Yellowstone Farm
+ChIJT0_W62JDwokRwURV05ojcHM,40.601197,-73.934123,Key Food Supermarkets,"2245 Gerritsen Ave #40, Brooklyn",4,896,315,13.0139478449959,22q-222@627-wgq-zfz,Key Food
+ChIJ88IBm4BEwokRiav1Ae0f6v8,40.5912534,-73.9397973,ALDI,"3785 Nostrand Ave., Brooklyn",4.3,2300,315,13.0139478449959,225-222@627-wdk-8d9,ALDI
+ChIJz14j3YREwokRvTUcmSEOsFA,40.600088,-73.943144,Kosher Palace Supermarket,"2818 Avenue U, Brooklyn",4.5,370,315,13.0139478449959,23v-222@627-wdj-zzz,Kosher Palace Supermarket
+ChIJgf0qEoVEwokR9BEzFI_Fd4A,40.5997687,-73.9459229,Produce Market 2000,"2518 Avenue U, Brooklyn",4.3,606,315,13.0139478449959,22g-222@627-wdk-3qz,Produce Market 2000
+ChIJFy9AIYVEwokRuMfQDQ81e2I,40.600221,-73.9449527,Cherry Hill Gourmet (Ave U),"2613 Avenue U, Brooklyn",4.3,453,315,13.0139478449959,zzy-222@627-wdk-26k,Cherry Hill Gourmet
+ChIJ40rXIoFEwokRFeufsgreU0g,40.594089,-73.94096549999999,Gourmet Boutique,"3688 Nostrand Ave., Brooklyn",4.2,331,315,13.0139478449959,23c-222@627-wdk-7qz,Gourmet Boutique
+ChIJGyoJkyCLwokRP4bVofcSf64,40.7768862,-73.8144427,Met Fresh of Whitestone,"24-11, 24-07 150th St",4.3,360,407,11.3454886257134,232-222@627-s9h-92k,Met Foodmarkets
+ChIJa2bHtLhhwokR8RGzVfsWrGE,40.7445238,-73.7774998,The Food Emporium,"196-35 Horace Harding Expy, Queens",4.1,570,411,7.59947857521556,zzy-222@627-rzp-rzf,Food Universe Marketplace
+ChIJTbowGkBgwokRcAsCPa6lYLM,40.7502386,-73.8179222,Gold City Supermarket,"46-31 Kissena Blvd, Queens",3.7,821,407,11.3454886257134,zzw-224@627-s9b-ks5,Gold City Supermarket
+ChIJ1dbg0oOKwokRS4R7jPDAhwU,40.7712535,-73.80128069999999,Marino's Supermarket,"16307 29th Ave, Queens",4.5,384,407,11.3454886257134,22v-222@627-s9j-nkf,Marino's Supermarket
+ChIJh022H2JhwokR9kPcvXIX0XQ,40.753146,-73.7920184,Marino’s Supermarket,"46-07 Hollis Ct Blvd, Queens",4.7,168,411,7.59947857521556,22x-222@627-rzq-92k,Marino's Supermarket
+ChIJ1YvYwyVgwokRTk8HMWLLCTE,40.7631143,-73.8090713,H Mart,"156-40 Northern Blvd, Queens",3.8,219,407,11.3454886257134,zzy-222@627-s99-s3q,H Mart
+ChIJy-dvay9gwokR5fir7lD_nww,40.7626212,-73.8054181,New Age Market,"160-06 Northern Blvd, Queens",3.7,580,407,11.3454886257134,zzw-223@627-s9j-vxq,K S Supermarket
+ChIJHYQcWCFgwokRGExSNxVdT0o,40.765274,-73.81334690000001,Hanyang Mart,"150-51 Northern Blvd, Flushing",3.7,1488,407,11.3454886257134,zzw-222@627-s99-skf,Hanyang Super Market
+ChIJTW-zsm6KwokRg-vrKLLS5WU,40.7801434,-73.7778953,Stop & Shop,"21315 26th Ave, Queens",4.2,1040,407,11.3454886257134,225-222@627-rvx-45f,Stop & Shop
+ChIJi7TN9tNhwokRllAQowdZVuk,40.76117,-73.7896986,Paul's Market,"3921 192nd St, Queens",4.1,66,411,7.59947857521556,22b-222@627-s9j-ghq,Paul's Market
+ChIJZ-UdDsVhwokRPAcnY10IpAw,40.7535179,-73.7813397,H Mart Bayside,"46-40 Francis Lewis Blvd, Queens",4.3,2619,411,7.59947857521556,zzy-227@627-rzq-xt9,H Mart
+ChIJ9w_rk3SKwokROuNbCZHuG2Y,40.7685283,-73.7732975,Bayside Milk Farm,"35-15 Bell Blvd, Bayside",4.6,373,411,7.59947857521556,22d-222@627-rzx-47q,Bayside Milk Farm
+ChIJuaMXieFhwokR7VUIyO4SzK0,40.7626965,-73.7965877,Laundromat,"169-14 Crocheron Ave, Flushing",1,1,407,11.3454886257134,zzw-223@627-s9j-89z,Shiv Ganga
+ChIJd-ExoWtFwokRXg-mmkizvpo,40.6399157,-74.0083396,B&W Super Grocery,"5411 7th Ave, Brooklyn",4,4,307,14.1749970882059,23m-223@627-wgv-435,B &amp W Super Grocery
+ChIJuauQhdRawokRlP7IoXjMCis,40.6391908,-73.9882198,Kosher Food Depot,"1279 42nd St, Brooklyn",4.7,275,312,17.2724163426071,23n-222@627-wgx-54v,The Kosher Food Depot
+ChIJT3rMurJawokR46RlOaPczIc,40.6417019,-74.017856,Ky & Am Grocery Inc,"5818 4th Ave, Brooklyn",3.7,3,307,14.1749970882059,227-222@627-wh2-7h5,Bravo Supermarkets
+ChIJ77AulDdDwokRFH8mHMqZs2k,40.6172155,-73.909436,Key Food Supermarkets,"6620 Avenue U, Brooklyn",4.2,618,318,10.3519973638082,22b-224@627-wg2-7bk,Key Food
+ChIJmQT-4khDwokRWFX7lbauDH4,40.619449,-73.916378,Mill Basin Shuk,"6324 Avenue N, Brooklyn",4.6,101,318,10.3519973638082,227-222@627-wg2-jgk,Mill Basin Shuk
+ChIJL2XfKEtDwokRFTIbA60Qcfw,40.6263758,-73.9159872,Food Way,2149 Ralph Avenue Georgetowne Shopping Center,4.2,1420,318,10.3519973638082,zzw-227@627-wfz-kxq,Food Way Market
+ChIJzfUU-0FEwokRDb5Vu6QuibA,40.5781944,-73.9598917,Tashkent Supermarket Halal Food,"713 Brighton Beach Ave, Brooklyn",4.4,3279,313,20.6983658921545,222-223@627-wdc-4vz,Tashkent Supermarket
+ChIJkSJTiGlEwokRREr8wltwMA8,40.57842429999999,-73.957576,Golden Key 2,"1067 Brighton Beach Ave, Brooklyn",4.1,79,313,20.6983658921545,232-222@627-wdc-3qz,Golden Key
+ChIJfQnEpIxEwokRIpUrWZshNVg,40.598842,-73.958511,Kuan Sing Supermarket,"1247 Avenue U, Brooklyn",4.2,5,315,13.0139478449959,225-222@627-wdj-sbk,Kuan Sing Supermarket
+ChIJs6ys4ddcwokRDCvRc8E9AiQ,40.6324644,-73.8888707,Key Food Supermarkets,"2066 Rockaway Pkwy #47, Brooklyn",3.8,753,318,10.3519973638082,222-222@627-wg8-5xq,Key Food
+ChIJ0dUcVddcwokRntoFoYwmfPw,40.6336057,-73.89474849999999,N & A Superette,"1595 Canarsie Rd, Brooklyn",4.2,22,318,10.3519973638082,22h-223@627-wg8-2rk,Man Superette
+ChIJK-TQcC1fwokR2CIy4PcxZiM,40.7102105,-73.8989303,CTown Supermarkets,"64-01 Fresh Pond Rd, Queens",4.3,66,405,9.24780685798555,zzy-222@627-s7q-k2k,Price Choice
+ChIJATfE6YRewokRNjnRn3wpxxs,40.7102006,-73.89891759999999,Price Choice Foodmarkets,"6401 Fresh Pond Rd, Ridgewood",4.2,373,405,9.24780685798555,zzy-222@627-s7q-k2k,Price Choice
+ChIJ_54lroNewokRJTmNY_LY73s,40.7062605,-73.8971382,Food Universe Marketplace,"66-82 Fresh Pond Rd, Ridgewood",4.5,157,405,9.24780685798555,22r-222@627-s7q-fcq,Food Universe Marketplace
+ChIJB0CskhhcwokRK85UUgCxW6w,40.698882,-73.9137727,Sea Town Fish & Meat Market,"330 Linden St, Brooklyn",4.1,638,304,16.5902679830748,222-222@627-s95-hh5,Kikiriki Live Poultry
+ChIJ8ypajKRewokRv4t0WcP_Pqg,40.7141938,-73.9198147,Western Beef Supermarket,"47-05 Metropolitan Ave, Queens",4.1,1682,405,9.24780685798555,zzw-224@627-s93-mx5,Western Beef
+ChIJvXaYNARcwokREmk7xBF4Zpc,40.7004391,-73.92906789999999,Los Primos Grocery,"105 Central Ave, Brooklyn",4.8,11,304,16.5902679830748,222-222@627-s93-fcq,Los Primos Grocery
+ChIJg7vgGZVewokRFHMnkvS83m0,40.723077,-73.9099898,Good Fortune Supermarket Group,"58-51 Maspeth Ave, Maspeth",3.8,26,405,9.24780685798555,zzw-222@627-s7n-xyv,Good Fortune Supermarket Group
+ChIJ849ahr9bwokRfMEOJWhqsWA,40.6838312,-73.94416009999999,Organic natural deli market,"390 Tompkins Ave, Brooklyn",5,5,303,18.0617780806477,23q-222@627-s8t-v2k,New Way Natural Market & Deli
+ChIJmwivMJlbwokRfWCP_JPN8LA,40.6774892,-73.9556861,FOOD GARDEN MARKET,"608 Franklin Ave, Brooklyn",4.5,145,308,16.9051320723646,zzy-222@627-s92-cwk,Food Garden Market
+ChIJwwHf0-RcwokRMqQMAjhd3lE,40.6537447,-73.8974959,Canarsie Food Center,"245 Stanley Ave, Brooklyn",4.4,8,305,18.3671929686415,zzw-222@627-wg7-brk,Canarsie Food Center
+ChIJq5vLqFP1wokR94iCwJqM8So,40.7818376,-73.845247,City Fresh Market,"122-17 20th Ave, College Point",4.5,127,407,11.3454886257134,22p-222@627-s9k-qj9,City Fresh Market
+ChIJy_ZaXVL1wokRbOzcqHXKpOY,40.7836111,-73.8455556,Key Food Supermarkets,"15-19 College Point Blvd, Queens",3.9,308,407,11.3454886257134,zzw-228@627-s9m-5s5,Key Food
+ChIJXYe19ANgwokRwZSxJhdz8Nc,40.7685655,-73.8346213,Stop & Shop,"3106 Farrington St, Queens",4.1,1851,407,11.3454886257134,zzw-223@627-s99-45f,Stop & Shop
+ChIJWU50tW9hwokRLY2ghRQdUbw,40.76137749999999,-73.8303723,Hong Kong Supermarket,"3711 Main St, Flushing",3.9,757,407,11.3454886257134,22t-227@627-s99-cqz,Super HK
+ChIJEXiqHK6KwokRryadk8FNox8,40.78322,-73.83510609999999,ShopRite of 20th Ave.,133-11 20th Avenue College Point Queens,4.3,2607,407,11.3454886257134,222-222@627-s9k-s89,ShopRite
+ChIJG2TpTqGKwokR3j9CakQOR3k,40.7763889,-73.8236111,Hua Lian Supermarket,"25-03 Parsons Blvd, Queens",3.8,809,407,11.3454886257134,22f-223@627-s99-xnq,Hua Lian Supermarket
+ChIJRcx5XRJgwokRHgnsJuFjKn8,40.7555865,-73.8286305,Chung Fat Supermarket,"41-82 Main St, Queens",3.7,559,407,11.3454886257134,zzw-223@627-s9g-2kz,Chung Fat Supermarket
+ChIJ6XZLABJgwokRluM1s0hYieQ,40.7578547,-73.82999819999999,Deluxe Food Market,"Zhang Ming Building, 13356 41st Ave, Queens",4,15,407,11.3454886257134,223-222@627-s99-9zz,DC Flushing Market
+ChIJvftKv1P1wokR9p-xXW1JemI,40.781568,-73.84611699999999,Cp food center Corp,"20-02 College Point Blvd, Flushing",4.5,104,407,11.3454886257134,zzy-222@627-s9m-brk,All Nations Food Market
+ChIJvRlFFgxgwokRYXXoMGplIT0,40.757229,-73.8356575,SkyFoods Supermarket,"40-24 College Point Blvd, Queens",4,1165,407,11.3454886257134,zzw-22m@627-s99-bzf,SkyFoods
+ChIJ7dYlihFgwokRX0TNJo2oTMo,40.7578155,-73.8280067,Chang Jiang Supermarket,"41-41 Kissena Blvd, Queens",3.7,864,407,11.3454886257134,zzw-226@627-s99-9vf,Chang Jiang Supermarket
+ChIJV8ZG7xFgwokReAKi5soBg3k,40.7586579,-73.82944909999999,CG food market,"40-33 Main St, Queens",2.9,78,407,11.3454886257134,225-222@627-s99-dd9,CJ Food Market
+ChIJbV3bmh1gwokRuQyTtgS5rsc,40.7720996,-73.8269108,H Mart Union,"29-02 Union St, Queens",4.2,1682,407,11.3454886257134,zzw-224@627-s99-tsq,H Mart
+ChIJ5YwZFFdgwokRozU_Qfa_2_w,40.7333248,-73.8044724,Key Food Supermarkets,"164-5 69th Ave, Queens",4,554,408,12.3158312864995,zzw-222@627-s9x-5j9,Key Food
+ChIJfdiyQW9gwokRtmX3NH8vPHg,40.7433982,-73.8253886,Zhong US Supermarket Inc,"5911 Main St, Queens",3.5,388,407,11.3454886257134,232-222@627-s9g-54v,Yong Fa Supermarket
+ChIJaeLdFWJgwokR307-_h-TALc,40.7326732,-73.82539129999999,Seasons Queens - Kosher Supermarket,"68-18 Main St, Flushing",4.3,732,408,12.3158312864995,22d-222@627-sb2-t35,Mechy's Deli
+ChIJ5aUK1RJgwokRgRJp9h7w9yM,40.752754,-73.82726,Patel Brothers,"42-92 Main St, Queens",4.2,654,407,11.3454886257134,222-222@627-s9g-26k,Patel Brothers
+ChIJXVwqpZSKwokRLDKXezk4r84,40.7892077,-73.8131023,Raspberry Farm,"150-15 14th Ave, Queens",4.2,255,407,11.3454886257134,zzw-224@627-s9h-vpv,Raspberry Farm
+ChIJb6GuC-6KwokRqJMSVm9dQxE,40.7944448,-73.80787529999999,North Shore Farms,"153-01 10th Ave, Whitestone",4.5,643,407,11.3454886257134,222-222@627-s9h-wrk,North Shore Farms
+ChIJB-bixpSKwokRreWjZQHiAsw,40.7893707,-73.81416209999999,Greek Food Emporium,"1252 150th St, Whitestone",4.7,49,407,11.3454886257134,229-222@627-s9h-w6k,Greek Food Emporium
+ChIJZ18HZ69fwokRnBFYRTPKctM,40.7498728,-73.88134320000002,CTown Supermarkets,"85-08 37th Ave, Queens",3.9,328,403,10.4416061201543,22m-222@627-s7s-f9f,C Town Supermarkets
+ChIJadpyHLBfwokRE_seydcT3NA,40.7488154,-73.8767039,Key Food Supermarkets,"37-54 90th St, Queens",3.7,76,403,10.4416061201543,22j-222@627-s7s-d35,Key Food
+ChIJHw9RUaVfwokRyAsVgQLClLc,40.750295,-73.87759,Trade Fair,"89-02 37th Ave, Jackson Heights",4.1,703,403,10.4416061201543,zzw-222@627-s7s-d5f,Trade Fair Supermarket
+ChIJTaVTiaNfwokRJTvet6pG8T0,40.7558564,-73.8812971,Key Food Supermarkets,"86-02 Northern Blvd, Jackson Heights",4.2,326,403,10.4416061201543,239-222@627-sb6-8y9,Key Food
+ChIJkd2a9btfwokRaPDhp1j-pOs,40.7541526,-73.8726421,FOOD BAZAAR,"34-20 Junction Blvd, Queens",4.4,4297,403,10.4416061201543,226-222@627-s7t-68v,Food Bazaar Supermarket
+ChIJI9xM-79fwokRQKdrJZ__EG8,40.7577298,-73.86616409999999,Pioneer Supermarkets,"10209 Northern Blvd, Queens",4,103,403,10.4416061201543,zzw-222@627-s9d-9vf,Pioneer Supermarkets
+ChIJ9WoxSJRfwokR8iOr2nIc78I,40.7618484,-73.86983479999999,Trade Fair,"99-10 Astoria Blvd, Queens",4.1,1921,403,10.4416061201543,22z-222@627-sb7-59f,Trade Fair Supermarket
+ChIJaVjoC8lfwokRQQhupUUnR3o,40.7438254,-73.86221359999999,Ideal Food Basket,"99-30 Corona Ave., Queens",4.2,542,404,12.4220275628749,zzw-223@627-s7s-wtv,Ideal Food Basket
+ChIJi_QEBK9fwokRbEU2oXUQgrw,40.7481588,-73.8805368,Mi Tierra Supermarket,"85-15 Roosevelt Ave, Queens",4.3,652,403,10.4416061201543,22q-222@627-s7s-9j9,Mi Tierra Supermarket
+ChIJazy62KZfwokRaEDnlSCK5uQ,40.75534810000001,-73.8859946,Mi Tierra Supermarket,"8102 Northern Blvd, Jackson Heights",4,304,403,10.4416061201543,227-222@627-sb6-b8v,Met Food Markets
+ChIJXQMUfLlfwokRCVsVwjzM2YA,40.7516635,-73.87126359999999,FOOD BAZAAR,"35-60 Junction Blvd, Queens",4.3,2743,403,10.4416061201543,zzw-222@627-s7t-2hq,Food Bazaar Supermarket
+ChIJBVuTTKlfwokR9eiCn0oyk9U,40.7466456,-73.8830898,SuperFresh,"82-10 Baxter Ave, Queens",4.1,793,404,12.4220275628749,22w-222@627-s7s-brk,Food Universe Marketplace
+ChIJh84RPrBfwokRba4urWVNhv0,40.7483173,-73.875551,Bravo Supermarkets,"90-30 Roosevelt Ave, Queens",4.1,239,404,12.4220275628749,237-222@627-s7s-dsq,Bravo Supermarkets
+ChIJw85kTcdfwokRDKgzx7K3PjY,40.7530501,-73.8646801,Key Food Supermarkets,"102-14 37th Ave, Corona",4.1,336,403,10.4416061201543,228-222@627-s7t-5xq,Key Food
+ChIJx-6UBsdfwokRPDDqYKgh5h0,40.750482,-73.86272799999999,City Fresh Market,"39-07 103rd St, Corona",4.4,248,403,10.4416061201543,22c-222@627-s7s-qj9,Associated Supermarket
+ChIJETKJZrZfwokRmcEEebKH3ms,40.7445207,-73.86793709999999,City Fresh Market,"45-02 Junction Blvd, Corona",4,144,404,12.4220275628749,226-222@627-s7r-wx5,Associated Supermarket
+ChIJxf6xSrJfwokRy6OFte0U_fo,40.7433127,-73.874213,Detodo Supermarket Corp,"91-04 43rd Avenue, Queens",4.6,9,404,12.4220275628749,229-222@627-s7s-kpv,Sr Deli Grocery
+ChIJ_yZSxKxfwokRPey0TCSF2XQ,40.7416231,-73.8815814,US Supermarket,"82-66 Broadway, Queens",3.9,1453,404,12.4220275628749,225-222@627-s7w-y9z,US Asian Supermarket 新龍興
+ChIJgVTDYklewokRCIjth4jIDYQ,40.7337441,-73.86917389999999,A & R Grocery,"59-10 92nd St, Queens",4.4,28,404,12.4220275628749,224-222@627-s7s-6c5,A & R Grocery
+ChIJB3LeVbZfwokRY-mGgOQQiNU,40.7457882,-73.8683727,El Mundo Supermarket,"4216 Junction Blvd, Queens",4.1,165,404,12.4220275628749,22s-222@627-s7r-xdv,El Mundo Supermarket
+ChIJ7eBDLplgwokRhNbXFEuqpuo,40.73803900000001,-73.88628849999999,D & Z Supermarket,"77-00 Queens Blvd, Queens",4,681,404,12.4220275628749,229-222@627-s7w-vj9,DNZ Supermarket
+ChIJY0k1g1JewokR-ZHrWm7BqLE,40.738203,-73.877445,New Golden Sparkling Supermarket,"86-18 Broadway, Queens",3.7,426,404,12.4220275628749,22b-222@627-s7s-jvz,New Golden Sparkling
+ChIJ_WAvg1JewokRrwlOt9LQmEQ,40.7381648,-73.8774032,新金麟超市,"86-18 Broadway, Queens",3.9,215,404,12.4220275628749,22b-222@627-s7s-jvz,New Golden Sparkling
+ChIJ9UynW69fwokRYGZ64QYWKiE,40.7501735,-73.88224509999999,Downtown Natural Market,"84-01 37th Ave, Queens",4.2,360,403,10.4416061201543,22c-222@627-s7s-ffz,Downtown Natural Market
+ChIJscXKg6xfwokR6nQACvM1TKg,40.7430397,-73.8828401,Top Line Supermarket,"8137 Broadway, Queens",4.1,220,404,12.4220275628749,22m-222@627-s7w-yd9,Top Line Meat Market
+ChIJM4TDmJZfwokRz30Iu2s0v5s,40.7625392,-73.8715127,Jenny's 99cent Discount Store,"97-21 Astoria Blvd, Queens",3.7,3,403,10.4416061201543,233-222@627-sb7-4qf,M & R Deli
+ChIJb3v7THWKwokR8fqgde05h1s,40.7559637,-73.7668642,Foodtown of Bayside,"47-33 Bell Blvd, Queens",4.1,540,411,7.59947857521556,244-222@627-rzq-kzz,Foodtown
+ChIJGUDG0PNhwokRuh5uYZnKeAU,40.7478633,-73.7562418,Holiday Farms Supermarket,"61-46 Springfield Blvd, Queens",3.9,353,411,7.59947857521556,22k-223@627-rzm-5pv,Key Food
+ChIJVzhHBfFhwokR6zN0ReyjOZw,40.7491244,-73.7557951,New Mart,"221-16 Horace Harding Expy, Queens",4,266,411,7.59947857521556,22g-222@627-rzm-5zz,New Mart
+ChIJWYVR1QViwokRrWb6-7xP15M,40.7547747,-73.73987170000001,FOOD BAZAAR,"242-02 61st Ave, Queens",4.1,2183,411,7.59947857521556,zzw-222@627-rzm-hyv,Fairway Market
+ChIJDTZSfpJhwokRPAqrPrSa_kM,40.740244,-73.7595992,Key Food Supermarkets,"214-14 73rd Ave, Oakland Gardens",3.9,409,411,7.59947857521556,225-222@627-rzm-dd9,Key Food
+ChIJ5ShTBvVdwokRincVQdndIGk,40.677104,-73.8441569,CTown Supermarkets,"107-66 Cross Bay Blvd, Queens",4,387,410,11.202506327968,22c-222@627-s88-t5f,C Town Supermarkets
+ChIJH3RoeORdwokRpvkkI1vhWs0,40.6916397,-73.8666483,CTown Supermarkets,"74-39 Jamaica Ave, Queens",3.9,439,409,10.8413546626525,zzw-223@627-s87-99f,C Town Supermarkets
+ChIJd3JUCPZdwokRTQuZFWXzNt8,40.680903,-73.84285,Food Universe Marketplace,"96-09 Liberty Ave, Ozone Park",4.1,657,410,11.202506327968,zzy-222@627-s89-j7q,Compare Supermarket
+ChIJ7xJAc-ddwokR16QhEBwcO_M,40.6917507,-73.8639507,Compare Foods of Woodhaven,"7720 Jamaica Ave, Woodhaven",4,318,409,10.8413546626525,238-222@627-s87-9fz,Compare Foods Supermarkets
+ChIJLTrj4E5nwokRFkiwXtLNQNw,40.6860963,-73.82579919999999,Food Universe Marketplace,"117-01 Liberty Ave, South Richmond Hill",3.2,158,410,11.202506327968,zzw-223@627-s9v-td9,Food Universe Marketplace
+ChIJR8KxfVpnwokRB9Lqn6KsAwQ,40.6836977,-73.83340729999999,Key Food Supermarkets,"108-16 Liberty Ave, Jamaica",3.9,390,410,11.202506327968,23d-222@627-s9v-qzz,Key Food
+ChIJrdHBePBdwokR7QN7Mn1k6sE,40.6869827,-73.8497503,Stop & Shop,"92-10 Atlantic Ave, Queens",4.3,1595,409,10.8413546626525,zzw-223@627-s86-w6k,Stop & Shop
+ChIJG2U5x09nwokRg2F0wsvOTYg,40.6854642,-73.8287983,Apna Bazar,"113-18 Liberty Ave, South Richmond Hill",4,1926,410,11.202506327968,237-222@627-s9v-pn5,Apna Bazar Cash And Carry
+ChIJ99bHHCZiwokR_3286qnBlY8,40.7309718,-73.7421659,Key Food Supermarkets,"220-46 Hillside Avenue, Queens Village",3.8,605,413,8.9203113282698,zzw-222@627-rzn-nyv,Key Food
+ChIJQzIx06dhwokRJh9u2iQm_YU,40.7289174,-73.7827028,A To Z Glatt Kosher Supermarket,"18605 Union Tpke, Flushing",4.4,208,408,12.3158312864995,zzw-228@627-s9x-q75,A To Z Glatt
+ChIJpbsaUKVhwokRtSjMBoG1rtc,40.7375371,-73.7778806,IOG Supermarket,"19525 69th Ave, Queens",3.7,852,408,12.3158312864995,226-222@627-rzp-zvf,IOG Supermarket
+ChIJ5fub8-JhwokRUlhWPyzwh4w,40.728238,-73.783198,Nba Glatt Market,"185-02 Union Tpke, Queens",4.9,25,408,12.3158312864995,zzw-222@627-s9x-psq,Nba Glatt Market
+ChIJefSqh8RfwokRJ_rXnFPX6QA,40.7517045,-73.8562128,CTown Supermarkets,"108-79 Roosevelt Ave, Queens",3.9,322,403,10.4416061201543,238-222@627-s7s-skf,C Town Supermarkets
+ChIJkZamxMRfwokR_q8D1i0H2o8,40.749832,-73.854752,Stop 1 Supermarket,"111-01 43rd Avenue, Corona",4.3,54,404,12.4220275628749,22g-222@627-s7s-s5z,Stop One Supermarket
+ChIJHzWj5kBewokRuPvOmFxALi8,40.7223739,-73.8679269,REGO FRESH MARKETPLACE,"63-76 Woodhaven Blvd, Queens",3.7,110,405,9.24780685798555,22h-222@627-s7k-wtv,Rego Marketplace
+ChIJyYOMPDhewokROpe6daul2R0,40.7275261,-73.86381399999999,Key Food Supermarkets,"92-02 63rd Dr, Queens",4.1,430,406,10.2563388560526,228-223@627-s7t-vfz,Key Food
+ChIJ9_BIbjhewokRVxyDoiC5hy0,40.72657419999999,-73.8648058,R&M Supermarket,"9119 63rd Dr, Queens",4.1,235,406,10.2563388560526,zzw-224@627-s7t-v4v,R and M Supermarket
+ChIJrR5OTDFewokRtEdzfZM21HI,40.7313889,-73.8594444,Foodtown of Rego Park,"97-36 63rd Rd, Queens",3.9,470,406,10.2563388560526,zzw-227@627-s7t-w6k,Foodtown
+ChIJmUvne89fwokRewzC3y1SYQw,40.7466486,-73.8570324,Key Food Supermarkets,"46-20 108th St, Flushing",3.9,171,404,12.4220275628749,22j-223@627-s7s-pjv,Key Food
+ChIJtUdThFxewokRJsPwWAo_Fyo,40.7249461,-73.8796952,Met Food Middle Village,"79-15 Eliot Ave, Queens",4.1,369,405,9.24780685798555,22z-222@627-s7j-yvz,Met Foodmarkets
+ChIJnUac6zxewokRQ8_GKRiah0o,40.7209138,-73.85561560000001,Vitelio's Marketplace,"7176 Yellowstone Blvd, Forest Hills",4.1,442,406,10.2563388560526,23c-222@627-s7v-3qz,Vitelio's Marketplace
+ChIJl4IljzdewokRd7h2R43JHxM,40.72850409999999,-73.8635383,Rego Park Fresh Seafood Supermarket,"9317 63rd Dr, Queens",4.2,81,406,10.2563388560526,23z-222@627-s7t-sdv,Lucky Corner
+ChIJ3xp1NjdewokRxTL8R8QLSww,40.72893819999999,-73.8599643,Netcost Market,"97-10 Queens Blvd, Queens",4.2,1193,406,10.2563388560526,225-222@627-s7t-wp9,Net Cost Market
+ChIJueZDkd5hwokRWUNN4rhQxiA,40.7306685,-73.8103271,Associated Fresh Marketplace,"70-63 Parsons Blvd, Queens",3,3,408,12.3158312864995,zzw-227@627-sb2-d9z,Pioneer Supermarket
+ChIJkVGy0_VgwokRy3TJ-w3QY5k,40.7285856,-73.81293780000001,Key Food Marketplace,"155-15 Aguilar Ave, Flushing",4,975,408,12.3158312864995,223-222@627-sb2-pqf,Key Food
+ChIJf6vAmVhgwokRob5YLN-9oEE,40.7306685,-73.8103271,Associated Fresh of Parsons,"70-63 Parsons Blvd, Fresh Meadows",3.6,280,408,12.3158312864995,zzw-227@627-sb2-d9z,Pioneer Supermarket
+ChIJ1x5PdfxgwokR1TWV6vtMi2c,40.7230327,-73.8004139,Chang Xin Foods Market,"16721 Union Tpke, Queens",3.9,209,408,12.3158312864995,22q-222@627-s9x-6ff,Chang Xin Foods Market
+ChIJEZhBUB5hwokRiZ4v64kyuUU,40.711163,-73.7926114,CTown Supermarkets,"169-15 Hillside Avenue, Queens",4.1,747,408,12.3158312864995,22z-222@627-s9q-pn5,C Town Supermarkets
+ChIJxy5X4m1hwokRIqp4YHna-eQ,40.7134638,-73.76567279999999,CTown Supermarkets,"195-09 Jamaica Ave, Queens",3.4,263,412,12.9886899506901,229-222@627-s9y-w49,C Town Supermarkets
+ChIJgxHl1xthwokRNjyrTuLgIGU,40.7120738,-73.7868672,Ideal Food Basket,"175-35 Hillside Avenue, Queens",4.3,1072,408,12.3158312864995,225-222@627-s9y-hdv,Ideal Food Basket
+ChIJK4wNmRFhwokRnAG7Ta1SDWI,40.7135219,-73.7783503,Key Food Supermarkets,"183-14 Hillside Avenue, Queens",4.1,751,412,12.9886899506901,22q-222@627-s9y-8sq,Key Food
+ChIJ4d25EXdhwokRKNkKrKDVHf4,40.7206862,-73.76164159999999,Foodtown of Hollis,"202-15 Hillside Avenue, Queens",4,1461,408,12.3158312864995,223-222@627-rzr-ffz,Foodtown
+ChIJN4d22R9hwokR9IaHJ6HYQCU,40.7103,-73.7945333,Premium Supermarket,"168-07 Hillside Avenue, Jamaica",3.8,790,408,12.3158312864995,zzw-224@627-s9q-pgk,Premium Supermarket
+ChIJCa_ghRZhwokRQUHiX2GQ7w0,40.708136,-73.786616,Foodtown of Jamaica Avenue,"173-09 Jamaica Ave, Queens",4,314,412,12.9886899506901,22w-223@627-s9y-tgk,Foodtown
+ChIJWfsr8R5hwokRtAv_kJPmo9Y,40.7112456,-73.7910595,5 Star Grocery,"17026 Hillside Avenue, Queens",2.3,6,412,12.9886899506901,zzw-223@627-s9y-jd9,Karma Special
+ChIJfZnsNixewokR7ZAPRsMv8O4,40.73241549999999,-73.85026719999999,Key Food Supermarkets,"105-35 64th Rd, Forest Hills",4,449,406,10.2563388560526,zzw-222@627-s7v-k4v,Key Food
+ChIJHWu4WyxewokR4sZj-bo3pNA,40.7331822,-73.8501029,R and M glatt Supermarkets,"63-64 108th St, Queens",4,148,406,10.2563388560526,22c-222@627-s7v-73q,R And M Glatt Supermarkets
+ChIJ-wVVbT5fwokRFBn9OoY6oKo,40.7259148,-73.85059,Food Universe Marketplace,"102-21 Queens Blvd, Queens",3.9,54,406,10.2563388560526,22c-222@627-s7t-fvf,Food Universe Marketplace
+ChIJs9iwEyxewokR4l8XrBdw2dA,40.732294,-73.84887810000001,Carmel Grocery,"64-27 108th St, Queens",4.7,245,406,10.2563388560526,zzw-222@627-s7v-6x5,Carmel Grocery
+ChIJR8UTPJ5gwokRNWi29_IhbJc,40.718418,-73.84086479999999,SS Natural Market,"72-56 Austin St, Queens",4.3,594,406,10.2563388560526,22c-222@627-s9t-whq,Natural Fruit & Vegetable
+ChIJq_-DcW9ewokRWpmq5HLNrFU,40.7132637,-73.8760679,CTown Supermarkets,"75-43 Metropolitan Ave, Queens",3.4,248,405,9.24780685798555,225-222@627-s7m-wrk,C Town Supermarkets
+ChIJUTB2B9JfwokRTJP1GY4doX4,40.7411305,-73.8536086,Ideal Food Basket,"108-02 Otis Ave, Queens",4.1,269,404,12.4220275628749,224-222@627-s7s-vzz,Ideal Food Basket
+ChIJX31qB9JfwokRo7mCiPlqaMo,40.7411305,-73.8536086,Fine Fare Supermarket,"10802 Otis Ave, Corona",3.7,3,404,12.4220275628749,224-222@627-s7s-vzz,Ideal Food Basket
+ChIJJ35Z5kBewokRszinO6GG23w,40.7224222,-73.8677955,Food Universe Marketplace,"6376 Woodhaven Blvd, Flushing",4,8,405,9.24780685798555,22h-222@627-s7k-wtv,Rego Marketplace
+ChIJL-SfoDRewokR6TUY8U88cWk,40.7366832,-73.8593831,Great Wall Supermarket,"59-16 99th St, Queens",4.2,1030,404,12.4220275628749,zzw-223@627-s7s-7t9,Greatwall Supermarket (GW)
+ChIJ4YO7bBFewokRRp5wtOWm_EU,40.7108566,-73.8583482,Trader Joe's,"9030 Metropolitan Ave, Queens",4.4,4934,405,9.24780685798555,222-222@627-s7n-8sq,Trader Joe's
+ChIJISr1Oe5fwokR-RvZ6IQKI1c,40.7290343,-73.86028499999999,Mini Mart,"64th Road, 97-02 Queens Blvd, Rego Park",3.9,7,406,10.2563388560526,225-222@627-s7t-wp9,Net Cost Market
+ChIJf3aMZFtewokRoKIYaElGC7Q,40.725844,-73.87944,Village Barn Fresh Market,"80-05 Caldwell Ave, Queens",4.3,415,405,9.24780685798555,22c-222@627-s7k-389,Village Barn fresh market
+ChIJT2VDoGtnwokRWMHOFEIPdTM,40.6691667,-73.8216667,Key Food Supermarkets,"135-46 Lefferts Blvd, Queens",4,447,410,11.202506327968,22t-222@627-s89-dqf,Key Food
+ChIJN8omP0dnwokRGgsq00Omg_4,40.6784515,-73.8201141,Key Food Supermarkets,"114-11 Lefferts Blvd, Queens",3.9,467,410,11.202506327968,22r-222@627-tny-xkf,Key Food
+ChIJ95XfkGlnwokRei_0KnTKT38,40.671585,-73.82527999999999,J T Grocery,"114-27 135th Ave, Queens",4.1,28,410,11.202506327968,22y-222@627-s89-fj9,Antillana Grocery & Deli
+ChIJKUUnGkpnwokR3BsUAxAGW-w,40.6878074,-73.8194802,Apna Bazar Farmers Market,"124-16 Liberty Ave, Queens",4.1,614,410,11.202506327968,23b-222@627-s9v-5vf,Apna Bazar Farmers Market
+ChIJA93khdVdwokRQO3VQ1p6Ezo,40.7014547,-73.8853498,Ideal Food Basket of Glendale,"67-16 Myrtle Ave, Queens",4.2,339,405,9.24780685798555,zzw-222@627-s7r-d5f,Ideal Food Basket
+ChIJgQ0A7SpcwokRW-UlCs4GAz8,40.7018348,-73.890923,Stop & Shop,"64-66 Myrtle Ave, Queens",4.1,1704,405,9.24780685798555,zzy-223@627-s7q-qcq,Stop & Shop
+ChIJxfdiRwBfwokRTuNALHc0IPs,40.7432271,-73.89091379999999,New Woodside Grocery & Convenience,"73-19 Woodside Ave, Flushing",3.7,16,404,12.4220275628749,22t-222@627-s7w-ysq,New Woodside Grocery & Convenience
+ChIJlTVicwFkwokRHNcWEofoKAw,40.6776341,-73.7444269,Key Food Supermarkets,"22501 Merrick Blvd, Queens",4,503,413,8.9203113282698,22v-222@627-s26-9fz,Key Food
+ChIJ8ywoWA9kwokRksLrLXf7SUg,40.6746592,-73.7353883,Farm Country Supermarkets,"234-21 Merrick Blvd, Queens",4,232,413,8.9203113282698,22j-222@627-s27-8sq,Merrick Farm Country
+ChIJ4aZGVqRmwokRAMZLEay0gpc,40.6795518,-73.75567319999999,Stop & Shop,"134-40 Springfield Blvd, Queens",3.9,2622,412,12.9886899506901,223-224@627-s26-nkf,Stop & Shop
+ChIJ00XLQwFkwokReHQh1QUreHA,40.6771963,-73.7431787,Express Grocery,"13354 227th St, Queens",2,1,413,8.9203113282698,22r-222@627-s26-8y9,Express Deli
+ChIJVeFhfSJkwokRJEryH3H9_yQ,40.6604278,-73.7390886,Rosedale African Caribbean Market,"14371 243rd St, Rosedale",4.5,34,413,8.9203113282698,zzw-222@627-tn4-zfz,Associated Supermarkets
+ChIJGfpmLGJhwokRLU-fyFLj8Dg,40.707223,-73.75049729999999,Compare Foods of Hollis,"206-16 Hollis Ave, Queens",3.9,168,413,8.9203113282698,zzw-223@627-s2b-qxq,Compare Foods Supermarkets
+ChIJndFHOGZhwokRIBiF1-oqrc4,40.7063889,-73.75805559999999,Fine Fare Supermarkets,"199-11 Hollis Ave, Queens",3.8,356,412,12.9886899506901,22j-222@627-s2c-92k,Fine Fare Supermarkets
+ChIJQyh0-eNjwokRigjLSUyGNb0,40.6954177,-73.74198109999999,Farmbria Food Center,"217-20 Linden Blvd, Queens",4.1,2360,413,8.9203113282698,22n-222@627-s22-3dv,Farmbria Food Center
+ChIJvyTdowJjwokR4GHkpRiKHKY,40.71363059999999,-73.73636619999999,CTown Fresh Supermarket,"218-51 Hempstead Ave, Queens",4.1,135,413,8.9203113282698,zzw-224@627-s2c-f9f,CTown Fresh Supermarket
+ChIJv6fwBllhwokR897YsQJhQrA,40.6948644,-73.75120629999999,Grocery Store,"20101 Linden Blvd # A, Jamaica",4.5,19,412,12.9886899506901,zzw-222@627-s25-gc5,Grocery Store
+ChIJVXe_WU5hwokRD6bUyRtlByA,40.6907586,-73.7620319,J & T Supermarket,"11731 Farmers Blvd, St. Albans",4.3,209,412,12.9886899506901,22b-222@627-s24-rtv,J & T Super Market
+ChIJn8cKvUFhwokRLBMC1P58IBk,40.7027945,-73.7669841,CTown Supermarkets,"110-14 Farmers Blvd, Queens",3.7,398,412,12.9886899506901,22m-222@627-s25-xyv,C Town Supermarkets
+ChIJWQQlJ9RjwokRRvu2vTDxA5I,40.716078,-73.743798,Key Food Supermarkets,"213-22 Jamaica Ave, Queens",3.9,718,413,8.9203113282698,223-223@627-s2c-g6k,Key Food
+ChIJfbe2aTFhwokRnG82JWZDppo,40.6919828,-73.77859339999999,Key Food Supermarket,"171-11 Linden Blvd, Queens",4,60,412,12.9886899506901,229-222@627-s9s-649,Key Food
+ChIJkY5EM8lmwokRYTFMaMYrVUw,40.6788211,-73.7762418,Key Food Supermarkets,"16602 Baisley Blvd, Queens",3.9,1012,412,12.9886899506901,zzw-222@627-tnw-kfz,Key Food
+ChIJowRePYFnwokRnUAUUgZDx6U,40.6516443,-73.838456,Key Food Supermarkets,"163-30 Cross Bay Blvd, Queens",4.3,438,410,11.202506327968,22n-222@627-s83-bhq,Key Food
+ChIJ18lx1FhnwokR9cVXRuZM1jo,40.678845,-73.7983855,Ideal Food Basket,"142-36 Foch Blvd, Queens",4.3,427,412,12.9886899506901,237-222@627-tnz-649,Ideal Food Basket
+ChIJ4S9RLyZnwokRPATRB0QV8No,40.6788877,-73.7984249,CTown Supermarkets,"142-32 Foch Blvd, Jamaica",3.9,238,412,12.9886899506901,237-222@627-tnz-649,Ideal Food Basket
+ChIJz3Sx-NRgwokRb2Hh0Uw9RTI,40.69159800000001,-73.7981891,Market Fresh Supermarket,"109-10 Sutphin Blvd, Queens",4.1,85,412,12.9886899506901,zzw-223@627-s9r-jvz,Kevin Grocery Store
+ChIJ3TPVQDdnwokRwyUTBwIgTLE,40.6825793,-73.81359929999999,Food Universe Marketplace,"127-16 111th Ave, South Ozone Park",3.9,126,410,11.202506327968,zzw-222@627-s9v-fvf,Food Universe Marketplace
+ChIJqRaP0NVmwokRLce9ipfp7bo,40.683919,-73.7927091,C-Town Supermarket,"115-34 Sutphin Blvd, Queens",3.9,236,412,12.9886899506901,236-222@627-s9r-cwk,Fine Fare Supermarkets
+ChIJA3sMZjxnwokRcYOkxY66-q0,40.67484899999999,-73.810129,Farmboy Country Market,"127-20 Rockaway Blvd, South Ozone Park",3.9,1044,410,11.202506327968,zzy-223@627-tny-x5z,Farm Boy Country Market
+ChIJXxcm1NhmwokRDxZ7hzEj2LE,40.6738174,-73.79228599999999,Junior's Food Outlet,"145-35 Rockaway Blvd, South Ozone Park",4,495,412,12.9886899506901,zzw-222@627-tnz-g8v,Junior's Food Outlets
+ChIJ3eYRGUpnwokRLDPFdSAyE58,40.68772999999999,-73.819603,Star Brook Market Inc,"12410 Liberty Ave, South Richmond Hill",5,1,410,11.202506327968,zzy-224@627-s9v-5vf,Starbrook Market
+ChIJG8uAA99gwokRWso_JI0AKUw,40.7059193,-73.7974318,Fine Fare Supermarkets,"89-45 163rd St, Queens",4.2,311,412,12.9886899506901,zzw-223@627-s9q-p5f,Fine Fare Supermarkets
+ChIJyTmBb9NhwokRiVoOPJzwwyU,40.7068045,-73.8024361,Halal Food Garden Supermarket,"87-94 Parsons Blvd, Queens",5,2,412,12.9886899506901,22b-224@627-s9p-pn5,Little Bangladesh
+ChIJwaZrgC9hwokRQc7G37l_DUY,40.6972309,-73.7858815,Fine Fare Supermarkets,"108-30 Merrick Blvd, Queens",3.9,436,412,12.9886899506901,22b-223@627-s9r-xwk,Fine Fare Supermarkets
+ChIJLV_NffxhwokRKGhi1A1J4Lg,40.697615,-73.794347,Meat Town Supermarket,"106-57 160th St, Jamaica",4.8,5,412,12.9886899506901,226-222@627-s9s-bzf,160 Gourmet Deli
+ChIJMSKWnzNiwokRHRil5taBW_w,40.7216667,-73.7313889,Food Universe Marketplace,"222-51 Jamaica Ave, Queens",4,759,413,8.9203113282698,223-222@627-rzn-fvf,Food Universe Marketplace
+ChIJY6vEGClhwokR6iSpuXPlu4A,40.6950578,-73.7904856,Bravo Supermarkets,"108-54 Guy R Brewer Blvd, Queens",3.6,241,412,12.9886899506901,22c-222@627-s9r-85f,C Town Supermarkets
+ChIJcY4HXMZhwokRZGuTq2m8tbU,40.6950899,-73.7905292,CTown Supermarkets,"108-54 Guy R Brewer Blvd, Queens",3.5,87,412,12.9886899506901,22c-222@627-s9r-85f,C Town Supermarkets
+ChIJMQbci65owokRMwLxUd3qdr8,40.5965906,-73.7547984,Shop Fair Supermarkets,"245 Beach 20th St, Far Rockaway",3.9,261,414,16.4654487688642,226-222@627-tkc-yvz,Shop Fair Supermarket of Beach 20th
+ChIJMVBFmqpowokR8ChXXVEthLE,40.602473,-73.749737,Shop Fair Supermarkets,"1801 Cornaga Ave, Far Rockaway",3.7,91,414,16.4654487688642,zzw-222@627-tkc-rrk,Shop Fair Supermarket of Cornaga
+ChIJx6uTk55pwokR3h7OCnrTX3g,40.5981068,-73.7657218,Food Universe Marketplace,"32-11 Beach Channel Dr, Far Rockaway",4.3,126,414,16.4654487688642,zzw-224@627-tk4-st9,Food Universe Marketplace
+ChIJyyQueqlowokRBm8eNOcSHNE,40.6010249,-73.75431309999999,Key Food Supermarkets,"2020 New Haven Ave, Far Rockaway",4.1,642,414,16.4654487688642,224-222@627-tkc-qs5,Key Food
+ChIJzyiSRAJmwokRwgksS3evHxY,40.6055399,-73.7557745,Polo Supermarket,"22-18 Mott Ave, Queens",4.1,180,414,16.4654487688642,227-222@627-tkc-sdv,Rodriguez Grocery
+ChIJ3XVHwwBmwokRrlUJKlrb8tE,40.6070484,-73.7499342,Three Brothers Meat Market,"1326 Central Ave, Queens",4.4,127,414,16.4654487688642,228-222@627-tkd-fs5,Cruz Food
+ChIJ_SGwQapowokRGzFjEcgnqt0,40.6020976,-73.75196369999999,Frankel's Kosher Supermarket,"1913 Cornaga Ave, Queens",4.6,291,414,16.4654487688642,22j-222@627-tkc-nwk,Frankel's kosher market
+ChIJHSl8RQJmwokRpBIBatTmPY0,40.6056092,-73.75574639999999,Rodriguez Grocery,"2218 Mott Ave, Far Rockaway",1,1,414,16.4654487688642,227-222@627-tkc-sdv,Rodriguez Grocery
+ChIJ6_0O_0NowokRIhyQrv7mGYg,40.58696459999999,-73.8125896,Key Food Supermarkets,"87-15 Rockaway Beach Blvd, Far Rockaway",3.8,732,414,16.4654487688642,zzw-223@627-tmm-hdv,Key Food
+ChIJv_iSG15owokRk0NO4_Y4g9Q,40.5902582,-73.7994133,Stop & Shop,"70-20 Rockaway Beach Blvd, Queens",4.2,1905,414,16.4654487688642,222-223@627-tk6-yy9,Stop & Shop
+ChIJNdkjrY5owokRyn5OXSSpPk0,40.5943395,-73.78889280000001,Newway Supermarket,"58-14 Beach Channel Dr, Queens",3.8,172,414,16.4654487688642,222-222@627-tk7-rrk,20 20 Grocery & Deli Inc
+ChIJs3zAnqNowokRm5rCR3ZFQO4,40.5982026,-73.7660006,Bravo Supermarkets,"32-11 Beach Channel Dr, Far Rockaway",3.9,457,414,16.4654487688642,zzw-224@627-tk4-st9,Food Universe Marketplace
+ChIJ3az-N45owokRni-1BG996NU,40.5931194,-73.7958048,66-16 Meat & Produce,"6614 Beach Channel Dr, Queens",4.3,65,414,16.4654487688642,22r-222@627-tk7-syv,66 16 Meat & Products
+ChIJZ_INuC5owokRuO3EsLMVj8Y,40.581865,-73.834981,Stop & Shop,"112-15 Beach Channel Dr, Queens",4.2,874,414,16.4654487688642,225-223@627-tmq-cwk,Stop & Shop
+ChIJQ13q7t9gwokRVJzJyZ5D21Q,40.7076869,-73.7960999,Green Farm Supermarket,"89-01 165th St, Queens",3.7,30,412,12.9886899506901,224-224@627-s9q-kpv,Green Farm Supermarket
+ChIJVeyBXcVgwokRaAiIWNjbsdA,40.7009383,-73.8081359,Jamaica Green Grocery,"91-06 Sutphin Blvd, Queens",4.4,20,412,12.9886899506901,22d-223@627-s9p-w6k,Long Island Grocery Deli
+ChIJ3V2ZZ4dCwokREakXrkiM3eg,40.5781273,-73.84941069999999,Belle Harbor Foods,"413 Beach 129th St, Queens",4.6,58,414,16.4654487688642,22n-222@627-tmp-pd9,Belle Harbor Foods Inc
