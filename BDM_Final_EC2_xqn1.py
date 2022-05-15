@@ -29,11 +29,13 @@ def main(sc):
 
   # STEP 1: FILTER MAIN DATAFRAME FOR VISITS TO NYC SUPERMARKETS USING nyc_supermarkets.csv
 
-  # Read nyc_supermarkets.csv and take columns of interest: safegraph_placekey (to match to main dataset), latitude and longitude
-  df_supermarkets = spark.read.csv('nyc_supermarkets.csv', header=True) \
-        .select('safegraph_placekey',
+  # Read core-places-nyc and filter for places with naics_code starting with 4451
+  df_supermarkets = spark.read.csv('/tmp/bdm/core-places-nyc/*', header=True) \
+        .select('placekey',
+        F.col('naics_code').cast(StringType()),
         F.col('latitude').alias('supermarkets_x').cast('float'),
         F.col('longitude').alias('supermarkets_y').cast('float')) \
+        .where(F.col('naics_subset').startswith('4451')) \
         .cache()
 
   # Inner join and filter main dataframe with df_supermarkets on placekeys
@@ -106,12 +108,14 @@ def main(sc):
   # Pivot by date
   # Sort by cbg_fips
 
+  months = ['2019-03','2019-10','2020-03','2020-10']
+
   df5 = df4.withColumn('dist', udf_dist(F.col('supermarkets_x'), F.col('supermarkets_y'), F.col('cbg_x'), F.col('cbg_y'))) \
     .select('cbg_fips','date','visitor_count',
                    F.col('dist').cast(FloatType())) \
     .groupBy('cbg_fips','date').sum('visitor_count','dist') \
     .withColumn('avg_dist', F.round(F.col('sum(dist)')/F.col('sum(visitor_count)'),2)) \
-    .groupBy('cbg_fips').pivot('date').sum('avg_dist') \
+    .groupBy('cbg_fips').pivot('date',months).sum('avg_dist') \
     .sort('cbg_fips') \
     .write.option('header','true') \
     .csv(sys.argv[1] if len(sys.argv)>1 else 'output')
