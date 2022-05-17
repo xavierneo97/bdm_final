@@ -31,7 +31,7 @@ def main(sc):
 
   # Filter main dataframe with df_supermarkets on placekeys
 
-  df = spark.read.csv('weekly-patterns-nyc-2019-2020-sample.csv',
+  df = spark.read.csv('/tmp/bdm/weekly-patterns-nyc-2019-2020/*',
                       header=True,
                       escape='\"') \
                       .select('placekey','poi_cbg','visitor_home_cbgs','date_range_start','date_range_end') \
